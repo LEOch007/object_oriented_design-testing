@@ -1,2 +1,6 @@
 # object_oriented_design-testing
- Include Object Oriented design and testing
+ Including:
+
+- Object Oriented testing
+- Object Oriented design
+- Mine issues information types from Open Source Software
