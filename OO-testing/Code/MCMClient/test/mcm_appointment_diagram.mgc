@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="mcm.InsertAppointment" x="131" y="220">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Association destinationClassName="mcm.Appointment"
+            endpointName="appointment" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+        <Communication destinationClassName="mcm.DeleteAppointment"/>
+        <Communication destinationClassName="mcm.GroupAppointment"/>
+        <Communication destinationClassName="mcm.Appointment"/>
+    </Class>
+    <Class name="mcm.Undo" x="594" y="229">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.Command"/>
+    </Class>
+    <Class name="mcm.Group" x="490" y="524">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="mcm.DeleteAppointment" x="369" y="223">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Association destinationClassName="mcm.Appointment"
+            endpointName="appointment" kind="Simple"/>
+        <Communication destinationClassName="mcm.InsertAppointment"/>
+        <Communication destinationClassName="mcm.Appointment"/>
+    </Class>
+    <Class name="mcm.Command" x="370" y="65">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="mcm.GroupAppointment" x="293" y="546">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Appointment"/>
+        <Association destinationClassName="mcm.Group"
+            endpointName="group" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+        <Communication destinationClassName="mcm.Appointment"/>
+    </Class>
+    <Class name="mcm.Appointment" x="278" y="384">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+</ClassDiagram>

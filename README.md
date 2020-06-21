@@ -1,6 +1,6 @@
 # object_oriented_design-testing
  Including:
 
-- Object Oriented testing
-- Object Oriented design
-- Mine issues information types from Open Source Software
+- Object Oriented testing (OO-testing)
+- Object Oriented design  (OO-design)
+- Mine issues information types from Open Source Software (OO-reading)

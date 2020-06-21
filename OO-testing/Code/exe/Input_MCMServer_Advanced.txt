@@ -1,0 +1,7518 @@
+
+register "Felix" "<email>" 
+register "Andrew" "<email>" 
+register "Mandy" "<email>" 
+register "Tracy" "<email>" 
+register "Andrew" "<email>" 
+register "carin" "<email>" 
+register "qoe" "<email>" 
+register "sqaure" "<email>" 
+register "Andrew" "<email>" 
+register "Kenny" "<email>" 
+register "CSC" "<email>" 
+register "Kenneth" "<email>" 
+register "Mandy" "<email>" 
+register "ar Lo" "<email>" 
+register "May" "<email>" 
+register "carin" "<email>" 
+remove "Professer"
+remove "Horner" "<email>" 
+
+remove "Professer"
+remove "Horner" "<email>" 
+invalid
+insert "14-01-1970 23:56" "17-01-1970 19:09" "<description>" Professer
+insert "13-01-1970 18:05" "04-01-1970 21:16" "<description>" student
+delete "19-01-1970 07:57"
+undo
+insert "23-01-1970 18:48" "10-01-1970 10:31" "<description>" flying
+join "committee"
+undo
+logoff
+join "flying"
+insert "10-01-1970 09:46" "03-01-1970 13:34" "<description>" COMP201
+insert "21-01-1970 10:58" "18-01-1970 16:38" "<description>" COMP201
+insert "15-01-1970 12:47" "26-01-1970 03:54" "<description>" COMP201
+create "group11"
+logoff
+invalid
+logoff
+undo
+delete "20-01-1970 11:52"
+delete "23-01-1970 05:04"
+create "pair"
+remove
+create "student"
+insert "02-01-1970 02:00" "03-01-1970 08:59" "<description>"
+delete "20-01-1970 23:50"
+logon "sqaure"
+insert "02-01-1970 17:49" "02-01-1970 04:58" "<description>" hiking
+withdraw
+insert "25-01-1970 20:08" "24-01-1970 15:53" "<description>" flying
+withdraw
+create "CSC"
+insert "05-01-1970 06:45" "14-01-1970 20:25" "<description>" flying
+insert "14-01-1970 03:31" "03-01-1970 09:09" "<description>" tv
+insert "13-01-1970 05:07" "09-01-1970 22:47" "<description>" playing
+logoff
+invalid
+delete "22-01-1970 12:46"
+create "flying"
+create "flying"
+logoff
+undo
+withdraw
+logoff
+undo
+delete "13-01-1970 19:28"
+delete "17-01-1970 13:31"
+remove
+create "House4"
+withdraw
+logon "qoe"
+remove
+undo
+invalid
+remove
+invalid
+delete "24-01-1970 19:04"
+delete "10-01-1970 09:08"
+logon "CSC"
+join "hiking"
+delete "02-01-1970 18:24"
+invalid
+logoff
+undo
+invalid
+insert "13-01-1970 05:16" "25-01-1970 15:13" "<description>" student
+logon "Horner"
+delete "24-01-1970 22:46"
+insert "25-01-1970 02:51" "13-01-1970 01:57" "<description>" Professer
+create "House2"
+logoff
+undo
+join "COMP104"
+remove
+create "student"
+invalid
+undo
+delete "23-01-1970 04:29"
+undo
+join "House4"
+join "KAROAKE"
+withdraw
+logon "invalid"
+remove
+insert "25-01-1970 22:00" "05-01-1970 09:38" "<description>" House4
+delete "23-01-1970 13:22"
+insert "19-01-1970 14:48" "12-01-1970 09:36" "<description>" CSC
+join "tv"
+undo
+insert "18-01-1970 10:44" "11-01-1970 02:10" "<description>" tv
+withdraw
+join "tv"
+insert "02-01-1970 11:52" "15-01-1970 06:28" "<description>" csFamily
+insert "25-01-1970 13:31" "26-01-1970 00:49" "<description>" hiking
+delete "24-01-1970 09:39"
+insert "07-01-1970 02:34" "17-01-1970 10:23" "<description>"
+undo
+remove
+withdraw
+remove
+remove "group11" fake
+
+remove "group11" fake
+logoff
+undo
+insert "02-01-1970 01:28" "25-01-1970 15:15" "<description>" playing
+create "joking"
+invalid
+invalid
+delete "06-01-1970 20:16"
+remove
+remove
+remove
+insert "16-01-1970 22:56" "17-01-1970 15:11" "<description>" pair
+remove
+undo
+invalid
+logoff
+create "House2"
+insert "07-01-1970 14:06" "13-01-1970 02:30" "<description>" COMP104
+logon "CSC"
+invalid
+insert "07-01-1970 00:21" "02-01-1970 08:30" "<description>" drawing
+logoff
+remove
+join "CSC"
+delete "05-01-1970 08:52"
+remove "House2"
+insert "04-01-1970 19:36" "07-01-1970 16:30" "<description>" House4
+undo
+delete "03-01-1970 23:06"
+undo
+delete "21-01-1970 08:56"
+remove
+insert "22-01-1970 21:30" "09-01-1970 19:22" "<description>" hiking
+undo
+logon "Kenneth"
+withdraw
+insert "05-01-1970 12:05" "12-01-1970 02:55" "<description>"
+insert "02-01-1970 18:43" "02-01-1970 00:39" "<description>" group11
+withdraw
+withdraw
+delete "02-01-1970 12:14"
+delete "05-01-1970 18:51"
+insert "10-01-1970 11:39" "17-01-1970 08:37" "<description>" tv
+remove
+logoff
+insert "13-01-1970 03:32" "08-01-1970 07:26" "<description>" drawing
+logoff
+insert "23-01-1970 15:04" "12-01-1970 09:42" "<description>" COMP201
+insert "22-01-1970 10:49" "02-01-1970 07:32" "<description>" KAROAKE
+logon "Kenneth"
+logoff
+undo
+remove
+insert "13-01-1970 09:13" "08-01-1970 07:50" "<description>" flying
+insert "21-01-1970 08:43" "20-01-1970 16:08" "<description>" pair
+remove
+invalid
+withdraw
+delete "04-01-1970 07:02"
+logoff
+remove
+withdraw
+insert "25-01-1970 10:55" "12-01-1970 23:20" "<description>" committee
+join "pair"
+remove
+create "committee"
+create "House2"
+logoff
+logon "Apple"
+join "TV"
+insert "11-01-1970 07:16" "26-01-1970 00:54" "<description>" COMP201
+undo
+invalid
+invalid
+join "tv"
+logon "Felix"
+undo
+remove
+create "KAROAKE"
+insert "03-01-1970 07:09" "19-01-1970 22:54" "<description>"
+remove
+undo
+insert "07-01-1970 05:59" "16-01-1970 12:19" "<description>" COMP201
+withdraw
+insert "04-01-1970 10:01" "18-01-1970 23:14" "<description>"
+insert "17-01-1970 00:14" "23-01-1970 11:15" "<description>" COMP104
+undo
+undo
+remove
+logon "ar Lo"
+logon "Felix"
+invalid
+insert "03-01-1970 19:59" "13-01-1970 16:11" "<description>" joking
+create "House4"
+remove
+undo
+insert "25-01-1970 17:18" "09-01-1970 23:07" "<description>" pair
+insert "03-01-1970 16:34" "21-01-1970 17:14" "<description>"
+logon "qoe"
+create "group11"
+remove "tv"
+remove "Bonnie"  "<email>" 
+
+remove "tv"
+remove "Bonnie"  "<email>" 
+remove
+create "House4"
+invalid
+insert "17-01-1970 22:59" "20-01-1970 06:21" "<description>" TV
+delete "18-01-1970 20:49"
+delete "14-01-1970 07:11"
+insert "16-01-1970 19:08" "14-01-1970 13:25" "<description>"
+logoff
+logoff
+logoff
+invalid
+insert "15-01-1970 21:23" "06-01-1970 00:54" "<description>" drawing
+remove
+join "hiking"
+insert "03-01-1970 09:27" "21-01-1970 05:58" "<description>" student
+insert "17-01-1970 01:09" "07-01-1970 10:07" "<description>" group11
+insert "06-01-1970 05:41" "23-01-1970 18:56" "<description>" student
+join "student"
+withdraw
+remove
+insert "02-01-1970 02:06" "23-01-1970 10:33" "<description>"
+join "Professer"
+withdraw
+delete "17-01-1970 21:42"
+insert "22-01-1970 13:19" "16-01-1970 10:01" "<description>" pair
+invalid
+join "drawing"
+invalid
+insert "06-01-1970 03:33" "11-01-1970 23:47" "<description>" csFamily
+withdraw
+invalid
+remove
+insert "02-01-1970 19:54" "02-01-1970 13:22" "<description>" COMP201
+withdraw
+delete "18-01-1970 01:50"
+create "House2"
+logon "Kenneth"
+insert "04-01-1970 15:49" "07-01-1970 17:39" "<description>" TV
+logon "Andrew"
+logoff
+join "TV"
+invalid
+invalid
+create "flying"
+insert "06-01-1970 10:52" "24-01-1970 14:49" "<description>" CSC
+insert "18-01-1970 00:36" "15-01-1970 18:26" "<description>" hiking
+join "pair"
+remove
+undo
+create "House2"
+withdraw
+logon "ar Lo"
+delete "04-01-1970 07:14"
+withdraw
+create "csFamily"
+undo
+undo
+logon "fail"
+remove
+withdraw
+join "hiking"
+logoff
+join "drawing"
+remove
+insert "17-01-1970 20:38" "18-01-1970 05:35" "<description>" House4
+logoff
+logoff
+withdraw
+logon "sqaure"
+create "playing"
+insert "04-01-1970 13:33" "11-01-1970 02:29" "<description>" Professer
+withdraw
+withdraw
+join "flying"
+insert "22-01-1970 17:23" "06-01-1970 17:58" "<description>"
+withdraw
+insert "25-01-1970 18:23" "23-01-1970 01:05" "<description>"
+logoff
+remove
+create "TV"
+insert "13-01-1970 17:50" "03-01-1970 19:42" "<description>" KAROAKE
+withdraw
+insert "18-01-1970 17:11" "03-01-1970 03:16" "<description>"
+delete "24-01-1970 19:03"
+join "CSC"
+withdraw
+delete "25-01-1970 15:46"
+delete "17-01-1970 15:49"
+delete "08-01-1970 23:03"
+logoff
+withdraw
+create "pair"
+insert "24-01-1970 05:49" "17-01-1970 22:48" "<description>" csFamily
+logoff
+insert "02-01-1970 17:55" "24-01-1970 04:43" "<description>"
+insert "15-01-1970 19:54" "16-01-1970 03:58" "<description>" House2
+insert "18-01-1970 00:59" "25-01-1970 02:24" "<description>" Professer
+logon "triangle"
+logoff
+invalid fake
+
+invalid fake
+insert "16-01-1970 09:11" "02-01-1970 08:08" "<description>" CSC
+create "student"
+create "CSC"
+withdraw
+undo
+insert "24-01-1970 20:25" "24-01-1970 10:56" "<description>" student
+insert "03-01-1970 07:11" "24-01-1970 01:22" "<description>" CSC
+logon "Kenny"
+remove
+logon "fail"
+create "tv"
+remove
+withdraw
+insert "13-01-1970 19:02" "24-01-1970 19:49" "<description>" committee
+insert "24-01-1970 04:30" "10-01-1970 21:30" "<description>"
+create "joking"
+join "COMP201"
+join "pair"
+insert "03-01-1970 11:05" "15-01-1970 14:49" "<description>" group11
+logon "Mandy"
+insert "03-01-1970 20:20" "25-01-1970 06:38" "<description>" Professer
+logoff
+remove
+insert "24-01-1970 20:39" "07-01-1970 15:45" "<description>" drawing
+invalid
+insert "24-01-1970 03:57" "13-01-1970 04:05" "<description>" drawing
+logon "Andrew"
+create "csFamily"
+logon "Apple"
+logon "Andrew"
+remove
+logon "Mandy"
+insert "14-01-1970 17:33" "24-01-1970 07:08" "<description>" tv
+invalid
+join "flying"
+undo
+logon "Kenny"
+delete "16-01-1970 22:28"
+logoff
+delete "13-01-1970 10:46"
+withdraw
+delete "25-01-1970 08:00"
+undo
+logon "fail"
+logoff
+create "pair"
+join "group11"
+logon "May"
+undo
+delete "09-01-1970 12:44"
+join "KAROAKE"
+insert "18-01-1970 12:14" "17-01-1970 04:25" "<description>" House2
+logon "Kenny"
+insert "03-01-1970 00:25" "19-01-1970 20:10" "<description>"
+remove
+withdraw
+insert "22-01-1970 08:28" "13-01-1970 11:56" "<description>" student
+logoff
+delete "23-01-1970 16:47"
+logoff
+insert "16-01-1970 13:42" "06-01-1970 09:47" "<description>" CSC
+insert "06-01-1970 23:24" "21-01-1970 07:09" "<description>" csFamily
+insert "01-01-1970 12:10" "25-01-1970 20:09" "<description>"
+remove
+logon "ar Lo"
+invalid
+invalid
+create "CSC"
+insert "02-01-1970 21:25" "06-01-1970 19:32" "<description>" playing
+insert "21-01-1970 11:35" "23-01-1970 00:22" "<description>" csFamily
+withdraw
+insert "23-01-1970 21:04" "13-01-1970 15:55" "<description>" playing
+insert "25-01-1970 06:07" "09-01-1970 02:39" "<description>" House2
+remove
+logon "Jon"
+insert "21-01-1970 07:38" "07-01-1970 06:25" "<description>" group11
+undo
+join "csFamily"
+withdraw
+remove
+invalid
+insert "06-01-1970 11:45" "04-01-1970 01:37" "<description>" hiking
+remove
+undo
+delete "22-01-1970 03:31"
+create "House2"
+logoff
+create "CSC"
+delete "25-01-1970 18:55"
+remove
+withdraw
+logoff
+insert "13-01-1970 23:59" "03-01-1970 03:22" "<description>" KAROAKE
+withdraw
+withdraw
+logoff
+insert "19-01-1970 17:55" "21-01-1970 15:26" "<description>"
+logoff
+insert "03-01-1970 11:34" "21-01-1970 23:36" "<description>" playing
+logoff
+logoff "fail" "<email>" 
+
+logoff
+logoff "fail" "<email>" 
+invalid
+insert "14-01-1970 08:03" "08-01-1970 04:54" "<description>" COMP104
+insert "25-01-1970 03:38" "06-01-1970 06:14" "<description>" student
+insert "22-01-1970 21:00" "17-01-1970 13:23" "<description>" drawing
+logoff
+insert "20-01-1970 18:14" "22-01-1970 14:52" "<description>" TV
+delete "23-01-1970 21:37"
+withdraw
+join "csFamily"
+undo
+logon "Jon"
+insert "23-01-1970 20:51" "16-01-1970 20:09" "<description>" playing
+insert "04-01-1970 09:05" "23-01-1970 05:28" "<description>"
+insert "08-01-1970 10:25" "25-01-1970 07:52" "<description>"
+remove
+invalid
+undo
+undo
+delete "22-01-1970 22:20"
+undo
+create "COMP201"
+logoff
+undo
+undo
+withdraw "flying"
+withdraw
+invalid
+invalid
+remove
+join "drawing"
+logoff
+insert "04-01-1970 07:04" "19-01-1970 09:02" "<description>" committee
+insert "04-01-1970 17:13" "10-01-1970 08:26" "<description>" COMP201
+withdraw
+remove
+insert "23-01-1970 00:08" "12-01-1970 17:01" "<description>"
+remove
+logoff
+insert "15-01-1970 13:19" "19-01-1970 19:10" "<description>" House2
+remove
+invalid
+delete "17-01-1970 01:37"
+invalid
+delete "01-01-1970 08:08"
+insert "15-01-1970 04:16" "25-01-1970 10:23" "<description>" KAROAKE
+undo
+create "hiking"
+insert "20-01-1970 02:39" "25-01-1970 06:21" "<description>" Professer
+insert "19-01-1970 16:06" "10-01-1970 18:11" "<description>"
+remove "CSC"
+logon "Andrea"
+delete "02-01-1970 10:38"
+invalid
+insert "19-01-1970 20:34" "04-01-1970 15:05" "<description>" COMP104
+logoff
+undo
+logon "Jon"
+logoff
+withdraw
+insert "11-01-1970 19:47" "17-01-1970 15:18" "<description>" Professer
+logoff
+create "KAROAKE"
+remove
+delete "13-01-1970 05:48"
+invalid
+insert "23-01-1970 01:40" "22-01-1970 15:01" "<description>" pair
+delete "05-01-1970 03:35"
+delete "24-01-1970 17:49"
+logon "Kenny"
+join "COMP104"
+undo
+join "TV"
+delete "11-01-1970 07:55"
+insert "01-01-1970 13:29" "10-01-1970 01:24" "<description>" playing
+invalid
+withdraw
+create "CSC"
+join "CSC"
+create "hiking"
+delete "11-01-1970 17:09"
+undo
+undo
+create "TV"
+remove
+logon "invalid"
+logon "qoe"
+delete "06-01-1970 05:31"
+insert "20-01-1970 01:21" "23-01-1970 16:36" "<description>" COMP104
+insert "01-01-1970 23:48" "22-01-1970 08:34" "<description>" flying
+remove
+undo
+insert "11-01-1970 07:10" "22-01-1970 02:17" "<description>" House2
+insert "09-01-1970 20:02" "09-01-1970 10:56" "<description>" TV
+invalid
+insert "23-01-1970 11:38" "14-01-1970 21:44" "<description>"
+invalid
+insert "01-01-1970 23:11" "12-01-1970 05:34" "<description>" joking
+invalid
+logon "Bonnie"
+insert "10-01-1970 09:01" "01-01-1970 15:25" "<description>"
+insert "Mandy" "<email>" 
+
+insert "10-01-1970 09:01" "01-01-1970 15:25" "<description>"
+insert "Mandy" "<email>" 
+undo
+insert "03-01-1970 03:07" "10-01-1970 22:04" "<description>" drawing
+delete "22-01-1970 01:10"
+undo
+undo
+undo
+invalid
+withdraw
+logoff
+delete "12-01-1970 03:31"
+insert "11-01-1970 12:30" "04-01-1970 18:00" "<description>"
+insert "16-01-1970 05:55" "11-01-1970 13:39" "<description>" hiking
+remove
+logoff
+undo
+create "flying"
+insert "02-01-1970 16:05" "09-01-1970 11:16" "<description>" TV
+insert "22-01-1970 07:57" "15-01-1970 19:32" "<description>" pair
+create "csFamily"
+withdraw
+insert "12-01-1970 13:41" "20-01-1970 03:36" "<description>" tv
+remove
+create "student"
+insert "16-01-1970 16:48" "17-01-1970 11:22" "<description>"
+insert "11-01-1970 07:06" "15-01-1970 09:17" "<description>"
+insert "22-01-1970 10:37" "17-01-1970 21:05" "<description>"
+insert "23-01-1970 12:16" "20-01-1970 10:55" "<description>" TV
+logon "invalid"
+insert "05-01-1970 03:21" "06-01-1970 16:44" "<description>"
+logoff
+logoff
+undo
+insert "13-01-1970 08:25" "06-01-1970 10:17" "<description>"
+join "csFamily"
+invalid
+invalid
+withdraw
+create "drawing"
+insert "10-01-1970 12:20" "04-01-1970 08:43" "<description>" playing
+remove
+join "COMP201"
+insert "06-01-1970 16:42" "10-01-1970 01:15" "<description>" joking
+insert "11-01-1970 04:06" "23-01-1970 18:08" "<description>"
+insert "07-01-1970 10:46" "23-01-1970 13:20" "<description>"
+invalid
+undo
+insert "22-01-1970 04:44" "24-01-1970 02:02" "<description>" pair
+delete "15-01-1970 11:09"
+withdraw
+remove "COMP201"
+withdraw
+insert "03-01-1970 03:44" "18-01-1970 10:34" "<description>" drawing
+logon "Apple"
+insert "23-01-1970 02:36" "21-01-1970 17:49" "<description>" flying
+logoff
+logon "Apple"
+withdraw
+logon "Mandy"
+withdraw
+insert "19-01-1970 21:34" "13-01-1970 19:28" "<description>" csFamily
+withdraw
+logoff
+insert "24-01-1970 05:49" "20-01-1970 15:39" "<description>" flying
+insert "21-01-1970 22:32" "14-01-1970 12:09" "<description>" pair
+delete "01-01-1970 17:02"
+logon "ar Lo"
+insert "19-01-1970 09:33" "19-01-1970 21:39" "<description>"
+insert "20-01-1970 13:56" "10-01-1970 20:18" "<description>" CSC
+insert "15-01-1970 02:28" "21-01-1970 04:12" "<description>" drawing
+insert "16-01-1970 05:45" "25-01-1970 14:06" "<description>"
+remove
+logon "Felix"
+join "hiking"
+insert "22-01-1970 00:38" "22-01-1970 04:46" "<description>" group11
+withdraw "committee"
+insert "22-01-1970 06:48" "04-01-1970 07:59" "<description>" csFamily
+undo
+insert "13-01-1970 17:07" "06-01-1970 19:09" "<description>"
+delete "16-01-1970 04:36"
+undo
+undo
+undo
+undo
+insert "01-01-1970 22:40" "07-01-1970 20:01" "<description>" House4
+insert "02-01-1970 11:14" "08-01-1970 12:48" "<description>"
+delete "01-01-1970 09:37"
+insert "09-01-1970 17:39" "02-01-1970 20:50" "<description>" joking
+insert "23-01-1970 18:47" "19-01-1970 12:50" "<description>" Professer
+withdraw
+insert "04-01-1970 11:59" "26-01-1970 00:26" "<description>" tv
+invalid
+undo
+undo
+invalid
+insert "03-01-1970 04:38" "10-01-1970 03:01" "<description>" committee
+remove
+logon "CSC"
+undo
+invalid
+remove "pair"
+remove "fail" "<email>" 
+
+remove "pair"
+remove "fail" "<email>" 
+undo
+insert "05-01-1970 20:04" "19-01-1970 09:18" "<description>" flying
+invalid
+join "drawing"
+invalid
+insert "21-01-1970 10:27" "14-01-1970 00:40" "<description>"
+remove
+withdraw
+logon "qoe"
+insert "18-01-1970 06:05" "16-01-1970 12:36" "<description>" COMP104
+delete "06-01-1970 13:51"
+create "COMP104"
+logoff
+create "hiking"
+undo
+delete "04-01-1970 21:19"
+insert "18-01-1970 12:18" "17-01-1970 06:55" "<description>" House2
+insert "14-01-1970 22:54" "17-01-1970 13:52" "<description>" joking
+remove
+logon "Kenny"
+logon "fail"
+insert "20-01-1970 14:39" "13-01-1970 18:31" "<description>" playing
+logoff
+join "COMP201"
+join "drawing"
+insert "05-01-1970 07:29" "02-01-1970 04:08" "<description>"
+undo
+withdraw
+withdraw
+withdraw
+insert "07-01-1970 20:50" "24-01-1970 11:35" "<description>"
+join "COMP201"
+withdraw
+logoff
+insert "22-01-1970 08:02" "18-01-1970 00:24" "<description>" pair
+undo
+logoff
+insert "11-01-1970 15:36" "26-01-1970 02:07" "<description>" pair
+insert "08-01-1970 08:16" "10-01-1970 04:12" "<description>" group11
+create "flying"
+join "Professer"
+logon "Bonnie"
+withdraw
+withdraw
+insert "24-01-1970 03:17" "13-01-1970 11:09" "<description>"
+logoff
+logon "Kenneth"
+create "playing"
+logon "Tracy"
+delete "02-01-1970 18:37"
+insert "19-01-1970 14:54" "13-01-1970 05:04" "<description>" hiking
+join "csFamily"
+withdraw
+withdraw
+insert "24-01-1970 22:17" "07-01-1970 21:25" "<description>" joking
+logoff
+insert "14-01-1970 08:54" "18-01-1970 13:05" "<description>" KAROAKE
+insert "04-01-1970 02:41" "09-01-1970 13:15" "<description>"
+create "TV"
+logon "Mandy"
+delete "02-01-1970 10:37"
+withdraw
+delete "09-01-1970 07:03"
+join "csFamily"
+join "Professer"
+join "House4"
+insert "23-01-1970 03:21" "09-01-1970 00:30" "<description>"
+undo
+undo
+logoff
+delete "19-01-1970 10:30"
+create "group11"
+invalid
+join "House4"
+insert "21-01-1970 19:02" "12-01-1970 17:01" "<description>"
+logoff
+delete "20-01-1970 01:07"
+join "drawing"
+invalid
+delete "16-01-1970 05:32"
+join "hiking"
+delete "19-01-1970 07:05"
+insert "05-01-1970 03:10" "03-01-1970 10:45" "<description>" pair
+remove
+insert "01-01-1970 23:51" "03-01-1970 06:21" "<description>" COMP201
+logon "sqaure"
+delete "21-01-1970 05:21"
+insert "10-01-1970 13:07" "11-01-1970 07:15" "<description>" Professer
+insert "15-01-1970 23:01" "25-01-1970 06:26" "<description>" joking
+delete "19-01-1970 05:34"
+withdraw
+logoff
+withdraw
+logoff
+delete "20-01-1970 13:03"
+invalid
+logoff
+undo
+join "group11"
+insert "15-01-1970 00:07" "18-01-1970 01:23" "<description>" CSC fake
+
+insert "15-01-1970 00:07" "18-01-1970 01:23" "<description>" CSC fake
+create "pair"
+undo
+remove
+logoff
+insert "01-01-1970 18:38" "13-01-1970 22:46" "<description>"
+invalid
+insert "08-01-1970 18:23" "16-01-1970 23:37" "<description>" drawing
+delete "12-01-1970 20:36"
+undo
+invalid
+create "House4"
+undo
+undo
+create "House4"
+logon "Andrew"
+logoff
+logoff
+logoff
+logon "Tracy"
+undo
+insert "08-01-1970 09:21" "26-01-1970 00:15" "<description>"
+delete "02-01-1970 07:27"
+logon "CSC"
+insert "09-01-1970 13:14" "23-01-1970 16:52" "<description>" group11
+delete "02-01-1970 08:01"
+delete "02-01-1970 22:14"
+undo
+logoff
+join "COMP104"
+logoff
+invalid
+create "CSC"
+logoff
+remove
+insert "18-01-1970 17:46" "11-01-1970 09:09" "<description>" Professer
+logon "Andrea"
+logoff
+insert "07-01-1970 03:16" "22-01-1970 07:49" "<description>" KAROAKE
+undo
+insert "09-01-1970 05:55" "09-01-1970 10:13" "<description>" Professer
+logoff
+logon "Andrea"
+logon "Apple"
+logoff
+logon "CSC"
+logoff
+delete "17-01-1970 17:03"
+undo
+join "tv"
+withdraw "group11"
+remove
+create "House2"
+invalid
+logoff
+insert "11-01-1970 07:53" "13-01-1970 12:49" "<description>" playing
+join "House2"
+logoff
+insert "14-01-1970 23:21" "02-01-1970 19:41" "<description>"
+logoff
+create "tv"
+undo
+withdraw
+delete "20-01-1970 09:38"
+logoff
+insert "16-01-1970 09:04" "22-01-1970 18:39" "<description>" tv
+insert "09-01-1970 03:30" "04-01-1970 10:22" "<description>" pair
+join "Professer"
+logon "May"
+insert "22-01-1970 08:27" "23-01-1970 18:48" "<description>" committee
+undo
+logoff
+logon "Tracy"
+insert "16-01-1970 20:55" "23-01-1970 17:15" "<description>" KAROAKE
+withdraw
+create "playing"
+delete "22-01-1970 15:20"
+insert "14-01-1970 19:20" "07-01-1970 04:15" "<description>" KAROAKE
+join "CSC"
+remove
+insert "01-01-1970 13:30" "06-01-1970 01:38" "<description>"
+undo
+logoff
+invalid
+join "COMP104"
+withdraw
+withdraw
+logoff
+remove
+logon "Kenneth"
+remove
+logon "Kenny"
+insert "05-01-1970 11:19" "06-01-1970 17:19" "<description>"
+join "COMP201"
+insert "05-01-1970 22:08" "19-01-1970 20:58" "<description>" student
+withdraw
+delete "03-01-1970 17:17"
+remove
+insert "13-01-1970 16:06" "12-01-1970 18:53" "<description>" tv
+logon "ar Lo"
+logoff
+logoff "May"  "<email>"  fake
+
+logoff
+logoff "May"  "<email>"  fake
+insert "14-01-1970 18:19" "26-01-1970 00:35" "<description>" Professer
+withdraw
+insert "23-01-1970 17:56" "15-01-1970 11:31" "<description>" joking
+invalid
+undo
+delete "01-01-1970 08:33"
+insert "15-01-1970 12:15" "03-01-1970 03:06" "<description>"
+insert "25-01-1970 06:19" "15-01-1970 02:44" "<description>" Professer
+undo
+withdraw
+withdraw
+logon "Horner"
+logoff
+insert "13-01-1970 07:07" "07-01-1970 04:34" "<description>" Professer
+invalid
+undo
+insert "17-01-1970 15:25" "24-01-1970 00:54" "<description>" House2
+insert "21-01-1970 12:39" "08-01-1970 16:03" "<description>" TV
+delete "11-01-1970 06:33"
+withdraw
+join "playing"
+withdraw
+withdraw
+logon "Jon"
+remove "drawing"
+join "joking"
+insert "01-01-1970 19:41" "20-01-1970 08:20" "<description>" csFamily
+withdraw
+logon "triangle"
+insert "11-01-1970 02:38" "04-01-1970 12:53" "<description>" group11
+insert "04-01-1970 17:01" "20-01-1970 07:22" "<description>"
+invalid
+delete "16-01-1970 22:56"
+remove
+logoff
+logon "Andrea"
+logon "carin"
+logon "Andrea"
+withdraw
+delete "21-01-1970 19:56"
+undo
+insert "02-01-1970 01:39" "25-01-1970 14:22" "<description>" committee
+join "joking"
+logon "Jon"
+logon "invalid"
+logon "Kenny"
+insert "14-01-1970 11:32" "10-01-1970 13:43" "<description>" group11
+logon "Horner"
+insert "13-01-1970 08:29" "03-01-1970 03:02" "<description>" Professer
+insert "09-01-1970 06:02" "19-01-1970 11:26" "<description>" joking
+withdraw
+delete "13-01-1970 05:03"
+logon "carin"
+insert "02-01-1970 23:39" "11-01-1970 18:14" "<description>" COMP104
+remove
+create "hiking"
+join "csFamily"
+delete "08-01-1970 16:10"
+undo
+remove
+delete "10-01-1970 04:14"
+logoff
+undo
+invalid
+invalid
+logoff
+insert "07-01-1970 21:03" "24-01-1970 20:35" "<description>" student
+delete "13-01-1970 04:32"
+delete "12-01-1970 06:36"
+invalid
+undo
+withdraw
+insert "10-01-1970 03:45" "06-01-1970 14:16" "<description>"
+logoff
+remove "group11"
+insert "06-01-1970 14:05" "15-01-1970 02:46" "<description>" CSC
+join "flying"
+logoff
+delete "04-01-1970 08:18"
+delete "21-01-1970 13:22"
+insert "07-01-1970 06:47" "04-01-1970 05:14" "<description>" playing
+logon "Tracy"
+insert "02-01-1970 18:21" "22-01-1970 11:05" "<description>" tv
+insert "09-01-1970 19:21" "02-01-1970 05:09" "<description>" group11
+join "tv"
+insert "10-01-1970 20:17" "08-01-1970 03:36" "<description>" drawing
+logoff
+insert "24-01-1970 02:04" "02-01-1970 02:56" "<description>" committee
+remove
+undo
+create "House2"
+insert "17-01-1970 05:33" "02-01-1970 22:26" "<description>" KAROAKE
+undo
+insert "03-01-1970 08:24" "14-01-1970 14:16" "<description>" House4
+logoff
+join "hiking"
+invalid
+insert "22-01-1970 17:00" "20-01-1970 18:28" "<description>" joking
+insert "03-01-1970 21:14" "07-01-1970 13:41" "<description>" drawing
+delete "11-01-1970 21:03"
+delete "Tracy" "<email>"  fake
+
+delete "11-01-1970 21:03"
+delete "Tracy" "<email>"  fake
+undo
+logon "Mandy"
+insert "09-01-1970 15:45" "02-01-1970 07:41" "<description>" House4
+withdraw
+invalid
+logoff
+insert "17-01-1970 02:29" "17-01-1970 16:52" "<description>" COMP201
+create "KAROAKE"
+undo
+insert "23-01-1970 18:46" "14-01-1970 13:29" "<description>"
+undo
+join "csFamily"
+undo
+undo
+insert "25-01-1970 01:42" "03-01-1970 13:35" "<description>" flying
+insert "14-01-1970 00:58" "09-01-1970 00:19" "<description>"
+remove
+insert "22-01-1970 18:40" "25-01-1970 11:27" "<description>" COMP104
+invalid
+insert "16-01-1970 10:38" "20-01-1970 19:50" "<description>"
+logon "Tracy"
+remove
+insert "19-01-1970 02:30" "26-01-1970 00:29" "<description>" CSC
+insert "03-01-1970 00:02" "07-01-1970 02:55" "<description>"
+logon "Kenny"
+insert "06-01-1970 18:31" "16-01-1970 01:36" "<description>" TV
+insert "09-01-1970 20:31" "15-01-1970 18:33" "<description>"
+logon "Tracy"
+create "House2"
+invalid
+withdraw
+delete "03-01-1970 20:02"
+delete "19-01-1970 03:36"
+create "joking"
+insert "07-01-1970 05:23" "25-01-1970 08:51" "<description>" House2
+logoff
+remove
+remove
+insert "04-01-1970 07:29" "09-01-1970 02:05" "<description>" joking
+invalid
+logon "Bear"
+insert "06-01-1970 09:40" "20-01-1970 01:04" "<description>" TV
+join "pair"
+invalid
+logon "Andrea"
+create "committee"
+insert "19-01-1970 02:04" "02-01-1970 21:40" "<description>" drawing
+remove
+insert "11-01-1970 03:19" "07-01-1970 16:59" "<description>" csFamily
+insert "19-01-1970 00:11" "25-01-1970 18:16" "<description>" csFamily
+insert "09-01-1970 20:18" "19-01-1970 13:50" "<description>" TV
+logon "Andrea"
+join "KAROAKE"
+undo
+join "TV"
+withdraw
+logon "Jon"
+insert "09-01-1970 03:06" "15-01-1970 06:17" "<description>"
+remove
+logon "Felix"
+create "group11"
+undo
+join "Professer"
+delete "09-01-1970 15:21"
+logon "carin"
+remove
+delete "04-01-1970 23:11"
+logon "Kenneth"
+delete "14-01-1970 23:52"
+join "pair"
+undo
+delete "06-01-1970 19:55"
+join "CSC"
+insert "13-01-1970 05:26" "02-01-1970 22:40" "<description>"
+undo
+create "House4"
+withdraw
+logoff
+logoff
+logoff
+insert "07-01-1970 05:21" "12-01-1970 12:03" "<description>" pair
+insert "04-01-1970 09:26" "25-01-1970 21:57" "<description>" CSC
+create "House4"
+logoff
+invalid
+insert "19-01-1970 15:39" "12-01-1970 07:53" "<description>" TV
+insert "25-01-1970 11:06" "12-01-1970 07:22" "<description>" TV
+invalid
+undo
+invalid
+remove
+delete "22-01-1970 21:03"
+insert "08-01-1970 13:27" "16-01-1970 12:34" "<description>"
+join "csFamily"
+undo
+join "hiking"
+join "flying"
+undo
+invalid
+create "csFamily"
+create "Kenny"  "<email>" 
+
+create "csFamily"
+create "Kenny"  "<email>" 
+insert "03-01-1970 18:29" "22-01-1970 16:23" "<description>"
+insert "25-01-1970 17:40" "03-01-1970 16:32" "<description>" KAROAKE
+delete "10-01-1970 15:17"
+join "Professer"
+delete "13-01-1970 13:54"
+create "pair"
+insert "12-01-1970 02:41" "20-01-1970 05:07" "<description>" joking
+join "committee"
+logoff
+create "drawing"
+invalid
+logon "Bear"
+withdraw
+remove
+invalid
+logoff
+create "CSC"
+undo
+undo
+logoff
+join "CSC"
+logoff
+remove
+invalid
+insert "25-01-1970 03:40" "14-01-1970 19:22" "<description>" csFamily
+logoff
+create "hiking"
+remove
+insert "02-01-1970 16:50" "18-01-1970 23:20" "<description>" tv
+invalid
+logoff
+remove
+withdraw
+remove
+insert "03-01-1970 01:24" "04-01-1970 12:52" "<description>" drawing
+join "committee"
+invalid
+logon "Andrew"
+logoff
+insert "11-01-1970 08:21" "14-01-1970 20:02" "<description>" flying
+undo
+insert "10-01-1970 19:43" "09-01-1970 10:05" "<description>" drawing
+create "hiking"
+insert "02-01-1970 11:29" "10-01-1970 23:40" "<description>" joking
+create "drawing"
+insert "21-01-1970 21:18" "08-01-1970 03:37" "<description>" tv
+create "pair"
+insert "02-01-1970 04:17" "18-01-1970 13:13" "<description>" House4
+join "committee"
+logon "carin"
+invalid
+withdraw
+create "drawing"
+insert "02-01-1970 18:34" "03-01-1970 10:12" "<description>" student
+insert "21-01-1970 05:58" "16-01-1970 17:16" "<description>"
+insert "24-01-1970 02:00" "03-01-1970 17:32" "<description>"
+delete "20-01-1970 01:09"
+undo
+delete "10-01-1970 11:27"
+logon "Apple"
+undo
+withdraw
+undo
+invalid
+undo
+join "Professer"
+insert "05-01-1970 21:58" "06-01-1970 20:17" "<description>" joking
+logon "Horner"
+withdraw
+undo
+withdraw
+logon "fail"
+withdraw
+logoff
+create "hiking"
+create "hiking"
+withdraw
+undo
+insert "07-01-1970 06:21" "10-01-1970 14:01" "<description>" House2
+undo
+delete "08-01-1970 14:42"
+withdraw
+insert "25-01-1970 18:34" "24-01-1970 11:27" "<description>" House4
+invalid
+create "joking"
+invalid
+remove
+insert "02-01-1970 07:30" "09-01-1970 06:35" "<description>"
+delete "09-01-1970 10:39"
+create "pair"
+join "pair"
+invalid
+remove
+withdraw
+remove
+create "CSC"
+withdraw
+invalid
+withdraw
+delete "14-01-1970 10:55" fake
+
+delete "14-01-1970 10:55" fake
+undo
+insert "21-01-1970 12:15" "22-01-1970 02:45" "<description>" playing
+logoff
+logoff
+remove
+create "joking"
+logoff
+join "playing"
+logon "fail"
+create "group11"
+undo
+remove
+insert "10-01-1970 18:35" "16-01-1970 08:48" "<description>" group11
+logoff
+create "committee"
+undo
+insert "20-01-1970 07:35" "20-01-1970 12:40" "<description>" COMP104
+invalid
+insert "03-01-1970 05:16" "20-01-1970 07:16" "<description>" House4
+insert "12-01-1970 21:20" "22-01-1970 07:22" "<description>" Professer
+join "flying"
+insert "16-01-1970 17:07" "13-01-1970 14:16" "<description>"
+invalid
+join "csFamily"
+delete "16-01-1970 18:18"
+create "playing"
+insert "01-01-1970 08:00" "05-01-1970 14:41" "<description>" House4
+remove
+logoff
+create "student"
+join "committee"
+join "KAROAKE"
+insert "04-01-1970 18:33" "14-01-1970 01:17" "<description>" KAROAKE
+insert "06-01-1970 23:34" "24-01-1970 08:03" "<description>" tv
+insert "13-01-1970 21:29" "13-01-1970 05:57" "<description>" flying
+insert "06-01-1970 23:10" "21-01-1970 08:43" "<description>" committee
+withdraw
+insert "22-01-1970 11:58" "09-01-1970 15:45" "<description>" flying
+insert "17-01-1970 17:08" "16-01-1970 05:10" "<description>"
+logoff
+delete "01-01-1970 09:17"
+withdraw
+create "group11"
+withdraw
+insert "06-01-1970 04:01" "20-01-1970 12:52" "<description>"
+insert "24-01-1970 17:29" "12-01-1970 10:22" "<description>"
+undo
+logoff
+invalid
+remove "COMP201"
+insert "24-01-1970 15:28" "21-01-1970 15:24" "<description>"
+remove
+invalid
+insert "06-01-1970 15:09" "18-01-1970 07:28" "<description>" group11
+remove
+logon "CSC"
+insert "21-01-1970 15:19" "25-01-1970 16:26" "<description>" joking
+invalid
+create "csFamily"
+insert "22-01-1970 23:59" "25-01-1970 20:47" "<description>" committee
+logoff
+undo
+insert "25-01-1970 22:11" "21-01-1970 06:19" "<description>" CSC
+delete "02-01-1970 11:27"
+invalid
+insert "09-01-1970 07:16" "15-01-1970 19:09" "<description>"
+delete "06-01-1970 05:12"
+invalid
+undo
+delete "13-01-1970 22:56"
+logoff
+invalid
+remove
+logon "Tracy"
+logoff
+withdraw
+undo
+insert "10-01-1970 21:16" "25-01-1970 19:54" "<description>"
+withdraw
+logoff
+create "group11"
+join "drawing"
+create "CSC"
+join "CSC"
+logon "Andrea"
+logoff
+remove
+invalid
+invalid
+insert "22-01-1970 09:47" "09-01-1970 02:04" "<description>" COMP201
+insert "13-01-1970 10:19" "19-01-1970 18:16" "<description>" House4
+delete "20-01-1970 23:38"
+undo
+undo
+undo
+invalid
+remove
+undo
+logon "Jon"
+insert "18-01-1970 06:12" "18-01-1970 07:55" "<description>" student fake
+
+insert "18-01-1970 06:12" "18-01-1970 07:55" "<description>" student fake
+logoff
+insert "02-01-1970 23:49" "25-01-1970 21:18" "<description>" csFamily
+logon "Tracy"
+logon "Andrew"
+insert "18-01-1970 20:11" "19-01-1970 07:13" "<description>" House4
+withdraw
+insert "05-01-1970 22:34" "21-01-1970 02:18" "<description>" group11
+undo
+invalid
+undo
+logoff
+join "COMP201"
+create "COMP104"
+remove
+withdraw
+insert "14-01-1970 04:41" "04-01-1970 15:26" "<description>" committee
+logon "triangle"
+insert "15-01-1970 20:46" "13-01-1970 15:19" "<description>"
+logoff
+insert "11-01-1970 19:43" "13-01-1970 04:14" "<description>" hiking
+remove
+logoff
+undo
+create "tv"
+delete "07-01-1970 15:27"
+delete "26-01-1970 02:56"
+invalid
+undo
+insert "22-01-1970 08:42" "23-01-1970 15:40" "<description>" flying
+insert "09-01-1970 11:22" "02-01-1970 05:06" "<description>" CSC
+invalid
+logon "Andrea"
+logon "Bear"
+delete "19-01-1970 13:44"
+logon "invalid"
+remove
+undo
+invalid
+create "COMP104"
+delete "17-01-1970 01:32"
+join "hiking"
+create "flying"
+invalid
+insert "15-01-1970 10:40" "18-01-1970 01:20" "<description>" csFamily
+delete "11-01-1970 15:09"
+join "joking"
+invalid
+logoff
+join "drawing"
+join "drawing"
+logon "Andrew"
+join "drawing"
+withdraw
+logoff
+delete "25-01-1970 07:56"
+undo
+undo
+invalid
+join "CSC"
+insert "26-01-1970 01:17" "19-01-1970 21:27" "<description>"
+logoff
+logon "Mandy"
+logoff
+withdraw
+join "COMP104"
+insert "14-01-1970 13:38" "07-01-1970 15:00" "<description>" tv
+insert "06-01-1970 20:39" "17-01-1970 15:54" "<description>" TV
+invalid
+delete "10-01-1970 20:36"
+withdraw
+remove
+invalid
+remove
+delete "03-01-1970 09:54"
+withdraw "COMP104"
+insert "17-01-1970 22:32" "06-01-1970 07:58" "<description>" joking
+join "House2"
+undo
+create "student"
+insert "13-01-1970 10:52" "17-01-1970 23:25" "<description>"
+undo
+undo
+create "drawing"
+invalid
+insert "24-01-1970 10:49" "09-01-1970 08:09" "<description>" House2
+logon "Felix"
+delete "18-01-1970 08:17"
+undo
+delete "02-01-1970 02:52"
+insert "05-01-1970 16:09" "23-01-1970 20:56" "<description>" Professer
+create "flying"
+insert "10-01-1970 10:06" "14-01-1970 04:16" "<description>"
+remove
+join "group11"
+insert "05-01-1970 12:27" "06-01-1970 18:31" "<description>"
+create "Professer"
+insert "16-01-1970 21:23" "23-01-1970 01:53" "<description>" hiking
+insert "04-01-1970 21:24" "13-01-1970 13:05" "<description>" tv
+insert "17-01-1970 09:18" "06-01-1970 21:15" "<description>" hiking
+logoff fake
+
+logoff fake
+insert "12-01-1970 18:45" "10-01-1970 14:19" "<description>" House4
+undo
+insert "08-01-1970 16:22" "07-01-1970 06:47" "<description>"
+insert "06-01-1970 20:03" "23-01-1970 06:01" "<description>" tv
+insert "18-01-1970 19:27" "07-01-1970 14:39" "<description>" House2
+logoff
+insert "17-01-1970 19:16" "19-01-1970 11:19" "<description>" drawing
+delete "02-01-1970 04:51"
+logon "May"
+insert "13-01-1970 22:53" "06-01-1970 02:45" "<description>" joking
+undo
+insert "16-01-1970 02:26" "11-01-1970 22:18" "<description>"
+withdraw
+join "pair"
+join "TV"
+join "playing"
+logoff
+logon "Bonnie"
+insert "03-01-1970 13:12" "19-01-1970 02:47" "<description>" group11
+logoff
+delete "14-01-1970 20:12"
+delete "09-01-1970 19:02"
+insert "12-01-1970 23:38" "16-01-1970 14:48" "<description>" hiking
+remove
+logon "ar Lo"
+create "Professer"
+remove
+logoff
+undo
+remove
+invalid
+insert "10-01-1970 08:00" "24-01-1970 15:50" "<description>" CSC
+insert "20-01-1970 11:26" "05-01-1970 17:40" "<description>"
+remove
+invalid
+delete "02-01-1970 13:20"
+insert "24-01-1970 02:01" "09-01-1970 09:49" "<description>" KAROAKE
+withdraw
+invalid
+logoff
+logoff
+join "House4"
+remove
+invalid
+delete "13-01-1970 09:19"
+invalid
+invalid
+insert "24-01-1970 14:33" "18-01-1970 12:25" "<description>" pair
+create "CSC"
+undo
+create "csFamily"
+create "drawing"
+logoff
+create "drawing"
+insert "05-01-1970 23:20" "11-01-1970 08:47" "<description>"
+invalid
+logon "fail"
+withdraw
+insert "14-01-1970 12:11" "20-01-1970 21:19" "<description>"
+undo
+withdraw
+insert "10-01-1970 04:27" "03-01-1970 20:20" "<description>" playing
+logon "Bonnie"
+insert "18-01-1970 08:23" "07-01-1970 21:03" "<description>" COMP201
+delete "10-01-1970 04:11"
+logon "invalid"
+undo
+insert "10-01-1970 01:59" "03-01-1970 08:13" "<description>" House2
+logoff
+insert "10-01-1970 00:57" "16-01-1970 05:01" "<description>"
+logoff
+undo
+insert "24-01-1970 12:29" "11-01-1970 06:05" "<description>"
+remove
+insert "26-01-1970 03:38" "03-01-1970 17:30" "<description>" House2
+insert "16-01-1970 23:29" "04-01-1970 07:39" "<description>" flying
+join "flying"
+logoff
+create "group11"
+remove
+logoff
+delete "09-01-1970 00:13"
+insert "16-01-1970 18:22" "14-01-1970 07:31" "<description>" TV
+delete "13-01-1970 13:09"
+logoff
+insert "05-01-1970 05:00" "15-01-1970 14:06" "<description>" group11
+delete "12-01-1970 19:32"
+logoff
+insert "03-01-1970 05:05" "21-01-1970 07:13" "<description>"
+logoff
+insert "20-01-1970 11:23" "20-01-1970 17:31" "<description>" Professer
+join "COMP104"
+create "playing"
+delete "05-01-1970 20:41"
+insert "03-01-1970 10:14" "24-01-1970 11:27" "<description>"
+create "KAROAKE"
+remove
+join "flying"
+delete "21-01-1970 17:00"
+create "playing" fake
+
+create "playing" fake
+create "tv"
+logoff
+insert "23-01-1970 04:20" "24-01-1970 18:02" "<description>"
+insert "16-01-1970 08:48" "01-01-1970 22:41" "<description>" House2
+create "joking"
+insert "15-01-1970 01:46" "18-01-1970 10:03" "<description>" COMP104
+remove
+remove
+invalid
+insert "22-01-1970 00:43" "25-01-1970 23:49" "<description>" COMP104
+invalid
+insert "14-01-1970 12:53" "02-01-1970 06:57" "<description>" hiking
+withdraw
+delete "14-01-1970 18:19"
+insert "12-01-1970 00:33" "08-01-1970 20:02" "<description>" playing
+insert "08-01-1970 17:36" "24-01-1970 09:11" "<description>" student
+insert "08-01-1970 12:24" "11-01-1970 22:18" "<description>" COMP201
+delete "08-01-1970 20:06"
+withdraw
+logon "triangle"
+invalid
+insert "13-01-1970 01:46" "25-01-1970 03:40" "<description>" committee
+insert "03-01-1970 22:41" "23-01-1970 14:37" "<description>" group11
+invalid
+insert "06-01-1970 02:33" "10-01-1970 12:04" "<description>" csFamily
+withdraw
+delete "05-01-1970 19:22"
+insert "05-01-1970 00:46" "24-01-1970 18:27" "<description>" hiking
+logoff
+undo
+create "student"
+insert "13-01-1970 05:53" "13-01-1970 15:41" "<description>" drawing
+delete "06-01-1970 15:19"
+withdraw
+invalid
+create "csFamily"
+insert "06-01-1970 00:14" "04-01-1970 19:31" "<description>"
+remove
+logoff
+remove
+delete "11-01-1970 19:39"
+withdraw
+delete "08-01-1970 04:40"
+insert "13-01-1970 11:34" "10-01-1970 04:22" "<description>" CSC
+undo
+remove
+remove
+insert "07-01-1970 18:30" "10-01-1970 00:19" "<description>"
+insert "21-01-1970 04:06" "13-01-1970 11:27" "<description>"
+insert "15-01-1970 16:00" "01-01-1970 14:54" "<description>" playing
+withdraw
+remove
+delete "01-01-1970 11:57"
+insert "14-01-1970 11:26" "02-01-1970 15:11" "<description>" playing
+insert "18-01-1970 04:00" "05-01-1970 11:52" "<description>" csFamily
+undo
+delete "23-01-1970 10:37"
+insert "23-01-1970 21:54" "20-01-1970 02:01" "<description>" csFamily
+withdraw
+insert "04-01-1970 11:41" "16-01-1970 23:42" "<description>" Professer
+join "COMP201"
+withdraw
+delete "21-01-1970 14:46"
+remove
+join "student"
+logoff
+create "hiking"
+undo
+withdraw
+delete "20-01-1970 09:53"
+delete "02-01-1970 08:41"
+remove
+join "flying"
+insert "16-01-1970 03:27" "02-01-1970 00:11" "<description>" drawing
+insert "26-01-1970 04:28" "17-01-1970 12:17" "<description>"
+logoff
+create "Professer"
+logon "Kenny"
+insert "21-01-1970 06:39" "23-01-1970 03:29" "<description>" House4
+withdraw
+create "committee"
+insert "15-01-1970 22:15" "22-01-1970 14:20" "<description>" csFamily
+remove
+undo
+insert "05-01-1970 00:06" "22-01-1970 12:30" "<description>" hiking
+logoff
+undo
+logon "Andrew"
+logoff
+undo
+insert "04-01-1970 14:36" "21-01-1970 07:36" "<description>" flying
+delete "12-01-1970 01:17"
+delete "09-01-1970 09:44"
+insert "09-01-1970 01:57" "25-01-1970 05:02" "<description>" COMP201
+undo
+logoff
+create "committee"
+create "COMP104"
+delete "15-01-1970 08:31"
+join "committee"
+join "fail"  "<email>" 
+
+join "committee"
+join "fail"  "<email>" 
+create "flying"
+insert "03-01-1970 04:21" "21-01-1970 09:09" "<description>" student
+remove
+withdraw
+insert "16-01-1970 09:58" "11-01-1970 14:48" "<description>" committee
+create "playing"
+undo
+insert "19-01-1970 21:31" "25-01-1970 06:30" "<description>"
+delete "08-01-1970 18:39"
+delete "10-01-1970 02:05"
+withdraw
+create "COMP104"
+remove
+join "House4"
+invalid
+join "COMP201"
+undo
+join "flying"
+logon "May"
+invalid
+logoff
+insert "15-01-1970 10:40" "15-01-1970 19:30" "<description>" KAROAKE
+withdraw
+logoff
+insert "25-01-1970 22:26" "07-01-1970 05:10" "<description>" Professer
+join "House2"
+remove
+invalid
+insert "16-01-1970 13:26" "13-01-1970 23:58" "<description>" committee
+logoff
+insert "18-01-1970 23:08" "23-01-1970 00:55" "<description>" committee
+insert "04-01-1970 23:09" "11-01-1970 11:28" "<description>" playing
+withdraw
+join "KAROAKE"
+join "CSC"
+remove
+invalid
+insert "19-01-1970 19:12" "23-01-1970 16:29" "<description>"
+insert "19-01-1970 19:21" "22-01-1970 23:46" "<description>"
+insert "03-01-1970 17:07" "10-01-1970 22:43" "<description>" tv
+delete "24-01-1970 19:01"
+insert "03-01-1970 06:25" "21-01-1970 01:44" "<description>" CSC
+invalid
+remove
+insert "20-01-1970 14:12" "06-01-1970 07:26" "<description>" student
+logon "CSC"
+insert "04-01-1970 17:56" "12-01-1970 22:08" "<description>" playing
+invalid
+logon "Andrew"
+invalid
+create "playing"
+insert "24-01-1970 16:41" "15-01-1970 09:27" "<description>"
+remove
+join "TV"
+logon "carin"
+remove
+insert "14-01-1970 22:37" "17-01-1970 07:41" "<description>" House2
+logoff
+logoff
+join "committee"
+logon "CSC"
+delete "20-01-1970 07:59"
+undo
+logon "Andrea"
+logoff
+insert "25-01-1970 05:15" "19-01-1970 03:05" "<description>" House2
+invalid
+insert "12-01-1970 07:13" "20-01-1970 00:49" "<description>" KAROAKE
+insert "10-01-1970 08:13" "01-01-1970 18:12" "<description>"
+create "House2"
+create "House2"
+create "student"
+create "playing"
+create "House2"
+join "drawing"
+insert "10-01-1970 11:01" "24-01-1970 04:27" "<description>" KAROAKE
+withdraw
+remove
+delete "09-01-1970 16:46"
+logoff
+remove
+logoff
+insert "13-01-1970 16:44" "06-01-1970 16:44" "<description>" drawing
+undo
+insert "18-01-1970 15:53" "14-01-1970 01:56" "<description>"
+delete "23-01-1970 21:52"
+remove
+invalid
+insert "06-01-1970 17:17" "07-01-1970 12:42" "<description>"
+undo
+delete "02-01-1970 01:15"
+delete "10-01-1970 03:14"
+logoff
+insert "02-01-1970 02:54" "09-01-1970 08:28" "<description>" committee
+delete "26-01-1970 03:51"
+logoff
+insert "21-01-1970 00:23" "25-01-1970 23:50" "<description>" drawing
+invalid
+withdraw
+undo
+undo "triangle"  "<email>" 
+
+undo
+undo "triangle"  "<email>" 
+join "playing"
+insert "19-01-1970 02:43" "07-01-1970 02:03" "<description>"
+insert "18-01-1970 20:49" "11-01-1970 03:11" "<description>"
+withdraw
+invalid
+insert "05-01-1970 11:51" "13-01-1970 03:38" "<description>" joking
+invalid
+insert "06-01-1970 23:07" "16-01-1970 00:34" "<description>" flying
+delete "24-01-1970 11:45"
+remove
+withdraw
+logon "Jon"
+join "csFamily"
+create "Professer"
+logon "Apple"
+join "CSC"
+delete "13-01-1970 04:32"
+insert "26-01-1970 02:42" "18-01-1970 05:03" "<description>" flying
+undo
+withdraw
+insert "10-01-1970 16:23" "01-01-1970 17:42" "<description>" pair
+insert "21-01-1970 13:00" "20-01-1970 16:11" "<description>" joking
+withdraw
+withdraw
+invalid
+insert "19-01-1970 08:33" "23-01-1970 21:07" "<description>" joking
+invalid
+create "House2"
+insert "16-01-1970 14:32" "15-01-1970 10:41" "<description>" hiking
+withdraw
+insert "17-01-1970 16:25" "25-01-1970 00:12" "<description>" tv
+undo
+logon "Apple"
+invalid
+insert "13-01-1970 06:44" "12-01-1970 10:55" "<description>" House2
+join "TV"
+undo
+logoff
+undo
+insert "12-01-1970 23:21" "18-01-1970 19:18" "<description>" joking
+insert "08-01-1970 15:33" "26-01-1970 00:43" "<description>" tv
+insert "07-01-1970 13:12" "09-01-1970 18:18" "<description>" student
+logoff
+invalid
+invalid
+delete "22-01-1970 22:09"
+join "tv"
+delete "23-01-1970 02:49"
+create "student"
+invalid
+logoff
+undo
+logoff
+insert "13-01-1970 15:20" "19-01-1970 00:30" "<description>"
+insert "05-01-1970 15:54" "24-01-1970 10:50" "<description>"
+join "House4"
+insert "18-01-1970 10:18" "18-01-1970 00:39" "<description>" Professer
+undo
+logoff
+join "TV"
+undo
+logon "qoe"
+logon "Bear"
+logoff
+undo
+withdraw
+create "group11"
+remove
+join "KAROAKE"
+withdraw
+invalid
+undo
+logoff
+create "KAROAKE"
+create "drawing"
+delete "10-01-1970 06:03"
+logoff
+join "TV"
+logoff
+join "committee"
+create "Professer"
+delete "01-01-1970 22:09"
+insert "08-01-1970 16:11" "05-01-1970 12:45" "<description>"
+undo
+insert "14-01-1970 23:44" "22-01-1970 13:37" "<description>"
+join "committee"
+join "committee"
+insert "20-01-1970 04:34" "16-01-1970 17:19" "<description>" tv
+insert "12-01-1970 10:13" "07-01-1970 08:59" "<description>" pair
+insert "10-01-1970 21:21" "01-01-1970 12:48" "<description>" hiking
+insert "25-01-1970 01:58" "17-01-1970 08:43" "<description>" playing
+insert "22-01-1970 01:38" "03-01-1970 22:00" "<description>"
+insert "13-01-1970 11:06" "03-01-1970 23:05" "<description>" COMP104
+undo
+remove
+create "csFamily"
+withdraw
+insert "05-01-1970 16:54" "14-01-1970 12:42" "<description>"
+logon "Horner"
+create "tv" fake
+
+create "tv" fake
+logon "Horner"
+undo
+insert "23-01-1970 05:16" "25-01-1970 21:04" "<description>" pair
+insert "15-01-1970 16:51" "20-01-1970 19:04" "<description>" playing
+insert "22-01-1970 19:12" "03-01-1970 05:43" "<description>" COMP104
+remove
+delete "04-01-1970 05:10"
+logon "qoe"
+remove
+logon "Apple"
+insert "05-01-1970 09:21" "07-01-1970 14:24" "<description>"
+logoff
+logoff
+logon "Apple"
+remove
+logoff
+insert "21-01-1970 16:11" "25-01-1970 20:34" "<description>" flying
+undo
+insert "16-01-1970 21:30" "07-01-1970 02:22" "<description>" flying
+undo
+withdraw
+invalid
+invalid
+undo
+delete "25-01-1970 11:29"
+create "TV"
+insert "24-01-1970 03:56" "24-01-1970 12:22" "<description>" House4
+logon "Tracy"
+logon "sqaure"
+logoff
+undo
+withdraw
+logon "Mandy"
+logoff
+invalid
+remove
+withdraw
+insert "06-01-1970 07:51" "12-01-1970 08:35" "<description>"
+logoff
+logoff
+logoff
+logon "Tracy"
+remove
+withdraw
+invalid
+remove
+insert "08-01-1970 15:23" "25-01-1970 21:44" "<description>"
+insert "18-01-1970 04:50" "19-01-1970 00:33" "<description>" COMP104
+logon "Bonnie"
+insert "09-01-1970 17:14" "09-01-1970 04:56" "<description>" playing
+insert "22-01-1970 01:27" "02-01-1970 06:37" "<description>" tv
+logon "invalid"
+remove
+join "CSC"
+delete "15-01-1970 09:07"
+remove
+create "TV"
+logon "Bonnie"
+create "group11"
+insert "02-01-1970 23:46" "08-01-1970 21:10" "<description>" TV
+delete "17-01-1970 22:09"
+join "hiking"
+withdraw
+join "group11"
+join "committee"
+create "committee"
+insert "04-01-1970 02:39" "24-01-1970 04:29" "<description>"
+withdraw
+logon "Mandy"
+delete "14-01-1970 23:56"
+logon "qoe"
+undo
+insert "09-01-1970 23:34" "15-01-1970 01:44" "<description>"
+withdraw
+logon "Kenneth"
+create "Professer"
+create "joking"
+logoff
+logon "Tracy"
+logoff
+insert "06-01-1970 11:47" "11-01-1970 21:35" "<description>" student
+logoff
+logon "Horner"
+delete "13-01-1970 18:05"
+join "TV"
+withdraw
+insert "16-01-1970 18:05" "05-01-1970 20:25" "<description>" House2
+remove
+insert "24-01-1970 08:48" "12-01-1970 18:23" "<description>" student
+create "drawing"
+logon "Mandy"
+insert "05-01-1970 05:17" "22-01-1970 10:15" "<description>" committee
+withdraw
+undo
+join "pair"
+insert "16-01-1970 22:05" "25-01-1970 05:37" "<description>" student
+withdraw
+insert "18-01-1970 00:26" "16-01-1970 07:12" "<description>" pair
+insert "16-01-1970 00:30" "15-01-1970 04:16" "<description>" hiking
+insert "21-01-1970 23:30" "24-01-1970 02:24" "<description>" drawing fake
+
+insert "21-01-1970 23:30" "24-01-1970 02:24" "<description>" drawing fake
+invalid
+insert "04-01-1970 03:05" "20-01-1970 09:41" "<description>" drawing
+invalid
+undo
+insert "04-01-1970 09:46" "16-01-1970 03:47" "<description>"
+undo
+withdraw
+join "group11"
+insert "24-01-1970 05:00" "18-01-1970 11:58" "<description>" playing
+create "TV"
+join "CSC"
+logon "CSC"
+join "House4"
+logon "triangle"
+logoff
+invalid
+remove
+remove
+withdraw
+insert "17-01-1970 03:07" "06-01-1970 17:30" "<description>"
+insert "17-01-1970 14:04" "25-01-1970 07:14" "<description>" CSC
+insert "19-01-1970 11:11" "12-01-1970 21:18" "<description>"
+create "student"
+create "group11"
+insert "18-01-1970 09:11" "19-01-1970 22:51" "<description>" playing
+insert "07-01-1970 10:00" "11-01-1970 10:47" "<description>" COMP104
+join "student"
+logon "sqaure"
+join "tv"
+undo
+invalid
+create "COMP104"
+insert "14-01-1970 00:03" "14-01-1970 15:42" "<description>" KAROAKE
+create "playing"
+invalid
+undo
+withdraw
+undo
+join "student"
+delete "17-01-1970 13:06"
+insert "07-01-1970 17:17" "05-01-1970 22:17" "<description>" House4
+invalid
+create "group11"
+undo
+insert "24-01-1970 10:09" "15-01-1970 12:43" "<description>" COMP201
+create "drawing"
+join "CSC"
+insert "04-01-1970 03:29" "20-01-1970 14:05" "<description>" group11
+invalid
+logon "CSC"
+insert "09-01-1970 00:53" "13-01-1970 11:45" "<description>" flying
+insert "07-01-1970 20:35" "02-01-1970 10:27" "<description>" hiking
+create "hiking"
+logon "sqaure"
+logoff
+delete "05-01-1970 18:43"
+invalid
+logoff
+remove
+insert "10-01-1970 05:52" "14-01-1970 01:46" "<description>"
+insert "20-01-1970 11:12" "15-01-1970 22:34" "<description>" House2
+invalid
+logon "fail"
+undo
+logon "Horner"
+insert "23-01-1970 18:16" "05-01-1970 06:10" "<description>"
+undo
+insert "10-01-1970 07:22" "05-01-1970 06:13" "<description>"
+withdraw
+join "group11"
+insert "07-01-1970 20:58" "03-01-1970 14:03" "<description>"
+withdraw
+insert "15-01-1970 08:00" "03-01-1970 11:52" "<description>" COMP201
+remove
+logon "Kenneth"
+logoff
+delete "23-01-1970 18:48"
+undo
+remove
+remove
+withdraw
+invalid
+logoff
+delete "10-01-1970 09:46"
+invalid
+insert "07-01-1970 19:29" "21-01-1970 01:19" "<description>"
+create "csFamily"
+insert "11-01-1970 11:31" "13-01-1970 02:53" "<description>" tv
+invalid
+create "CSC"
+undo
+invalid
+remove
+insert "06-01-1970 07:12" "24-01-1970 21:34" "<description>" group11
+join "COMP201"
+insert "07-01-1970 07:35" "26-01-1970 01:56" "<description>" committee
+undo
+insert "22-01-1970 01:49" "13-01-1970 17:25" "<description>" House2
+withdraw
+undo
+undo "CSC" "<email>"  fake
+
+undo
+undo "CSC" "<email>"  fake
+create "committee"
+logon "sqaure"
+withdraw
+delete "21-01-1970 10:58"
+insert "09-01-1970 01:53" "07-01-1970 17:40" "<description>" committee
+undo
+insert "16-01-1970 19:25" "09-01-1970 18:28" "<description>"
+insert "12-01-1970 05:13" "20-01-1970 22:10" "<description>" committee
+create "playing"
+insert "05-01-1970 17:31" "05-01-1970 05:21" "<description>" group11
+insert "12-01-1970 18:49" "17-01-1970 08:21" "<description>" tv
+create "group11"
+invalid
+join "committee"
+withdraw
+create "House4"
+insert "22-01-1970 12:00" "17-01-1970 03:05" "<description>" KAROAKE
+create "COMP201"
+join "joking"
+logon "qoe"
+withdraw
+invalid
+invalid
+delete "15-01-1970 12:47"
+delete "02-01-1970 18:00"
+join "hiking"
+invalid
+withdraw
+remove
+insert "02-01-1970 12:41" "22-01-1970 21:31" "<description>" TV
+logon "Kenny"
+insert "06-01-1970 07:54" "11-01-1970 11:57" "<description>"
+withdraw
+invalid
+logoff
+insert "13-01-1970 19:30" "05-01-1970 01:52" "<description>" flying
+withdraw
+join "group11"
+join "hiking"
+insert "03-01-1970 12:59" "23-01-1970 18:27" "<description>"
+insert "09-01-1970 13:03" "07-01-1970 02:57" "<description>" committee
+withdraw
+insert "21-01-1970 13:30" "12-01-1970 12:19" "<description>" flying
+logon "ar Lo"
+logon "Kenneth"
+delete "12-01-1970 15:23"
+logoff
+delete "02-01-1970 02:00"
+logon "Tracy"
+undo
+invalid
+withdraw
+invalid
+delete "02-01-1970 17:49"
+insert "23-01-1970 23:11" "24-01-1970 18:30" "<description>" Professer
+join "drawing"
+insert "01-01-1970 11:26" "14-01-1970 06:50" "<description>" group11
+undo
+delete "25-01-1970 20:08"
+withdraw
+logoff
+withdraw
+insert "18-01-1970 09:32" "01-01-1970 14:40" "<description>"
+delete "19-01-1970 19:03"
+insert "25-01-1970 09:12" "17-01-1970 21:11" "<description>"
+insert "13-01-1970 16:16" "14-01-1970 12:03" "<description>" playing
+insert "23-01-1970 02:34" "23-01-1970 07:52" "<description>" TV
+join "drawing"
+insert "11-01-1970 05:59" "04-01-1970 06:16" "<description>" playing
+join "KAROAKE"
+remove
+create "joking"
+insert "05-01-1970 07:47" "12-01-1970 19:14" "<description>"
+remove
+logon "Andrea"
+remove
+withdraw
+insert "17-01-1970 23:38" "17-01-1970 04:59" "<description>" House2
+join "tv"
+delete "19-01-1970 22:03"
+withdraw
+delete "09-01-1970 19:23"
+delete "05-01-1970 06:45"
+insert "17-01-1970 19:36" "02-01-1970 06:01" "<description>" committee
+insert "13-01-1970 00:26" "05-01-1970 07:38" "<description>" drawing
+logon "carin"
+withdraw
+delete "02-01-1970 21:58"
+withdraw
+invalid
+insert "04-01-1970 07:07" "19-01-1970 03:46" "<description>" drawing
+join "pair"
+remove
+withdraw
+insert "22-01-1970 21:07" "04-01-1970 15:05" "<description>"
+insert "04-01-1970 16:54" "01-01-1970 11:57" "<description>" CSC
+create "drawing"
+delete "24-01-1970 04:49"
+invalid
+join "CSC"
+join "CSC" "<email>" 
+
+join "CSC"
+join "CSC" "<email>" 
+invalid
+invalid
+insert "07-01-1970 15:32" "26-01-1970 03:35" "<description>" student
+withdraw
+invalid
+delete "16-01-1970 14:03"
+delete "14-01-1970 03:31"
+create "playing"
+remove
+logon "Mandy"
+insert "19-01-1970 00:41" "04-01-1970 21:05" "<description>" House4
+withdraw
+insert "16-01-1970 19:16" "09-01-1970 06:18" "<description>" House4
+logon "Andrew"
+insert "18-01-1970 12:23" "03-01-1970 21:40" "<description>" student
+logoff
+undo
+join "COMP201"
+logon "Kenneth"
+insert "15-01-1970 06:15" "22-01-1970 09:25" "<description>" committee
+logon "May"
+logoff
+insert "25-01-1970 19:31" "17-01-1970 02:12" "<description>"
+create "Professer"
+insert "08-01-1970 10:47" "08-01-1970 15:57" "<description>" csFamily
+insert "14-01-1970 10:03" "11-01-1970 11:34" "<description>" committee
+join "Professer"
+create "COMP201"
+withdraw
+logon "Andrea"
+join "TV"
+logoff
+join "playing"
+logoff
+withdraw
+insert "16-01-1970 11:37" "15-01-1970 07:22" "<description>" TV
+logon "Andrew"
+delete "13-01-1970 05:07"
+logoff
+undo
+invalid
+insert "14-01-1970 01:29" "13-01-1970 14:02" "<description>" joking
+insert "18-01-1970 08:44" "22-01-1970 10:52" "<description>" KAROAKE
+create "House4"
+logoff
+logon "May"
+remove
+join "hiking"
+create "CSC"
+invalid
+create "csFamily"
+join "CSC"
+logon "Bear"
+join "committee"
+logon "fail"
+delete "03-01-1970 15:00"
+insert "06-01-1970 02:37" "21-01-1970 05:31" "<description>" playing
+logoff
+logoff
+invalid
+delete "16-01-1970 12:18"
+create "playing"
+remove
+undo
+remove
+delete "13-01-1970 05:16"
+undo
+invalid
+join "joking"
+withdraw
+insert "12-01-1970 09:10" "11-01-1970 05:57" "<description>"
+undo
+join "tv"
+join "drawing"
+withdraw "KAROAKE"
+create "drawing"
+remove
+insert "24-01-1970 09:54" "13-01-1970 08:28" "<description>" Professer
+withdraw
+create "tv"
+insert "25-01-1970 19:14" "07-01-1970 23:54" "<description>" TV
+insert "16-01-1970 22:44" "08-01-1970 17:39" "<description>" CSC
+logon "invalid"
+create "House4"
+delete "25-01-1970 04:26"
+join "flying"
+create "joking"
+insert "03-01-1970 20:57" "18-01-1970 23:00" "<description>" flying
+insert "07-01-1970 08:35" "04-01-1970 00:14" "<description>" CSC
+withdraw
+logon "carin"
+logoff
+invalid
+remove
+insert "20-01-1970 10:57" "21-01-1970 09:45" "<description>"
+delete "01-01-1970 22:06"
+remove
+create "playing"
+logoff
+logon "Jon"
+logon "May"  "<email>" 
+
+logon "Jon"
+logon "May"  "<email>" 
+insert "19-01-1970 18:10" "19-01-1970 00:23" "<description>" House4
+withdraw
+insert "14-01-1970 18:34" "23-01-1970 16:58" "<description>"
+join "csFamily"
+remove
+insert "23-01-1970 20:06" "03-01-1970 12:19" "<description>" playing
+insert "24-01-1970 17:54" "05-01-1970 12:59" "<description>" pair
+insert "08-01-1970 17:34" "03-01-1970 07:39" "<description>"
+delete "03-01-1970 00:35"
+join "COMP201"
+logon "fail"
+logon "carin"
+insert "08-01-1970 12:52" "03-01-1970 20:28" "<description>" Professer
+create "committee"
+logoff
+logon "Mandy"
+create "playing"
+remove
+create "pair"
+withdraw
+logoff
+delete "17-01-1970 22:20"
+invalid
+create "csFamily"
+remove "House4"
+withdraw
+remove
+join "House4"
+insert "21-01-1970 20:28" "24-01-1970 19:56" "<description>"
+delete "25-01-1970 02:51"
+withdraw
+create "COMP201"
+insert "07-01-1970 13:44" "09-01-1970 20:03" "<description>" KAROAKE
+logon "Andrew"
+logon "Andrew"
+remove
+remove
+create "TV"
+join "COMP201"
+remove
+remove
+insert "15-01-1970 17:18" "08-01-1970 15:47" "<description>" committee
+logoff
+join "tv"
+create "group11"
+undo
+logon "carin"
+invalid
+insert "12-01-1970 01:11" "12-01-1970 03:36" "<description>" CSC
+create "flying"
+logoff
+invalid
+logoff
+insert "10-01-1970 11:08" "20-01-1970 17:46" "<description>"
+delete "25-01-1970 22:00"
+join "Professer"
+insert "09-01-1970 22:37" "09-01-1970 05:39" "<description>"
+insert "17-01-1970 22:31" "21-01-1970 13:24" "<description>"
+invalid
+withdraw
+insert "26-01-1970 00:11" "13-01-1970 09:28" "<description>" tv
+delete "22-01-1970 15:16"
+logon "Andrea"
+delete "03-01-1970 08:57"
+invalid
+insert "04-01-1970 02:27" "05-01-1970 20:20" "<description>" House4
+insert "16-01-1970 19:18" "15-01-1970 12:00" "<description>" pair
+logon "Andrea"
+remove
+withdraw
+remove
+create "tv"
+logon "Bear"
+insert "06-01-1970 08:03" "07-01-1970 07:24" "<description>" committee
+insert "12-01-1970 00:58" "06-01-1970 18:00" "<description>" House2
+undo
+withdraw
+insert "09-01-1970 10:42" "04-01-1970 02:37" "<description>" flying
+create "committee"
+create "pair"
+insert "14-01-1970 06:37" "05-01-1970 13:17" "<description>" CSC
+withdraw
+logon "Bonnie"
+logon "Apple"
+insert "20-01-1970 19:04" "11-01-1970 02:10" "<description>" playing
+delete "14-01-1970 08:24"
+delete "24-01-1970 08:17"
+insert "19-01-1970 07:07" "14-01-1970 04:38" "<description>" KAROAKE
+delete "19-01-1970 14:48"
+logoff
+insert "13-01-1970 08:03" "07-01-1970 13:27" "<description>" group11
+join "joking"
+logoff
+delete "14-01-1970 17:57"
+undo
+create "tv"
+insert "19-01-1970 21:50" "07-01-1970 03:34" "<description>" Professer
+create "Professer"
+delete "05-01-1970 22:56"
+logon "carin" fake
+
+logon "carin" fake
+invalid
+withdraw
+logoff
+remove
+remove
+withdraw
+invalid
+join "student"
+remove
+insert "24-01-1970 16:56" "14-01-1970 06:53" "<description>" student
+create "hiking"
+invalid
+withdraw
+logon "triangle"
+insert "08-01-1970 12:40" "10-01-1970 17:29" "<description>" House4
+insert "04-01-1970 06:41" "21-01-1970 18:51" "<description>"
+undo
+undo
+undo
+invalid
+logon "ar Lo"
+insert "04-01-1970 01:25" "19-01-1970 07:50" "<description>" drawing
+logon "CSC"
+insert "19-01-1970 08:24" "26-01-1970 04:07" "<description>"
+insert "11-01-1970 22:19" "01-01-1970 10:40" "<description>"
+create "Professer"
+logoff
+logon "carin"
+logon "May"
+undo
+insert "03-01-1970 13:20" "16-01-1970 10:01" "<description>"
+create "pair"
+logon "May"
+insert "17-01-1970 15:03" "08-01-1970 12:50" "<description>"
+remove
+create "committee"
+delete "16-01-1970 09:19"
+insert "03-01-1970 06:13" "19-01-1970 04:17" "<description>" tv
+insert "07-01-1970 13:03" "20-01-1970 02:52" "<description>" Professer
+invalid
+remove
+insert "15-01-1970 16:20" "02-01-1970 14:21" "<description>"
+undo
+delete "24-01-1970 16:17"
+undo
+undo
+logon "sqaure"
+logon "Tracy"
+logoff
+withdraw "tv"
+delete "15-01-1970 14:15"
+invalid
+remove
+invalid
+insert "17-01-1970 10:58" "15-01-1970 04:46" "<description>" joking
+delete "18-01-1970 10:44"
+create "joking"
+create "joking"
+withdraw
+insert "07-01-1970 18:22" "15-01-1970 02:57" "<description>" CSC
+invalid
+delete "04-01-1970 15:29"
+logoff
+remove
+remove
+insert "16-01-1970 16:57" "19-01-1970 18:07" "<description>" student
+insert "25-01-1970 14:07" "19-01-1970 13:24" "<description>" COMP201
+remove
+logoff
+join "COMP201"
+insert "05-01-1970 13:34" "09-01-1970 17:09" "<description>" CSC
+withdraw
+undo
+delete "02-01-1970 11:52"
+delete "25-01-1970 13:31"
+undo
+invalid
+invalid
+join "pair"
+insert "21-01-1970 06:34" "25-01-1970 19:29" "<description>"
+delete "08-01-1970 18:43"
+join "tv"
+join "flying"
+create "CSC"
+insert "14-01-1970 01:37" "05-01-1970 00:36" "<description>" drawing
+join "hiking"
+logoff
+invalid
+logoff
+logon "Tracy"
+undo
+logon "Andrew"
+logon "fail"
+withdraw
+invalid
+invalid
+create "tv"
+undo
+insert "11-01-1970 15:10" "08-01-1970 18:43" "<description>" csFamily
+remove "pair"
+remove "Bear" "<email>"  fake
+
+remove "pair"
+remove "Bear" "<email>"  fake
+logoff
+logoff
+undo
+delete "07-01-1970 02:34"
+insert "21-01-1970 05:16" "13-01-1970 19:20" "<description>" playing
+create "playing"
+logoff
+withdraw
+invalid
+withdraw
+insert "11-01-1970 13:33" "06-01-1970 02:53" "<description>"
+remove
+delete "02-01-1970 01:28"
+insert "21-01-1970 11:33" "24-01-1970 11:31" "<description>" joking
+join "hiking"
+insert "14-01-1970 13:10" "19-01-1970 00:26" "<description>"
+create "group11"
+withdraw
+insert "18-01-1970 17:51" "07-01-1970 16:40" "<description>" CSC
+invalid
+invalid
+logon "Horner"
+undo
+delete "16-01-1970 22:56"
+delete "13-01-1970 22:00"
+undo
+withdraw
+delete "07-01-1970 14:06"
+withdraw
+logon "Bear"
+insert "17-01-1970 15:25" "02-01-1970 21:59" "<description>" COMP201
+delete "07-01-1970 00:21"
+undo
+logoff
+insert "05-01-1970 02:57" "01-01-1970 19:53" "<description>"
+logoff
+invalid
+invalid
+invalid
+invalid
+invalid
+join "committee"
+insert "19-01-1970 00:59" "11-01-1970 04:55" "<description>" CSC
+insert "03-01-1970 04:11" "17-01-1970 09:25" "<description>" House2
+insert "03-01-1970 07:47" "06-01-1970 06:47" "<description>" hiking
+create "COMP104"
+logon "Kenneth"
+logon "Kenny"
+remove
+create "TV"
+insert "05-01-1970 21:29" "04-01-1970 23:42" "<description>" tv
+create "flying"
+insert "19-01-1970 21:23" "23-01-1970 03:11" "<description>" drawing
+delete "04-01-1970 19:36"
+create "tv"
+insert "01-01-1970 10:39" "22-01-1970 22:48" "<description>" House2
+undo
+delete "22-01-1970 21:30"
+logon "Tracy"
+withdraw
+insert "24-01-1970 16:59" "16-01-1970 20:57" "<description>" tv
+insert "15-01-1970 00:33" "15-01-1970 06:31" "<description>" KAROAKE
+logon "May"
+logon "Bonnie"
+insert "14-01-1970 19:03" "18-01-1970 18:25" "<description>"
+create "KAROAKE"
+remove
+remove
+logoff
+insert "10-01-1970 06:29" "16-01-1970 13:23" "<description>" KAROAKE
+undo
+insert "25-01-1970 19:29" "19-01-1970 07:41" "<description>"
+undo
+logon "Kenneth"
+undo
+logon "sqaure"
+create "csFamily"
+invalid
+insert "10-01-1970 16:50" "09-01-1970 22:13" "<description>" drawing
+undo
+invalid
+invalid
+insert "23-01-1970 20:37" "21-01-1970 23:12" "<description>" KAROAKE
+logoff
+join "House2"
+join "pair"
+invalid
+withdraw
+delete "18-01-1970 03:25"
+withdraw
+invalid
+remove
+logon "sqaure"
+create "Professer"
+join "flying"
+withdraw
+withdraw
+logoff
+delete "05-01-1970 12:05"
+invalid
+invalid "Horner"  "<email>" 
+
+invalid
+invalid "Horner"  "<email>" 
+logoff
+withdraw
+delete "20-01-1970 17:41"
+create "COMP104"
+delete "02-01-1970 18:43"
+withdraw
+remove
+undo
+undo
+logon "CSC"
+remove
+withdraw
+insert "18-01-1970 18:56" "09-01-1970 01:38" "<description>" KAROAKE
+invalid
+withdraw
+undo
+logoff
+withdraw
+undo
+invalid
+logon "Felix"
+insert "15-01-1970 07:12" "25-01-1970 22:28" "<description>" pair
+invalid
+invalid
+invalid
+delete "18-01-1970 11:40"
+invalid
+invalid
+logoff
+logon "qoe"
+insert "24-01-1970 12:05" "09-01-1970 05:45" "<description>" student
+join "House4"
+logoff
+logon "Mandy"
+logoff
+join "student"
+create "committee"
+withdraw
+undo
+undo
+insert "13-01-1970 13:09" "15-01-1970 01:27" "<description>"
+create "CSC"
+withdraw
+remove
+logoff
+logon "Apple"
+create "COMP104"
+remove
+logoff
+logon "Jon"
+create "TV"
+insert "12-01-1970 11:18" "16-01-1970 10:46" "<description>" tv
+insert "23-01-1970 17:19" "07-01-1970 02:34" "<description>"
+insert "16-01-1970 18:24" "18-01-1970 03:10" "<description>"
+create "COMP201"
+remove
+withdraw
+undo
+invalid
+remove
+join "committee"
+undo
+insert "08-01-1970 20:54" "21-01-1970 10:08" "<description>" House4
+delete "10-01-1970 11:39"
+create "tv"
+logoff
+logoff
+insert "08-01-1970 14:47" "14-01-1970 02:47" "<description>"
+insert "25-01-1970 15:24" "01-01-1970 22:42" "<description>" csFamily
+logoff
+logon "Bonnie"
+delete "07-01-1970 14:03"
+withdraw
+join "TV"
+undo
+invalid
+withdraw
+insert "11-01-1970 17:11" "20-01-1970 04:21" "<description>" joking
+withdraw
+insert "13-01-1970 03:00" "14-01-1970 18:59" "<description>"
+logoff
+logoff
+invalid
+insert "09-01-1970 16:02" "05-01-1970 00:59" "<description>"
+delete "13-01-1970 03:32"
+insert "05-01-1970 00:38" "06-01-1970 05:08" "<description>" student
+insert "10-01-1970 02:00" "22-01-1970 19:36" "<description>" Professer
+remove
+logoff
+join "House2"
+join "flying"
+logon "CSC"
+insert "18-01-1970 17:48" "03-01-1970 09:38" "<description>" flying
+undo
+logoff
+logon "ar Lo"
+invalid
+insert "02-01-1970 05:12" "16-01-1970 05:51" "<description>" KAROAKE
+insert "07-01-1970 20:23" "23-01-1970 08:36" "<description>"
+undo fake
+
+undo fake
+insert "18-01-1970 12:41" "12-01-1970 07:55" "<description>" COMP104
+logon "May"
+logoff
+delete "06-01-1970 01:38"
+logoff
+remove
+create "COMP201"
+logon "ar Lo"
+delete "23-01-1970 15:04"
+invalid
+logoff
+invalid
+insert "20-01-1970 02:56" "13-01-1970 23:21" "<description>" KAROAKE
+insert "22-01-1970 04:18" "23-01-1970 10:55" "<description>"
+join "csFamily"
+create "Professer"
+insert "01-01-1970 13:00" "07-01-1970 00:02" "<description>" tv
+insert "19-01-1970 19:40" "20-01-1970 11:48" "<description>"
+insert "07-01-1970 04:13" "05-01-1970 09:19" "<description>" House2
+withdraw
+logoff
+logon "Andrea"
+logon "Bear"
+logon "May"
+withdraw "joking"
+remove
+delete "22-01-1970 10:49"
+logon "Kenny"
+delete "11-01-1970 04:09"
+remove
+create "hiking"
+logoff
+delete "18-01-1970 09:15"
+withdraw
+create "KAROAKE"
+undo
+insert "19-01-1970 16:01" "21-01-1970 03:20" "<description>"
+insert "07-01-1970 18:53" "10-01-1970 21:40" "<description>" csFamily
+delete "17-01-1970 23:33"
+delete "12-01-1970 02:58"
+logon "Horner"
+insert "05-01-1970 22:43" "24-01-1970 09:08" "<description>" COMP201
+delete "13-01-1970 09:13"
+delete "12-01-1970 07:24"
+insert "25-01-1970 07:00" "25-01-1970 07:50" "<description>"
+insert "11-01-1970 04:35" "19-01-1970 13:31" "<description>" House4
+withdraw
+logon "Horner"
+insert "04-01-1970 19:44" "25-01-1970 04:19" "<description>" flying
+logon "invalid"
+undo
+insert "21-01-1970 13:04" "14-01-1970 12:15" "<description>" House4
+withdraw
+insert "06-01-1970 13:10" "19-01-1970 07:12" "<description>" KAROAKE
+remove
+delete "22-01-1970 10:06"
+undo
+withdraw
+invalid
+create "Professer"
+remove
+logoff
+insert "25-01-1970 06:33" "24-01-1970 14:12" "<description>" KAROAKE
+insert "14-01-1970 05:46" "25-01-1970 12:03" "<description>" committee
+create "drawing"
+create "KAROAKE"
+invalid
+withdraw
+create "csFamily"
+delete "24-01-1970 00:22"
+insert "15-01-1970 06:28" "01-01-1970 15:44" "<description>" flying
+create "committee"
+undo
+create "flying"
+remove "hiking"
+insert "10-01-1970 01:09" "08-01-1970 15:21" "<description>" hiking
+insert "16-01-1970 14:50" "16-01-1970 13:57" "<description>" House4
+insert "26-01-1970 00:32" "12-01-1970 23:17" "<description>" Professer
+logoff
+delete "22-01-1970 23:25"
+remove
+create "csFamily"
+join "hiking"
+logon "Bear"
+undo
+delete "21-01-1970 08:43"
+undo
+insert "07-01-1970 06:59" "02-01-1970 19:50" "<description>" House4
+withdraw
+insert "24-01-1970 00:17" "05-01-1970 07:27" "<description>" COMP201
+logon "Bonnie"
+logon "ar Lo"
+insert "21-01-1970 09:56" "02-01-1970 03:58" "<description>" TV
+logoff
+logoff
+join "tv"
+delete "25-01-1970 10:55"
+insert "17-01-1970 18:20" "22-01-1970 09:28" "<description>" House4
+insert "20-01-1970 01:18" "23-01-1970 23:44" "<description>"
+join "playing"
+join "Jon" "<email>"  fake
+
+join "playing"
+join "Jon" "<email>"  fake
+delete "21-01-1970 16:38"
+invalid
+insert "23-01-1970 07:36" "14-01-1970 00:09" "<description>"
+invalid
+logon "Mandy"
+create "COMP104"
+withdraw
+create "TV"
+insert "12-01-1970 15:36" "07-01-1970 08:36" "<description>" House4
+withdraw
+delete "23-01-1970 10:19"
+insert "24-01-1970 06:06" "01-01-1970 09:05" "<description>" Professer
+create "group11"
+create "COMP104"
+join "group11"
+remove
+create "Professer"
+logon "Felix"
+invalid
+insert "04-01-1970 10:42" "21-01-1970 16:31" "<description>" COMP201
+undo
+undo
+delete "11-01-1970 07:16"
+undo
+delete "07-01-1970 09:18"
+remove
+invalid
+delete "03-01-1970 07:09"
+join "committee"
+undo
+insert "15-01-1970 19:05" "09-01-1970 22:16" "<description>" flying
+insert "04-01-1970 00:46" "08-01-1970 03:24" "<description>"
+logoff
+insert "19-01-1970 21:20" "07-01-1970 04:38" "<description>" playing
+delete "07-01-1970 05:59"
+join "student"
+logoff
+insert "05-01-1970 21:36" "23-01-1970 11:19" "<description>" drawing
+invalid
+undo
+create "TV"
+logon "Felix"
+create "CSC"
+insert "19-01-1970 22:13" "14-01-1970 17:12" "<description>" joking
+undo
+undo
+insert "22-01-1970 19:26" "12-01-1970 02:16" "<description>"
+join "committee"
+insert "25-01-1970 01:02" "21-01-1970 22:07" "<description>"
+undo
+withdraw
+logoff
+invalid
+undo
+insert "10-01-1970 01:33" "17-01-1970 01:51" "<description>" joking
+invalid
+undo
+withdraw
+create "hiking"
+logon "Kenneth"
+create "House2"
+remove
+insert "14-01-1970 09:30" "16-01-1970 10:26" "<description>" student
+invalid
+join "KAROAKE"
+insert "15-01-1970 12:11" "14-01-1970 03:07" "<description>" group11
+insert "16-01-1970 23:29" "22-01-1970 01:54" "<description>" joking
+delete "04-01-1970 10:01"
+create "KAROAKE"
+insert "13-01-1970 23:12" "17-01-1970 19:20" "<description>" student
+delete "17-01-1970 00:14"
+insert "11-01-1970 14:17" "12-01-1970 09:52" "<description>"
+join "student"
+invalid
+delete "03-01-1970 19:59"
+insert "11-01-1970 06:46" "13-01-1970 01:47" "<description>" COMP201
+remove
+invalid
+create "playing"
+logoff
+invalid
+insert "21-01-1970 06:56" "08-01-1970 17:23" "<description>" student
+remove
+logoff
+insert "14-01-1970 21:33" "10-01-1970 23:03" "<description>" committee
+delete "25-01-1970 17:18"
+undo
+withdraw
+undo
+insert "12-01-1970 10:34" "17-01-1970 19:28" "<description>"
+join "joking"
+undo
+logon "Jon"
+join "House4"
+invalid
+logon "qoe"
+withdraw
+insert "09-01-1970 03:11" "15-01-1970 05:50" "<description>" House4
+insert "05-01-1970 15:55" "02-01-1970 20:31" "<description>" group11
+undo fake
+
+undo fake
+logoff
+join "playing"
+withdraw
+invalid
+join "COMP201"
+invalid
+undo
+insert "18-01-1970 09:25" "15-01-1970 16:07" "<description>" group11
+remove
+insert "15-01-1970 11:00" "12-01-1970 10:00" "<description>"
+withdraw
+delete "03-01-1970 16:34"
+delete "17-01-1970 22:59"
+join "KAROAKE"
+insert "25-01-1970 14:13" "15-01-1970 12:18" "<description>" playing
+undo
+insert "22-01-1970 14:52" "01-01-1970 14:20" "<description>" playing
+logon "carin"
+insert "01-01-1970 09:09" "17-01-1970 15:00" "<description>"
+remove
+remove
+delete "16-01-1970 19:08"
+remove
+remove
+remove "KAROAKE"
+invalid
+logoff
+insert "08-01-1970 11:51" "02-01-1970 20:52" "<description>" hiking
+remove
+create "joking"
+logon "Apple"
+remove
+invalid
+logon "carin"
+insert "23-01-1970 08:37" "15-01-1970 02:59" "<description>"
+withdraw
+invalid
+logoff
+join "flying"
+remove
+invalid
+undo
+delete "10-01-1970 11:17"
+insert "10-01-1970 11:04" "20-01-1970 11:23" "<description>"
+logon "Jon"
+logon "Andrew"
+remove
+insert "05-01-1970 04:17" "14-01-1970 02:48" "<description>" KAROAKE
+withdraw
+logoff
+remove
+logoff
+delete "15-01-1970 21:23"
+insert "03-01-1970 06:15" "07-01-1970 21:19" "<description>" Professer
+withdraw
+join "joking"
+insert "05-01-1970 15:45" "17-01-1970 14:41" "<description>" Professer
+join "student"
+withdraw
+remove
+delete "06-01-1970 21:11"
+invalid
+delete "03-01-1970 09:27"
+withdraw
+logon "invalid"
+insert "25-01-1970 05:35" "15-01-1970 07:10" "<description>" TV
+withdraw
+insert "20-01-1970 14:42" "09-01-1970 20:32" "<description>"
+remove
+withdraw
+invalid
+logoff
+logon "carin"
+insert "02-01-1970 20:15" "17-01-1970 21:30" "<description>"
+delete "16-01-1970 03:22"
+remove
+create "CSC"
+undo
+delete "05-01-1970 23:42"
+remove
+delete "17-01-1970 01:09"
+delete "26-01-1970 01:11"
+withdraw
+insert "13-01-1970 02:09" "21-01-1970 07:20" "<description>" pair
+remove
+insert "21-01-1970 17:28" "24-01-1970 07:06" "<description>"
+create "committee"
+logoff
+delete "23-01-1970 13:06"
+create "House2"
+insert "13-01-1970 03:16" "22-01-1970 10:11" "<description>" COMP104
+delete "06-01-1970 05:41"
+remove
+insert "14-01-1970 21:00" "21-01-1970 14:44" "<description>" KAROAKE
+undo
+insert "24-01-1970 19:27" "23-01-1970 10:17" "<description>" drawing
+join "House4"
+logon "Kenny"
+insert "23-01-1970 01:54" "07-01-1970 21:31" "<description>" committee
+join "CSC" fake
+
+join "CSC" fake
+invalid
+invalid
+invalid
+logoff
+insert "06-01-1970 10:48" "26-01-1970 00:06" "<description>" COMP104
+logon "CSC"
+insert "17-01-1970 14:02" "10-01-1970 17:24" "<description>" hiking
+insert "19-01-1970 01:26" "14-01-1970 21:00" "<description>" KAROAKE
+undo
+join "drawing"
+insert "06-01-1970 12:49" "11-01-1970 20:35" "<description>" drawing
+delete "02-01-1970 02:06"
+insert "24-01-1970 05:26" "03-01-1970 01:27" "<description>" student
+delete "15-01-1970 23:24"
+insert "03-01-1970 14:21" "09-01-1970 04:26" "<description>" CSC
+create "csFamily"
+logon "Bonnie"
+logon "Bonnie"
+logoff
+insert "04-01-1970 19:17" "02-01-1970 16:44" "<description>" COMP201
+insert "12-01-1970 02:34" "20-01-1970 04:05" "<description>" drawing
+withdraw
+invalid
+insert "14-01-1970 08:51" "09-01-1970 10:57" "<description>" csFamily
+insert "12-01-1970 10:26" "03-01-1970 23:24" "<description>"
+insert "02-01-1970 07:54" "11-01-1970 11:11" "<description>" tv
+undo
+join "House4"
+insert "18-01-1970 09:41" "05-01-1970 21:56" "<description>" CSC
+remove
+logoff
+create "committee"
+insert "13-01-1970 12:22" "11-01-1970 05:50" "<description>" student
+delete "05-01-1970 22:42"
+logon "Andrea"
+delete "22-01-1970 13:19"
+delete "09-01-1970 09:44"
+logoff
+withdraw
+insert "21-01-1970 09:31" "16-01-1970 12:49" "<description>"
+logoff
+insert "25-01-1970 05:59" "20-01-1970 08:12" "<description>" joking
+logoff
+insert "12-01-1970 17:28" "14-01-1970 07:23" "<description>"
+logoff
+invalid
+delete "12-01-1970 12:54"
+logon "Bonnie"
+withdraw
+insert "16-01-1970 20:46" "08-01-1970 03:49" "<description>" playing
+insert "05-01-1970 14:21" "25-01-1970 16:12" "<description>" Professer
+insert "08-01-1970 15:00" "13-01-1970 07:44" "<description>"
+insert "19-01-1970 08:42" "04-01-1970 21:48" "<description>" group11
+withdraw
+insert "10-01-1970 12:07" "18-01-1970 19:44" "<description>" flying
+invalid
+logon "sqaure"
+create "playing"
+invalid
+insert "05-01-1970 23:42" "07-01-1970 09:16" "<description>" committee
+withdraw
+withdraw
+insert "24-01-1970 02:24" "04-01-1970 08:59" "<description>"
+create "House2"
+insert "20-01-1970 15:58" "18-01-1970 15:07" "<description>" COMP104
+create "flying"
+insert "25-01-1970 01:46" "12-01-1970 23:35" "<description>" TV
+create "COMP201"
+invalid
+join "student"
+insert "16-01-1970 11:52" "25-01-1970 23:08" "<description>" joking
+invalid
+create "student"
+insert "06-01-1970 08:52" "05-01-1970 05:04" "<description>"
+withdraw "TV"
+remove
+logon "qoe"
+logoff
+create "Professer"
+withdraw
+undo
+withdraw
+undo
+insert "07-01-1970 10:23" "23-01-1970 13:13" "<description>"
+insert "22-01-1970 00:36" "25-01-1970 07:47" "<description>" tv
+insert "01-01-1970 20:33" "08-01-1970 14:59" "<description>" Professer
+undo
+insert "04-01-1970 20:45" "10-01-1970 03:07" "<description>" pair
+insert "19-01-1970 01:32" "07-01-1970 13:35" "<description>"
+insert "03-01-1970 14:56" "07-01-1970 21:27" "<description>" joking
+delete "07-01-1970 21:45"
+create "group11"
+logon "qoe"
+insert "14-01-1970 17:38" "11-01-1970 18:12" "<description>" joking
+remove
+delete "06-01-1970 03:33"
+logoff
+logon "Felix"
+logoff
+insert "10-01-1970 19:55" "17-01-1970 05:55" "<description>" CSC
+insert "Bear" "<email>"  fake
+
+insert "10-01-1970 19:55" "17-01-1970 05:55" "<description>" CSC
+insert "Bear" "<email>"  fake
+delete "12-01-1970 08:49"
+insert "22-01-1970 21:49" "05-01-1970 17:11" "<description>" drawing
+undo
+insert "16-01-1970 08:06" "16-01-1970 18:58" "<description>" hiking
+undo
+logon "fail"
+insert "18-01-1970 22:40" "16-01-1970 23:37" "<description>" csFamily
+create "flying"
+insert "04-01-1970 22:16" "21-01-1970 07:59" "<description>"
+logoff
+withdraw
+logoff
+insert "04-01-1970 00:04" "23-01-1970 16:58" "<description>" COMP104
+logoff
+delete "10-01-1970 10:05"
+undo
+delete "13-01-1970 22:39"
+logon "Bear"
+withdraw
+insert "03-01-1970 00:27" "09-01-1970 04:28" "<description>"
+create "KAROAKE"
+withdraw
+insert "05-01-1970 09:35" "17-01-1970 17:14" "<description>"
+withdraw
+delete "13-01-1970 19:56"
+insert "08-01-1970 17:38" "24-01-1970 15:12" "<description>" House4
+delete "16-01-1970 20:42"
+insert "20-01-1970 02:52" "19-01-1970 02:28" "<description>"
+insert "20-01-1970 01:13" "13-01-1970 22:57" "<description>" House4
+undo
+insert "25-01-1970 13:36" "07-01-1970 12:17" "<description>"
+delete "07-01-1970 17:43"
+insert "07-01-1970 20:28" "21-01-1970 02:20" "<description>" csFamily
+logon "sqaure"
+insert "24-01-1970 11:53" "19-01-1970 16:16" "<description>" TV
+logon "Andrea"
+logoff
+insert "11-01-1970 22:57" "20-01-1970 21:01" "<description>" joking
+remove
+join "student"
+insert "16-01-1970 09:26" "08-01-1970 14:17" "<description>" COMP201
+withdraw
+insert "19-01-1970 05:57" "06-01-1970 17:09" "<description>" KAROAKE
+create "KAROAKE"
+insert "19-01-1970 13:51" "15-01-1970 19:21" "<description>" House2
+join "KAROAKE"
+logoff
+undo
+invalid
+create "House4"
+create "pair"
+delete "10-01-1970 23:42"
+insert "06-01-1970 18:19" "21-01-1970 21:03" "<description>" drawing
+logon "Kenneth"
+undo
+invalid
+insert "18-01-1970 04:20" "09-01-1970 14:13" "<description>"
+create "House4"
+insert "11-01-1970 13:05" "19-01-1970 04:10" "<description>"
+create "drawing"
+undo
+insert "07-01-1970 20:53" "19-01-1970 18:01" "<description>"
+remove
+logoff
+undo
+insert "16-01-1970 12:29" "04-01-1970 21:40" "<description>" House4
+insert "07-01-1970 04:37" "16-01-1970 10:21" "<description>" group11
+logoff
+join "student"
+remove
+create "TV"
+insert "16-01-1970 16:23" "13-01-1970 13:44" "<description>" group11
+delete "02-01-1970 19:54"
+join "TV"
+logoff
+insert "16-01-1970 11:35" "18-01-1970 15:06" "<description>" House4
+invalid
+logon "Kenny"
+undo
+undo
+withdraw
+insert "17-01-1970 16:50" "13-01-1970 06:47" "<description>"
+logoff
+undo
+invalid
+join "committee"
+insert "02-01-1970 06:57" "16-01-1970 22:20" "<description>" House4
+logoff
+insert "16-01-1970 10:35" "18-01-1970 09:25" "<description>" flying
+undo
+insert "06-01-1970 17:08" "25-01-1970 02:21" "<description>" csFamily
+undo
+undo
+insert "25-01-1970 22:25" "19-01-1970 21:00" "<description>"
+create "CSC"
+insert "21-01-1970 22:05" "04-01-1970 01:50" "<description>"
+insert "03-01-1970 19:03" "02-01-1970 21:52" "<description>" playing
+join "COMP104"
+create "csFamily"
+logon "May"
+logon "Apple"  "<email>" 
+
+logon "May"
+logon "Apple"  "<email>" 
+remove
+join "COMP201"
+logon "May"
+insert "08-01-1970 13:31" "06-01-1970 14:48" "<description>" csFamily
+delete "18-01-1970 07:56"
+undo
+delete "05-01-1970 02:21"
+insert "23-01-1970 13:12" "03-01-1970 14:52" "<description>" joking
+join "House2"
+remove
+create "student"
+withdraw
+logon "Mandy"
+insert "12-01-1970 02:20" "01-01-1970 14:52" "<description>" KAROAKE
+create "KAROAKE"
+insert "25-01-1970 15:23" "11-01-1970 14:22" "<description>" House4
+create "CSC"
+insert "24-01-1970 12:59" "11-01-1970 23:23" "<description>" committee
+insert "09-01-1970 03:32" "03-01-1970 13:05" "<description>" playing
+join "COMP104"
+insert "16-01-1970 16:49" "15-01-1970 06:28" "<description>" KAROAKE
+insert "17-01-1970 16:59" "05-01-1970 01:46" "<description>"
+remove
+create "student"
+undo
+insert "23-01-1970 17:36" "08-01-1970 04:17" "<description>"
+remove
+withdraw
+withdraw
+logoff
+logon "Felix"
+delete "17-01-1970 11:13"
+undo
+invalid
+remove
+withdraw
+join "COMP201"
+insert "22-01-1970 17:47" "05-01-1970 12:51" "<description>" tv
+undo
+insert "13-01-1970 04:59" "06-01-1970 00:15" "<description>" csFamily
+insert "10-01-1970 13:39" "13-01-1970 18:49" "<description>" playing
+create "csFamily"
+join "House4"
+join "group11"
+remove
+create "tv"
+logoff
+insert "03-01-1970 06:55" "03-01-1970 12:03" "<description>" hiking
+logoff
+insert "06-01-1970 22:22" "18-01-1970 01:11" "<description>"
+logoff
+undo
+invalid
+invalid
+withdraw
+create "playing"
+undo
+undo
+undo
+insert "04-01-1970 23:38" "18-01-1970 10:19" "<description>" KAROAKE
+create "drawing"
+join "committee"
+insert "24-01-1970 10:46" "20-01-1970 16:54" "<description>" committee
+join "hiking"
+insert "25-01-1970 16:38" "20-01-1970 20:57" "<description>" joking
+create "group11"
+undo
+remove
+logon "sqaure"
+delete "04-01-1970 15:49"
+join "committee"
+invalid
+remove
+insert "19-01-1970 11:01" "14-01-1970 05:04" "<description>"
+logoff
+logoff
+invalid
+logon "May"
+remove
+create "hiking"
+logon "Bonnie"
+undo
+join "committee"
+logon "Tracy"
+join "COMP201"
+undo
+insert "23-01-1970 10:43" "08-01-1970 12:12" "<description>" csFamily
+create "committee"
+join "pair"
+logon "Andrea"
+undo
+insert "22-01-1970 13:24" "05-01-1970 10:04" "<description>" COMP201
+logon "Tracy"
+create "Professer"
+insert "26-01-1970 03:50" "18-01-1970 05:28" "<description>" csFamily
+insert "21-01-1970 10:16" "11-01-1970 02:30" "<description>" CSC
+delete "06-01-1970 10:52"
+insert "07-01-1970 03:48" "04-01-1970 10:43" "<description>" csFamily
+delete "18-01-1970 00:36"
+logon "CSC"
+logon "sqaure" "<email>" 
+
+logon "CSC"
+logon "sqaure" "<email>" 
+logon "Jon"
+logon "Andrew"
+logoff
+remove
+invalid
+invalid
+withdraw
+insert "09-01-1970 05:07" "08-01-1970 13:48" "<description>" House4
+join "csFamily"
+undo
+delete "17-01-1970 20:38"
+delete "18-01-1970 13:09"
+withdraw
+logoff
+logoff
+logoff
+logon "Kenny"
+invalid
+join "flying"
+create "playing"
+create "COMP104"
+withdraw
+insert "14-01-1970 06:31" "22-01-1970 22:52" "<description>"
+undo
+insert "25-01-1970 15:56" "14-01-1970 08:47" "<description>" group11
+create "House4"
+logoff
+invalid
+withdraw
+remove
+insert "07-01-1970 04:48" "11-01-1970 12:41" "<description>" flying
+delete "04-01-1970 13:33"
+withdraw
+remove
+logon "Tracy"
+insert "19-01-1970 20:21" "17-01-1970 06:36" "<description>" pair
+insert "22-01-1970 06:07" "21-01-1970 05:26" "<description>" House4
+join "flying"
+create "tv"
+create "pair"
+remove
+delete "16-01-1970 12:45"
+logoff
+insert "01-01-1970 10:29" "15-01-1970 16:49" "<description>" TV
+invalid
+insert "02-01-1970 12:23" "18-01-1970 11:12" "<description>" House4
+insert "04-01-1970 09:11" "15-01-1970 15:31" "<description>"
+insert "25-01-1970 21:12" "18-01-1970 10:00" "<description>" joking
+withdraw
+remove "group11"
+create "flying"
+invalid
+remove
+remove
+undo
+insert "11-01-1970 14:40" "05-01-1970 23:44" "<description>" flying
+undo
+insert "08-01-1970 14:24" "25-01-1970 04:11" "<description>" House2
+insert "23-01-1970 00:57" "20-01-1970 13:55" "<description>" CSC
+logoff
+logoff
+withdraw
+logoff
+remove
+create "joking"
+insert "24-01-1970 14:20" "08-01-1970 04:08" "<description>"
+join "COMP104"
+undo
+remove
+insert "19-01-1970 11:19" "04-01-1970 22:23" "<description>"
+logoff
+join "committee"
+withdraw
+create "csFamily"
+invalid
+undo
+delete "21-01-1970 02:26"
+insert "14-01-1970 20:07" "13-01-1970 12:24" "<description>" joking
+delete "22-01-1970 17:23"
+insert "11-01-1970 15:07" "17-01-1970 11:31" "<description>" KAROAKE
+create "hiking"
+insert "08-01-1970 02:10" "04-01-1970 08:04" "<description>" TV
+insert "09-01-1970 04:53" "05-01-1970 15:52" "<description>"
+remove
+insert "15-01-1970 12:04" "23-01-1970 18:35" "<description>" TV
+insert "04-01-1970 23:05" "08-01-1970 16:00" "<description>"
+join "joking"
+invalid
+join "CSC"
+delete "07-01-1970 05:33"
+create "COMP104"
+remove
+insert "25-01-1970 02:20" "22-01-1970 01:08" "<description>"
+create "COMP104"
+create "Professer"
+logon "Jon"
+undo
+invalid
+insert "16-01-1970 02:38" "16-01-1970 12:04" "<description>" csFamily
+logon "triangle"
+logon "Jon" "<email>"  fake
+
+logon "triangle"
+logon "Jon" "<email>"  fake
+create "joking"
+withdraw
+logon "Tracy"
+delete "25-01-1970 18:23"
+invalid
+undo
+join "tv"
+create "joking"
+delete "26-01-1970 00:25"
+invalid
+remove
+withdraw
+insert "19-01-1970 09:34" "05-01-1970 02:15" "<description>" TV
+insert "24-01-1970 01:48" "22-01-1970 13:35" "<description>" House4
+undo
+insert "13-01-1970 02:13" "16-01-1970 07:49" "<description>"
+insert "04-01-1970 05:15" "11-01-1970 13:06" "<description>"
+insert "04-01-1970 06:47" "02-01-1970 00:06" "<description>" hiking
+join "playing"
+insert "12-01-1970 23:59" "14-01-1970 23:49" "<description>" csFamily
+invalid
+delete "23-01-1970 05:12"
+logoff
+logoff
+logon "invalid"
+undo
+create "Professer"
+insert "15-01-1970 12:07" "21-01-1970 05:41" "<description>" joking
+remove
+delete "13-01-1970 17:50"
+insert "19-01-1970 17:19" "22-01-1970 15:57" "<description>"
+create "COMP201"
+withdraw
+insert "21-01-1970 20:19" "12-01-1970 12:36" "<description>" committee
+delete "18-01-1970 17:11"
+create "csFamily"
+join "tv"
+logon "Andrea"
+logoff
+withdraw
+insert "20-01-1970 11:53" "14-01-1970 03:57" "<description>" TV
+undo
+insert "22-01-1970 14:18" "05-01-1970 22:38" "<description>"
+logoff
+insert "02-01-1970 01:57" "05-01-1970 22:39" "<description>"
+logoff
+undo
+insert "06-01-1970 11:28" "24-01-1970 13:36" "<description>" joking
+join "COMP104"
+remove "hiking"
+delete "24-01-1970 05:49"
+insert "18-01-1970 13:58" "09-01-1970 05:39" "<description>" House2
+invalid
+create "flying"
+insert "23-01-1970 17:40" "17-01-1970 17:41" "<description>" COMP104
+logon "Kenny"
+logoff
+delete "02-01-1970 17:55"
+insert "12-01-1970 14:17" "15-01-1970 11:34" "<description>" TV
+logon "Tracy"
+insert "21-01-1970 17:04" "05-01-1970 12:01" "<description>" CSC
+logon "ar Lo"
+logoff
+insert "21-01-1970 20:55" "18-01-1970 19:50" "<description>" flying
+invalid
+create "flying"
+logoff
+logoff
+logoff
+insert "22-01-1970 01:46" "09-01-1970 06:54" "<description>" joking
+logoff
+insert "04-01-1970 20:30" "25-01-1970 00:13" "<description>" csFamily
+create "tv"
+delete "25-01-1970 21:40"
+logon "sqaure"
+logoff
+delete "15-01-1970 19:54"
+insert "21-01-1970 05:32" "19-01-1970 11:52" "<description>" student
+join "House4"
+withdraw
+insert "20-01-1970 04:01" "13-01-1970 02:17" "<description>" drawing
+undo
+logon "Apple"
+withdraw
+delete "20-01-1970 16:17"
+create "csFamily"
+logon "Kenneth"
+withdraw
+delete "18-01-1970 00:59"
+join "flying"
+insert "18-01-1970 13:45" "02-01-1970 00:10" "<description>" COMP104
+invalid
+join "House2"
+insert "10-01-1970 05:51" "21-01-1970 01:48" "<description>" Professer
+withdraw
+join "TV"
+insert "06-01-1970 22:34" "19-01-1970 02:01" "<description>" student
+remove
+logon "triangle"
+insert "02-01-1970 10:32" "09-01-1970 09:21" "<description>"
+insert "May" "<email>" 
+
+insert "02-01-1970 10:32" "09-01-1970 09:21" "<description>"
+insert "May" "<email>" 
+insert "19-01-1970 09:07" "15-01-1970 17:18" "<description>" flying
+insert "09-01-1970 05:49" "24-01-1970 16:52" "<description>" TV
+insert "16-01-1970 14:22" "04-01-1970 07:31" "<description>" KAROAKE
+remove
+insert "19-01-1970 11:26" "24-01-1970 08:48" "<description>"
+remove
+join "hiking"
+join "COMP104"
+create "drawing"
+undo
+remove
+undo
+undo
+invalid
+join "House2"
+delete "04-01-1970 01:20"
+remove
+undo
+logoff
+logoff
+logoff
+withdraw
+withdraw
+undo
+logoff
+create "TV"
+invalid
+delete "10-01-1970 07:20"
+insert "04-01-1970 19:53" "20-01-1970 05:47" "<description>" csFamily
+logon "Jon"
+logon "Jon"
+insert "24-01-1970 17:34" "18-01-1970 05:01" "<description>"
+undo
+join "COMP201"
+delete "16-01-1970 01:07"
+logon "Andrea"
+undo
+invalid
+insert "02-01-1970 06:10" "06-01-1970 16:23" "<description>"
+insert "19-01-1970 05:48" "15-01-1970 09:37" "<description>" pair
+join "pair"
+withdraw
+logon "Mandy"
+insert "05-01-1970 00:20" "05-01-1970 11:04" "<description>"
+undo
+create "CSC"
+withdraw
+withdraw
+insert "22-01-1970 21:00" "16-01-1970 13:54" "<description>"
+insert "21-01-1970 03:09" "21-01-1970 08:49" "<description>"
+undo
+delete "16-01-1970 09:11"
+withdraw
+insert "14-01-1970 00:04" "11-01-1970 20:52" "<description>" CSC
+undo
+insert "10-01-1970 12:59" "21-01-1970 10:55" "<description>" COMP104
+withdraw
+invalid
+logon "sqaure"
+insert "09-01-1970 22:42" "09-01-1970 21:40" "<description>"
+insert "03-01-1970 05:57" "21-01-1970 15:39" "<description>" House4
+invalid
+undo
+invalid
+undo
+withdraw
+undo
+invalid
+insert "08-01-1970 19:39" "01-01-1970 12:22" "<description>" KAROAKE
+invalid
+insert "18-01-1970 12:20" "11-01-1970 00:43" "<description>" playing
+create "flying"
+delete "24-01-1970 20:25"
+insert "08-01-1970 14:06" "09-01-1970 19:15" "<description>" KAROAKE
+logoff
+logon "Tracy"
+invalid
+undo
+join "House4"
+join "pair"
+insert "08-01-1970 14:45" "13-01-1970 01:03" "<description>"
+undo
+logoff
+create "hiking"
+logoff
+insert "21-01-1970 21:55" "03-01-1970 19:03" "<description>" drawing
+withdraw
+remove
+insert "24-01-1970 22:10" "13-01-1970 20:38" "<description>" COMP104
+insert "22-01-1970 00:49" "25-01-1970 05:18" "<description>"
+delete "17-01-1970 08:40"
+invalid
+insert "03-01-1970 06:23" "23-01-1970 16:01" "<description>" CSC
+withdraw
+undo
+insert "24-01-1970 01:34" "11-01-1970 12:05" "<description>" group11
+undo
+remove
+insert "18-01-1970 18:46" "20-01-1970 06:27" "<description>"
+insert "04-01-1970 01:01" "11-01-1970 12:01" "<description>" fake
+
+insert "04-01-1970 01:01" "11-01-1970 12:01" "<description>" fake
+join "hiking"
+insert "23-01-1970 11:49" "19-01-1970 04:31" "<description>" COMP201
+logon "Felix"
+insert "18-01-1970 08:08" "21-01-1970 15:41" "<description>" student
+logoff
+insert "13-01-1970 00:57" "11-01-1970 20:03" "<description>" student
+remove
+withdraw
+create "csFamily"
+withdraw
+create "tv"
+insert "13-01-1970 16:54" "11-01-1970 14:40" "<description>" pair
+insert "11-01-1970 16:52" "23-01-1970 16:58" "<description>" joking
+insert "04-01-1970 11:36" "04-01-1970 04:26" "<description>" group11
+delete "11-01-1970 23:22"
+join "flying"
+invalid
+invalid
+undo
+undo
+insert "16-01-1970 16:20" "01-01-1970 17:12" "<description>" group11
+insert "20-01-1970 01:37" "04-01-1970 18:49" "<description>" House2
+create "csFamily"
+insert "16-01-1970 06:15" "01-01-1970 08:35" "<description>"
+logon "Bonnie"
+invalid
+undo
+insert "19-01-1970 14:16" "23-01-1970 23:14" "<description>"
+remove
+create "House2"
+undo
+logoff
+delete "14-01-1970 02:17"
+insert "20-01-1970 19:45" "17-01-1970 08:34" "<description>" flying
+remove
+insert "14-01-1970 20:29" "12-01-1970 10:38" "<description>" tv
+invalid
+withdraw
+create "csFamily"
+remove
+insert "03-01-1970 19:41" "21-01-1970 00:16" "<description>" KAROAKE
+insert "14-01-1970 18:01" "05-01-1970 09:10" "<description>" student
+join "student"
+insert "19-01-1970 01:47" "24-01-1970 07:15" "<description>" drawing
+remove
+withdraw
+join "committee"
+undo
+insert "12-01-1970 10:44" "10-01-1970 13:26" "<description>" tv
+join "csFamily"
+withdraw
+join "flying"
+insert "22-01-1970 10:10" "18-01-1970 03:42" "<description>"
+withdraw
+logon "Kenny"
+insert "09-01-1970 05:13" "13-01-1970 13:46" "<description>"
+withdraw
+insert "06-01-1970 07:50" "17-01-1970 11:56" "<description>" joking
+logoff
+insert "19-01-1970 03:09" "16-01-1970 16:05" "<description>" Professer
+logoff
+insert "20-01-1970 17:17" "18-01-1970 01:27" "<description>" COMP104
+undo
+insert "11-01-1970 18:28" "14-01-1970 10:53" "<description>"
+insert "13-01-1970 20:38" "11-01-1970 13:06" "<description>" drawing
+logoff
+remove
+create "pair"
+join "group11"
+logoff
+logon "Kenneth"
+join "csFamily"
+insert "10-01-1970 04:56" "13-01-1970 10:34" "<description>"
+withdraw
+invalid
+delete "21-01-1970 07:33"
+insert "05-01-1970 09:19" "21-01-1970 16:42" "<description>"
+invalid
+create "committee"
+insert "03-01-1970 16:00" "22-01-1970 15:36" "<description>" tv
+logoff
+insert "09-01-1970 23:10" "10-01-1970 16:28" "<description>" joking
+undo
+logoff
+invalid
+join "flying"
+create "Professer"
+invalid
+withdraw
+logoff
+logon "Kenny"
+delete "03-01-1970 07:11"
+remove
+logon "Jon"
+logoff
+remove
+undo
+invalid
+insert "18-01-1970 14:28" "19-01-1970 13:30" "<description>" House2
+withdraw "House4" fake
+
+withdraw "House4" fake
+insert "10-01-1970 17:19" "15-01-1970 00:23" "<description>"
+logoff
+join "TV"
+invalid
+undo
+logoff
+withdraw
+insert "17-01-1970 13:38" "16-01-1970 08:44" "<description>"
+logoff
+insert "09-01-1970 05:20" "24-01-1970 09:55" "<description>" csFamily
+withdraw
+logon "Bonnie"
+delete "13-01-1970 19:02"
+remove
+remove
+invalid
+undo
+remove
+insert "23-01-1970 08:05" "09-01-1970 17:44" "<description>" TV
+remove
+insert "12-01-1970 06:25" "14-01-1970 15:48" "<description>"
+delete "24-01-1970 04:30"
+insert "08-01-1970 16:50" "06-01-1970 02:39" "<description>" Professer
+invalid
+remove "hiking"
+logoff
+invalid
+insert "19-01-1970 10:58" "03-01-1970 20:25" "<description>"
+remove
+create "COMP201"
+insert "06-01-1970 02:55" "21-01-1970 08:55" "<description>" KAROAKE
+withdraw
+insert "17-01-1970 03:44" "20-01-1970 08:51" "<description>"
+withdraw
+invalid
+undo
+insert "10-01-1970 02:00" "06-01-1970 08:18" "<description>" flying
+undo
+join "csFamily"
+logoff
+remove
+insert "22-01-1970 02:38" "09-01-1970 05:42" "<description>" TV
+delete "03-01-1970 11:05"
+logoff
+insert "03-01-1970 00:45" "24-01-1970 07:07" "<description>" tv
+invalid
+insert "10-01-1970 01:39" "07-01-1970 14:24" "<description>" flying
+insert "15-01-1970 20:16" "03-01-1970 10:07" "<description>"
+undo
+delete "02-01-1970 13:56"
+logoff
+withdraw
+logon "Andrew"
+withdraw
+undo
+insert "19-01-1970 08:20" "02-01-1970 19:06" "<description>" pair
+create "COMP104"
+undo
+remove
+join "playing"
+logoff
+withdraw
+delete "03-01-1970 20:20"
+create "joking"
+insert "15-01-1970 11:45" "24-01-1970 16:48" "<description>" KAROAKE
+insert "04-01-1970 03:31" "21-01-1970 04:43" "<description>" KAROAKE
+insert "19-01-1970 10:47" "05-01-1970 15:04" "<description>" House4
+invalid
+logon "Bear"
+join "pair"
+join "hiking"
+insert "26-01-1970 03:31" "24-01-1970 22:11" "<description>" group11
+insert "25-01-1970 10:29" "05-01-1970 07:06" "<description>" hiking
+undo
+delete "24-01-1970 20:39"
+delete "24-01-1970 03:57"
+invalid
+logoff
+remove
+logon "ar Lo"
+insert "05-01-1970 03:40" "13-01-1970 13:49" "<description>"
+remove
+logoff
+withdraw
+invalid
+create "COMP104"
+insert "17-01-1970 15:24" "15-01-1970 17:39" "<description>" joking
+join "Professer"
+remove
+invalid
+insert "15-01-1970 14:55" "25-01-1970 08:06" "<description>" drawing
+insert "07-01-1970 22:15" "19-01-1970 20:58" "<description>" drawing
+remove
+invalid
+delete "14-01-1970 17:33"
+insert "23-01-1970 02:09" "17-01-1970 16:29" "<description>"
+create "CSC"
+remove
+undo
+insert "18-01-1970 22:08" "14-01-1970 09:59" "<description>" fake
+
+insert "18-01-1970 22:08" "14-01-1970 09:59" "<description>" fake
+remove
+logoff
+delete "18-01-1970 12:14"
+join "group11"
+undo
+withdraw
+logon "Jon"
+logon "carin"
+join "tv"
+insert "10-01-1970 16:40" "10-01-1970 18:15" "<description>" COMP201
+remove
+logoff
+insert "13-01-1970 21:51" "16-01-1970 12:26" "<description>" House2
+insert "04-01-1970 05:21" "13-01-1970 14:04" "<description>" committee
+withdraw
+insert "22-01-1970 09:32" "17-01-1970 03:36" "<description>" Professer
+insert "14-01-1970 11:43" "24-01-1970 10:03" "<description>" playing
+withdraw
+invalid
+remove
+withdraw
+join "student"
+create "drawing"
+insert "07-01-1970 05:33" "09-01-1970 08:08" "<description>" House2
+remove "CSC"
+create "COMP201"
+undo
+undo
+insert "18-01-1970 15:21" "04-01-1970 17:20" "<description>" COMP104
+insert "14-01-1970 07:18" "20-01-1970 02:53" "<description>"
+delete "10-01-1970 17:35"
+insert "03-01-1970 20:45" "09-01-1970 05:51" "<description>" student
+create "House2"
+logon "Kenny"
+remove
+create "House4"
+invalid
+create "COMP104"
+logoff
+withdraw
+insert "04-01-1970 22:03" "11-01-1970 20:36" "<description>"
+invalid
+insert "11-01-1970 11:07" "18-01-1970 19:40" "<description>"
+undo
+remove
+create "flying"
+join "House4"
+logoff
+delete "03-01-1970 00:25"
+insert "12-01-1970 23:11" "05-01-1970 19:19" "<description>" group11
+withdraw
+withdraw
+insert "24-01-1970 07:25" "22-01-1970 16:27" "<description>" student
+delete "21-01-1970 22:40"
+join "csFamily"
+remove
+logoff
+insert "13-01-1970 23:48" "01-01-1970 13:23" "<description>"
+create "drawing"
+undo
+delete "12-01-1970 18:51"
+logoff
+withdraw
+withdraw
+remove
+insert "05-01-1970 19:20" "07-01-1970 06:53" "<description>" student
+undo
+logoff
+create "group11"
+withdraw
+insert "24-01-1970 19:14" "22-01-1970 16:42" "<description>" hiking
+logoff
+undo
+join "hiking"
+insert "05-01-1970 15:03" "15-01-1970 00:46" "<description>" flying
+remove
+delete "22-01-1970 08:28"
+create "TV"
+join "drawing"
+withdraw
+create "TV"
+undo
+logon "sqaure"
+logoff
+undo
+create "flying"
+insert "11-01-1970 15:20" "02-01-1970 14:56" "<description>" group11
+undo
+insert "10-01-1970 20:52" "01-01-1970 12:34" "<description>" csFamily
+withdraw
+invalid
+undo
+remove
+insert "05-01-1970 08:01" "20-01-1970 18:20" "<description>" tv
+remove
+join "House4"
+remove
+invalid
+withdraw
+delete "16-01-1970 13:42"
+delete "ar Lo" "<email>"  fake
+
+delete "16-01-1970 13:42"
+delete "ar Lo" "<email>"  fake
+join "committee"
+undo
+logon "Apple"
+insert "09-01-1970 18:08" "02-01-1970 15:34" "<description>" KAROAKE
+insert "08-01-1970 19:22" "05-01-1970 01:28" "<description>" COMP104
+undo
+withdraw
+invalid
+delete "06-01-1970 23:24"
+logon "Andrea"
+insert "13-01-1970 12:47" "24-01-1970 22:34" "<description>" tv
+insert "13-01-1970 09:10" "03-01-1970 21:41" "<description>" TV
+insert "19-01-1970 06:29" "16-01-1970 19:38" "<description>"
+insert "17-01-1970 02:32" "21-01-1970 19:33" "<description>" group11
+insert "21-01-1970 06:34" "04-01-1970 17:57" "<description>" CSC
+delete "01-01-1970 12:10"
+insert "03-01-1970 14:43" "24-01-1970 06:09" "<description>"
+insert "23-01-1970 13:56" "14-01-1970 00:07" "<description>" pair
+create "csFamily"
+delete "02-01-1970 21:25"
+insert "14-01-1970 05:14" "12-01-1970 13:52" "<description>" House4
+create "committee"
+insert "20-01-1970 13:13" "02-01-1970 03:42" "<description>"
+logon "carin"
+insert "20-01-1970 10:22" "06-01-1970 23:21" "<description>" hiking
+logoff
+create "hiking"
+insert "24-01-1970 05:37" "02-01-1970 15:20" "<description>" CSC
+insert "20-01-1970 14:31" "22-01-1970 21:29" "<description>" pair
+logon "Andrea"
+logoff
+join "joking"
+withdraw
+logon "Apple"
+undo
+insert "05-01-1970 07:05" "03-01-1970 11:00" "<description>" hiking
+invalid
+delete "06-01-1970 02:09"
+remove
+join "House4"
+insert "04-01-1970 17:08" "20-01-1970 12:19" "<description>" COMP201
+invalid
+logon "Mandy"
+logon "Bear"
+join "COMP104"
+create "Professer"
+withdraw
+logon "Kenneth"
+withdraw
+insert "14-01-1970 11:52" "04-01-1970 03:27" "<description>" drawing
+join "hiking"
+create "COMP201"
+invalid
+logon "Jon"
+logoff
+logon "Kenneth"
+logoff
+insert "17-01-1970 20:44" "20-01-1970 05:13" "<description>" committee
+remove
+insert "09-01-1970 08:49" "13-01-1970 06:47" "<description>" pair
+insert "03-01-1970 00:59" "02-01-1970 03:37" "<description>" committee
+logoff
+logon "Andrew"
+logoff
+logoff
+invalid
+undo
+logoff
+remove
+undo
+remove
+insert "03-01-1970 07:39" "09-01-1970 10:18" "<description>" joking
+logon "Kenny"
+delete "21-01-1970 11:35"
+insert "24-01-1970 14:34" "03-01-1970 21:49" "<description>" playing
+logoff
+delete "07-01-1970 22:10"
+delete "10-01-1970 13:01"
+logon "Bear"
+logoff
+insert "18-01-1970 02:27" "17-01-1970 19:53" "<description>" House4
+withdraw
+invalid
+join "student"
+withdraw
+insert "21-01-1970 03:21" "04-01-1970 09:29" "<description>"
+insert "01-01-1970 09:33" "03-01-1970 12:06" "<description>" playing
+join "csFamily"
+insert "05-01-1970 09:36" "18-01-1970 20:44" "<description>" CSC
+insert "11-01-1970 21:46" "15-01-1970 16:40" "<description>" student
+insert "25-01-1970 23:41" "24-01-1970 13:04" "<description>" House2
+undo
+delete "20-01-1970 05:57"
+logon "Bear"
+logon "Tracy"
+undo
+insert "09-01-1970 01:04" "04-01-1970 05:29" "<description>" tv
+logoff
+insert "21-01-1970 22:50" "19-01-1970 06:29" "<description>" csFamily
+create "csFamily"
+create "Andrea"  "<email>" 
+
+create "csFamily"
+create "Andrea"  "<email>" 
+insert "15-01-1970 17:46" "06-01-1970 18:06" "<description>" pair
+insert "19-01-1970 08:26" "20-01-1970 22:30" "<description>" csFamily
+invalid
+undo
+undo
+withdraw
+create "csFamily"
+undo
+insert "10-01-1970 09:25" "21-01-1970 19:51" "<description>" COMP104
+insert "05-01-1970 05:17" "06-01-1970 07:29" "<description>" TV
+logoff
+delete "24-01-1970 22:12"
+withdraw
+invalid
+insert "20-01-1970 00:10" "23-01-1970 01:18" "<description>" tv
+create "drawing"
+join "House4"
+insert "03-01-1970 09:56" "09-01-1970 02:39" "<description>"
+delete "23-01-1970 21:04"
+remove
+withdraw
+delete "25-01-1970 06:07"
+insert "23-01-1970 10:59" "12-01-1970 11:32" "<description>" KAROAKE
+insert "10-01-1970 02:48" "15-01-1970 01:40" "<description>"
+logoff
+undo
+insert "14-01-1970 11:46" "06-01-1970 07:00" "<description>" group11
+insert "18-01-1970 22:28" "14-01-1970 15:39" "<description>" flying
+insert "20-01-1970 10:55" "06-01-1970 23:36" "<description>" COMP104
+invalid
+create "group11"
+join "flying"
+insert "20-01-1970 22:33" "08-01-1970 05:47" "<description>"
+invalid
+join "COMP201"
+invalid
+withdraw
+create "House2"
+logon "carin"
+delete "18-01-1970 01:54"
+insert "26-01-1970 00:52" "01-01-1970 21:03" "<description>" csFamily
+invalid
+delete "21-01-1970 07:38"
+invalid
+insert "25-01-1970 04:31" "04-01-1970 13:37" "<description>" COMP201
+create "drawing"
+insert "06-01-1970 18:49" "05-01-1970 12:37" "<description>"
+logon "Tracy"
+insert "23-01-1970 14:40" "10-01-1970 02:54" "<description>" csFamily
+join "Professer"
+undo
+undo
+join "drawing"
+insert "23-01-1970 21:38" "16-01-1970 05:38" "<description>" csFamily
+insert "17-01-1970 18:35" "02-01-1970 09:11" "<description>" Professer
+insert "14-01-1970 23:10" "15-01-1970 21:27" "<description>" CSC
+withdraw
+join "tv"
+insert "08-01-1970 02:48" "13-01-1970 08:07" "<description>" playing
+invalid
+insert "08-01-1970 11:25" "18-01-1970 23:32" "<description>" drawing
+insert "16-01-1970 18:34" "23-01-1970 14:33" "<description>"
+join "playing"
+remove
+withdraw
+logon "triangle"
+insert "24-01-1970 21:50" "22-01-1970 16:25" "<description>" COMP104
+undo
+remove
+create "csFamily"
+logon "Tracy"
+insert "22-01-1970 15:22" "15-01-1970 16:46" "<description>" csFamily
+create "flying"
+withdraw
+logon "Felix"
+insert "23-01-1970 00:32" "19-01-1970 13:03" "<description>" joking
+insert "08-01-1970 06:33" "08-01-1970 09:37" "<description>" tv
+join "playing"
+remove
+undo
+insert "26-01-1970 02:52" "25-01-1970 19:57" "<description>" House2
+insert "19-01-1970 13:09" "10-01-1970 08:17" "<description>" flying
+invalid
+create "flying"
+remove
+remove
+delete "12-01-1970 00:28"
+insert "11-01-1970 01:08" "19-01-1970 23:19" "<description>" student
+insert "03-01-1970 06:09" "03-01-1970 16:35" "<description>" playing
+insert "14-01-1970 02:29" "05-01-1970 15:20" "<description>" COMP104
+undo
+invalid
+undo
+delete "20-01-1970 06:10"
+invalid
+join "drawing"
+delete "12-01-1970 23:57"
+create "tv"
+withdraw
+remove "csFamily"
+remove "fail" "<email>" 
+
+remove "csFamily"
+remove "fail" "<email>" 
+insert "22-01-1970 00:03" "11-01-1970 20:14" "<description>"
+delete "06-01-1970 11:45"
+logon "sqaure"
+remove
+join "KAROAKE"
+create "student"
+logon "fail"
+insert "04-01-1970 06:38" "23-01-1970 21:01" "<description>" csFamily
+invalid
+join "COMP201"
+join "KAROAKE"
+join "CSC"
+logoff
+delete "13-01-1970 23:59"
+logoff
+join "joking"
+create "House2"
+logoff
+insert "20-01-1970 06:21" "16-01-1970 07:03" "<description>"
+insert "23-01-1970 05:35" "18-01-1970 12:53" "<description>" hiking
+invalid
+logoff
+remove
+insert "03-01-1970 02:33" "11-01-1970 15:31" "<description>" playing
+undo
+withdraw
+create "tv"
+invalid
+logoff
+delete "25-01-1970 00:29"
+logon "CSC"
+logoff
+logoff
+withdraw
+withdraw
+insert "22-01-1970 17:39" "04-01-1970 19:09" "<description>" House2
+insert "03-01-1970 00:25" "24-01-1970 17:42" "<description>" playing
+delete "19-01-1970 17:55"
+remove
+remove
+invalid
+undo
+undo
+logoff
+undo
+delete "03-01-1970 11:34"
+insert "20-01-1970 09:50" "14-01-1970 18:50" "<description>" student
+insert "06-01-1970 06:58" "18-01-1970 17:48" "<description>" playing
+join "committee"
+logoff
+undo
+delete "14-01-1970 08:03"
+delete "25-01-1970 03:38"
+delete "15-01-1970 06:54"
+insert "07-01-1970 01:27" "13-01-1970 16:09" "<description>" playing
+logoff
+insert "13-01-1970 21:17" "15-01-1970 06:20" "<description>"
+logoff
+invalid
+undo
+logon "sqaure"
+logoff
+withdraw
+join "pair"
+invalid
+logon "invalid"
+insert "15-01-1970 23:38" "05-01-1970 23:05" "<description>" KAROAKE
+withdraw
+logoff
+insert "09-01-1970 08:59" "22-01-1970 02:52" "<description>" House2
+logon "Andrew"
+logoff
+insert "12-01-1970 09:54" "06-01-1970 10:37" "<description>"
+remove
+undo
+withdraw
+insert "19-01-1970 06:00" "03-01-1970 03:08" "<description>"
+insert "18-01-1970 17:43" "11-01-1970 07:44" "<description>" pair
+remove
+remove
+logon "Apple"
+logon "Mandy"
+invalid
+logon "Bonnie"
+withdraw
+logon "Kenny"
+join "csFamily"
+withdraw
+remove
+undo
+invalid
+insert "24-01-1970 16:07" "06-01-1970 00:40" "<description>" KAROAKE
+insert "07-01-1970 19:18" "05-01-1970 15:07" "<description>" joking
+insert "12-01-1970 06:28" "05-01-1970 15:48" "<description>" joking
+logon "Andrew"
+withdraw
+logon "Bonnie"
+join "committee"
+insert "25-01-1970 08:29" "02-01-1970 08:44" "<description>" pair
+insert "17-01-1970 13:20" "19-01-1970 11:14" "<description>" pair fake
+
+insert "17-01-1970 13:20" "19-01-1970 11:14" "<description>" pair fake
+invalid
+insert "07-01-1970 01:37" "02-01-1970 08:07" "<description>" committee
+join "KAROAKE"
+insert "08-01-1970 21:43" "06-01-1970 05:43" "<description>" group11
+insert "11-01-1970 06:23" "05-01-1970 20:08" "<description>" student
+undo
+undo
+undo
+insert "15-01-1970 00:49" "03-01-1970 01:08" "<description>" csFamily
+insert "09-01-1970 11:37" "10-01-1970 04:07" "<description>" TV
+delete "19-01-1970 01:30"
+insert "19-01-1970 11:26" "06-01-1970 15:07" "<description>" CSC
+create "House4"
+insert "06-01-1970 00:39" "04-01-1970 09:04" "<description>" CSC
+logoff
+insert "07-01-1970 14:23" "02-01-1970 10:08" "<description>" House2
+remove
+join "joking"
+join "House4"
+insert "07-01-1970 21:38" "05-01-1970 14:22" "<description>" TV
+remove
+delete "22-01-1970 21:00"
+insert "11-01-1970 05:40" "17-01-1970 11:05" "<description>" flying
+remove
+delete "19-01-1970 07:45"
+create "pair"
+insert "09-01-1970 10:18" "04-01-1970 19:09" "<description>" TV
+insert "22-01-1970 05:00" "19-01-1970 13:52" "<description>" committee
+delete "24-01-1970 10:16"
+create "csFamily"
+insert "11-01-1970 10:24" "02-01-1970 21:19" "<description>" flying
+delete "12-01-1970 22:36"
+insert "14-01-1970 04:24" "22-01-1970 17:45" "<description>" flying
+withdraw
+logon "carin"
+remove
+remove
+insert "19-01-1970 11:41" "10-01-1970 08:08" "<description>" COMP201
+logon "triangle"
+create "COMP104"
+join "COMP201"
+join "student"
+insert "14-01-1970 15:33" "17-01-1970 14:03" "<description>"
+undo
+remove
+insert "02-01-1970 07:53" "16-01-1970 21:43" "<description>" student
+logon "Bonnie"
+undo
+remove
+create "hiking"
+logoff
+logoff
+delete "20-01-1970 18:14"
+insert "18-01-1970 15:07" "12-01-1970 06:09" "<description>" KAROAKE
+insert "19-01-1970 06:09" "23-01-1970 05:16" "<description>"
+invalid
+invalid
+logoff
+logon "CSC"
+invalid
+logon "Bonnie"
+create "playing"
+logon "Bonnie"
+insert "13-01-1970 18:14" "22-01-1970 09:14" "<description>" COMP201
+insert "17-01-1970 14:38" "09-01-1970 07:24" "<description>" committee
+insert "23-01-1970 00:47" "04-01-1970 15:58" "<description>" csFamily
+insert "10-01-1970 20:52" "23-01-1970 21:22" "<description>" drawing
+invalid
+insert "21-01-1970 08:45" "15-01-1970 17:10" "<description>" group11
+insert "15-01-1970 07:33" "15-01-1970 07:27" "<description>" House2
+join "House4"
+create "hiking"
+undo
+remove
+insert "23-01-1970 06:48" "21-01-1970 21:52" "<description>" student
+insert "23-01-1970 15:53" "18-01-1970 22:01" "<description>" hiking
+insert "15-01-1970 09:34" "21-01-1970 17:19" "<description>" pair
+delete "23-01-1970 20:51"
+withdraw
+insert "14-01-1970 19:45" "08-01-1970 06:16" "<description>" House4
+insert "02-01-1970 22:07" "09-01-1970 02:22" "<description>" committee
+logon "triangle"
+withdraw
+logoff
+insert "11-01-1970 20:10" "07-01-1970 07:37" "<description>"
+logon "sqaure"
+undo
+join "House4"
+delete "03-01-1970 04:29"
+insert "05-01-1970 05:22" "11-01-1970 09:47" "<description>" COMP104
+insert "05-01-1970 11:20" "11-01-1970 09:41" "<description>" CSC
+create "hiking"
+withdraw
+logoff
+insert "10-01-1970 15:32" "21-01-1970 00:11" "<description>" Professer
+create "committee"
+insert "20-01-1970 03:08" "08-01-1970 19:28" "<description>"
+invalid
+withdraw
+logoff
+logoff "Felix"  "<email>" 
+
+logoff
+logoff "Felix"  "<email>" 
+remove
+insert "04-01-1970 13:50" "23-01-1970 00:02" "<description>" KAROAKE
+create "House2"
+withdraw
+delete "04-01-1970 09:05"
+insert "05-01-1970 03:24" "04-01-1970 22:14" "<description>" TV
+remove
+invalid
+remove
+invalid
+logoff
+insert "04-01-1970 04:40" "15-01-1970 18:23" "<description>" playing
+insert "08-01-1970 20:47" "10-01-1970 22:37" "<description>" Professer
+insert "02-01-1970 09:27" "20-01-1970 22:18" "<description>" joking
+create "TV"
+withdraw
+insert "13-01-1970 16:17" "19-01-1970 13:59" "<description>" House2
+undo
+logoff
+logoff
+delete "10-01-1970 22:40"
+undo
+insert "11-01-1970 19:33" "03-01-1970 16:25" "<description>"
+insert "12-01-1970 14:05" "24-01-1970 15:46" "<description>" group11
+delete "08-01-1970 10:25"
+create "COMP201"
+undo
+logon "fail"
+insert "17-01-1970 13:49" "14-01-1970 18:00" "<description>" tv
+logoff
+delete "04-01-1970 07:04"
+delete "06-01-1970 16:21"
+delete "24-01-1970 17:21"
+create "group11"
+join "csFamily"
+logoff
+insert "25-01-1970 20:39" "25-01-1970 07:11" "<description>" tv
+insert "08-01-1970 02:23" "12-01-1970 08:52" "<description>"
+withdraw
+invalid
+withdraw
+create "student"
+join "drawing"
+create "House4"
+delete "10-01-1970 21:33"
+withdraw
+logoff
+logon "sqaure"
+insert "03-01-1970 15:06" "06-01-1970 18:25" "<description>" tv
+remove "KAROAKE"
+delete "15-01-1970 20:13"
+delete "04-01-1970 17:13"
+insert "02-01-1970 22:13" "12-01-1970 09:45" "<description>" House4
+insert "18-01-1970 02:49" "07-01-1970 02:07" "<description>" COMP104
+remove
+join "tv"
+insert "21-01-1970 23:19" "04-01-1970 20:21" "<description>"
+invalid
+insert "08-01-1970 01:31" "11-01-1970 21:29" "<description>" flying
+undo
+insert "25-01-1970 02:07" "20-01-1970 19:00" "<description>" group11
+insert "21-01-1970 17:23" "22-01-1970 11:49" "<description>" House2
+invalid
+withdraw
+undo
+logon "Mandy"
+withdraw
+remove
+undo
+invalid
+insert "20-01-1970 00:00" "01-01-1970 18:09" "<description>" TV
+create "House2"
+insert "19-01-1970 13:51" "24-01-1970 21:44" "<description>" House2
+join "hiking"
+join "CSC"
+remove
+logoff
+logon "Horner"
+insert "12-01-1970 21:51" "13-01-1970 13:38" "<description>" Professer
+insert "21-01-1970 23:28" "07-01-1970 03:54" "<description>"
+undo
+logoff
+remove
+logoff
+insert "03-01-1970 15:41" "13-01-1970 14:06" "<description>" pair
+invalid
+undo
+insert "04-01-1970 16:19" "16-01-1970 22:36" "<description>" playing
+undo
+insert "24-01-1970 07:13" "13-01-1970 07:36" "<description>"
+insert "17-01-1970 11:07" "22-01-1970 10:47" "<description>"
+invalid
+invalid
+delete "23-01-1970 00:08"
+invalid
+insert "22-01-1970 01:26" "24-01-1970 16:48" "<description>" flying
+withdraw
+create "joking"
+logoff
+invalid
+invalid "Mandy"  "<email>" 
+
+invalid
+invalid "Mandy"  "<email>" 
+create "hiking"
+remove
+insert "14-01-1970 01:43" "14-01-1970 08:05" "<description>" tv
+insert "10-01-1970 17:18" "25-01-1970 02:58" "<description>" COMP104
+join "House4"
+delete "15-01-1970 13:19"
+join "pair"
+remove
+invalid
+invalid
+join "student"
+insert "18-01-1970 06:22" "06-01-1970 06:14" "<description>" joking
+create "flying"
+logoff
+undo
+insert "21-01-1970 17:36" "13-01-1970 05:11" "<description>"
+join "group11"
+join "playing"
+invalid
+create "student"
+remove
+undo
+withdraw
+insert "13-01-1970 08:01" "14-01-1970 22:44" "<description>"
+create "committee"
+join "committee"
+insert "13-01-1970 08:08" "08-01-1970 12:51" "<description>" pair
+invalid
+remove
+insert "15-01-1970 09:46" "19-01-1970 01:38" "<description>" CSC
+withdraw
+withdraw
+insert "24-01-1970 13:18" "20-01-1970 04:02" "<description>"
+logoff
+delete "21-01-1970 14:17"
+logon "Kenny"
+logon "triangle"
+insert "08-01-1970 12:46" "18-01-1970 22:36" "<description>"
+logon "Jon"
+withdraw
+logon "May"
+undo
+delete "15-01-1970 04:16"
+create "flying"
+delete "20-01-1970 02:39"
+invalid
+undo
+insert "05-01-1970 23:10" "21-01-1970 20:25" "<description>" COMP104
+undo
+create "House2"
+withdraw
+insert "14-01-1970 17:55" "17-01-1970 06:56" "<description>" COMP104
+create "tv"
+remove
+delete "19-01-1970 16:06"
+insert "21-01-1970 04:48" "15-01-1970 04:18" "<description>" COMP201
+insert "07-01-1970 09:19" "20-01-1970 11:28" "<description>"
+insert "10-01-1970 11:05" "24-01-1970 23:21" "<description>" csFamily
+withdraw
+remove
+join "joking"
+withdraw
+insert "07-01-1970 12:48" "21-01-1970 22:00" "<description>"
+invalid
+logoff
+insert "21-01-1970 09:58" "06-01-1970 17:07" "<description>" House2
+insert "20-01-1970 17:09" "09-01-1970 07:30" "<description>" pair
+undo
+logon "Felix"
+invalid
+undo
+undo
+insert "15-01-1970 12:45" "05-01-1970 16:40" "<description>" tv
+insert "23-01-1970 03:28" "08-01-1970 06:21" "<description>" group11
+insert "04-01-1970 01:57" "12-01-1970 04:04" "<description>"
+remove
+delete "19-01-1970 20:34"
+logoff
+create "drawing"
+join "committee"
+logoff
+create "Professer"
+invalid
+logon "Tracy"
+logon "Kenny"
+delete "11-01-1970 19:47"
+delete "06-01-1970 15:48"
+remove
+create "KAROAKE"
+insert "24-01-1970 22:55" "21-01-1970 09:15" "<description>"
+withdraw
+insert "09-01-1970 14:30" "05-01-1970 18:17" "<description>"
+withdraw
+insert "04-01-1970 03:25" "18-01-1970 14:42" "<description>"
+withdraw
+logoff
+join "Professer"
+withdraw
+delete "03-01-1970 17:43"
+logoff
+logoff "CSC"  "<email>"  fake
+
+logoff
+logoff "CSC"  "<email>"  fake
+insert "02-01-1970 09:27" "15-01-1970 00:30" "<description>" pair
+create "group11"
+insert "09-01-1970 17:59" "10-01-1970 19:48" "<description>" pair
+remove
+undo
+invalid
+remove
+logoff
+remove
+delete "23-01-1970 01:40"
+insert "11-01-1970 09:55" "08-01-1970 03:36" "<description>" joking
+create "flying"
+join "TV"
+insert "11-01-1970 02:19" "17-01-1970 02:16" "<description>" tv
+join "House4"
+logoff
+create "KAROAKE"
+create "joking"
+insert "22-01-1970 10:57" "05-01-1970 05:46" "<description>" COMP201
+insert "04-01-1970 03:53" "19-01-1970 20:17" "<description>" committee
+withdraw
+join "CSC"
+insert "05-01-1970 09:12" "20-01-1970 08:16" "<description>" csFamily
+delete "01-01-1970 13:29"
+invalid
+logon "Horner"
+logon "CSC"
+insert "25-01-1970 02:45" "13-01-1970 11:10" "<description>"
+withdraw
+create "csFamily"
+invalid
+remove
+join "drawing"
+insert "01-01-1970 17:18" "24-01-1970 05:54" "<description>" committee
+insert "25-01-1970 08:18" "24-01-1970 02:57" "<description>" student
+join "KAROAKE"
+insert "09-01-1970 13:06" "03-01-1970 18:50" "<description>" House2
+invalid
+undo
+logoff
+insert "06-01-1970 04:25" "12-01-1970 11:51" "<description>" group11
+withdraw
+insert "01-01-1970 13:58" "19-01-1970 19:42" "<description>" csFamily
+insert "11-01-1970 12:57" "08-01-1970 16:27" "<description>"
+invalid
+logon "ar Lo"
+create "Professer"
+invalid
+insert "10-01-1970 02:43" "07-01-1970 01:23" "<description>"
+remove "student"
+logon "sqaure"
+create "House4"
+withdraw
+undo
+create "student"
+join "TV"
+insert "15-01-1970 09:14" "14-01-1970 01:55" "<description>" House2
+undo
+invalid
+logoff
+logon "Kenneth"
+withdraw
+insert "08-01-1970 09:56" "22-01-1970 17:11" "<description>" CSC
+insert "12-01-1970 18:43" "01-01-1970 13:11" "<description>" playing
+join "TV"
+remove
+remove
+withdraw
+delete "19-01-1970 21:56"
+delete "20-01-1970 01:21"
+logon "May"
+withdraw
+logon "CSC"
+insert "07-01-1970 10:11" "24-01-1970 23:56" "<description>"
+undo
+join "CSC"
+logon "fail"
+remove
+invalid
+undo
+invalid
+join "csFamily"
+create "Professer"
+insert "07-01-1970 13:12" "14-01-1970 19:15" "<description>" House4
+withdraw
+remove
+create "playing"
+undo
+undo
+logoff
+insert "17-01-1970 14:37" "14-01-1970 22:03" "<description>" committee
+create "House4"
+delete "01-01-1970 23:48"
+delete "11-01-1970 07:10"
+logon "Jon"
+remove
+logon "ar Lo"
+join "joking"
+undo
+invalid
+invalid "Kenny"  "<email>" 
+
+invalid
+invalid "Kenny"  "<email>" 
+logon "sqaure"
+logon "sqaure"
+join "joking"
+logoff
+withdraw
+remove
+join "csFamily"
+insert "21-01-1970 10:30" "07-01-1970 22:59" "<description>" Professer
+undo
+insert "03-01-1970 14:22" "06-01-1970 11:03" "<description>" csFamily
+undo
+logon "Horner"
+withdraw
+logoff
+remove
+invalid
+insert "06-01-1970 12:05" "18-01-1970 18:36" "<description>" playing
+join "tv"
+create "COMP201"
+withdraw
+insert "02-01-1970 08:37" "15-01-1970 00:00" "<description>" KAROAKE
+undo
+logoff
+insert "07-01-1970 10:12" "18-01-1970 20:32" "<description>" House4
+insert "19-01-1970 08:43" "12-01-1970 20:46" "<description>"
+withdraw
+undo
+insert "22-01-1970 18:06" "18-01-1970 07:19" "<description>" Professer
+join "COMP201"
+remove
+insert "14-01-1970 05:17" "22-01-1970 01:15" "<description>" CSC
+insert "22-01-1970 16:27" "17-01-1970 05:32" "<description>" TV
+insert "18-01-1970 04:08" "24-01-1970 20:18" "<description>" joking
+logon "Apple"
+join "COMP104"
+join "Professer"
+join "csFamily"
+insert "21-01-1970 01:55" "24-01-1970 01:38" "<description>" COMP104
+undo
+undo
+delete "09-01-1970 20:02"
+remove
+create "group11"
+logoff
+invalid
+insert "08-01-1970 23:14" "09-01-1970 12:21" "<description>"
+insert "08-01-1970 11:36" "10-01-1970 02:50" "<description>" Professer
+logoff
+insert "15-01-1970 07:01" "10-01-1970 03:56" "<description>"
+insert "12-01-1970 05:51" "14-01-1970 08:36" "<description>" House4
+delete "23-01-1970 11:38"
+delete "03-01-1970 06:10"
+withdraw
+insert "23-01-1970 01:33" "04-01-1970 15:58" "<description>" flying
+join "joking"
+invalid
+logoff
+join "pair"
+logoff
+logon "Kenny"
+remove
+withdraw
+invalid
+create "csFamily"
+withdraw
+join "playing"
+remove
+insert "17-01-1970 16:22" "25-01-1970 11:34" "<description>" csFamily
+insert "18-01-1970 10:16" "24-01-1970 09:20" "<description>" TV
+logon "Jon"
+remove
+insert "19-01-1970 07:33" "25-01-1970 09:38" "<description>"
+create "House2"
+undo
+withdraw "tv"
+undo
+insert "09-01-1970 13:28" "04-01-1970 11:11" "<description>" csFamily
+invalid
+insert "12-01-1970 22:14" "09-01-1970 06:16" "<description>" group11
+insert "05-01-1970 15:43" "23-01-1970 06:32" "<description>" COMP104
+withdraw
+create "tv"
+insert "09-01-1970 10:41" "06-01-1970 16:45" "<description>" CSC
+invalid
+undo
+undo
+withdraw
+insert "24-01-1970 07:34" "03-01-1970 18:21" "<description>" KAROAKE
+join "tv"
+create "joking"
+remove
+logon "Kenneth"
+insert "21-01-1970 16:09" "21-01-1970 06:43" "<description>"
+insert "19-01-1970 18:03" "04-01-1970 01:41" "<description>" Professer
+logoff
+undo
+delete "07-01-1970 15:43"
+insert "06-01-1970 08:46" "13-01-1970 05:48" "<description>"
+logon "Jon"
+logoff
+logoff "Tracy" "<email>" 
+
+logoff
+logoff "Tracy" "<email>" 
+withdraw
+insert "22-01-1970 20:18" "03-01-1970 05:50" "<description>" Professer
+insert "20-01-1970 14:03" "06-01-1970 08:47" "<description>" group11
+create "House2"
+undo
+logon "Horner"
+undo
+remove
+create "student"
+delete "01-01-1970 23:11"
+insert "03-01-1970 06:40" "25-01-1970 11:54" "<description>" pair
+undo
+create "playing"
+insert "11-01-1970 03:05" "08-01-1970 02:57" "<description>" CSC
+insert "06-01-1970 02:31" "13-01-1970 20:49" "<description>"
+remove
+insert "18-01-1970 21:37" "01-01-1970 15:43" "<description>" joking
+insert "01-01-1970 11:23" "12-01-1970 12:43" "<description>" KAROAKE
+remove
+insert "07-01-1970 17:43" "11-01-1970 19:03" "<description>" committee
+withdraw
+undo
+create "House4"
+create "CSC"
+insert "26-01-1970 00:24" "12-01-1970 18:37" "<description>" group11
+logoff
+undo
+insert "12-01-1970 01:56" "25-01-1970 16:20" "<description>"
+invalid
+insert "18-01-1970 07:18" "09-01-1970 02:10" "<description>" csFamily
+logon "triangle"
+insert "10-01-1970 00:17" "11-01-1970 02:36" "<description>"
+invalid
+create "House4"
+insert "19-01-1970 15:13" "14-01-1970 02:37" "<description>" Professer
+undo
+insert "17-01-1970 00:22" "07-01-1970 18:38" "<description>" csFamily
+logon "Kenny"
+insert "04-01-1970 05:30" "25-01-1970 15:06" "<description>" playing
+insert "14-01-1970 09:39" "16-01-1970 07:34" "<description>"
+join "hiking"
+withdraw
+join "drawing"
+insert "23-01-1970 17:13" "04-01-1970 01:05" "<description>" student
+undo
+logon "qoe"
+undo
+invalid
+insert "14-01-1970 08:58" "06-01-1970 09:23" "<description>" Professer
+undo
+create "tv"
+undo
+create "KAROAKE"
+delete "10-01-1970 09:01"
+delete "03-01-1970 03:07"
+logoff
+logon "CSC"
+insert "18-01-1970 06:27" "15-01-1970 00:51" "<description>" House4
+undo
+withdraw
+insert "06-01-1970 17:06" "02-01-1970 02:36" "<description>" tv
+undo
+delete "15-01-1970 01:28"
+logon "ar Lo"
+withdraw
+join "csFamily"
+insert "17-01-1970 22:53" "16-01-1970 03:41" "<description>" csFamily
+undo
+invalid
+create "House4"
+join "House4"
+join "House2"
+remove
+remove
+insert "17-01-1970 01:00" "23-01-1970 08:39" "<description>" flying
+delete "01-01-1970 17:48"
+create "flying"
+remove
+insert "17-01-1970 10:24" "08-01-1970 19:39" "<description>"
+join "CSC"
+join "pair"
+withdraw
+invalid
+invalid
+insert "13-01-1970 13:12" "11-01-1970 05:16" "<description>" hiking
+undo
+insert "17-01-1970 03:50" "22-01-1970 00:30" "<description>" committee
+insert "11-01-1970 16:45" "25-01-1970 04:02" "<description>" Professer
+insert "06-01-1970 04:52" "21-01-1970 18:17" "<description>"
+remove
+withdraw
+logon "Bear"
+undo
+join "committee"
+insert "23-01-1970 06:48" "19-01-1970 10:58" "<description>"
+logoff
+insert "22-01-1970 21:18" "16-01-1970 21:03" "<description>"
+insert "07-01-1970 18:48" "22-01-1970 21:28" "<description>"
+delete "17-01-1970 13:18"
+logon "qoe"
+logon "carin" "<email>"  fake
+
+logon "qoe"
+logon "carin" "<email>"  fake
+withdraw
+join "House2"
+join "pair"
+insert "02-01-1970 10:32" "12-01-1970 20:41" "<description>"
+undo
+invalid
+remove
+delete "11-01-1970 12:30"
+logoff
+insert "03-01-1970 04:29" "16-01-1970 03:42" "<description>" hiking
+invalid
+insert "06-01-1970 04:24" "06-01-1970 00:35" "<description>" committee
+withdraw
+insert "25-01-1970 13:22" "10-01-1970 19:58" "<description>" House2
+withdraw
+insert "09-01-1970 02:48" "13-01-1970 14:07" "<description>" pair
+invalid
+join "group11"
+remove
+undo
+join "CSC"
+join "Professer"
+delete "12-01-1970 07:27"
+insert "17-01-1970 16:38" "24-01-1970 13:30" "<description>"
+logoff
+remove
+create "drawing"
+join "tv"
+insert "13-01-1970 15:09" "03-01-1970 04:21" "<description>"
+undo
+delete "21-01-1970 02:24"
+insert "10-01-1970 12:28" "09-01-1970 09:19" "<description>" tv
+logon "CSC"
+logoff
+insert "10-01-1970 04:14" "25-01-1970 15:58" "<description>" KAROAKE
+delete "19-01-1970 15:33"
+delete "16-01-1970 05:55"
+create "tv"
+logon "carin"
+delete "24-01-1970 12:45"
+invalid
+delete "02-01-1970 16:05"
+logon "Andrew"
+insert "23-01-1970 20:35" "04-01-1970 14:26" "<description>" drawing
+insert "16-01-1970 06:59" "10-01-1970 03:16" "<description>" csFamily
+invalid
+insert "15-01-1970 21:21" "24-01-1970 04:50" "<description>" drawing
+insert "10-01-1970 01:02" "17-01-1970 05:45" "<description>" KAROAKE
+withdraw
+withdraw "pair"
+insert "10-01-1970 05:27" "04-01-1970 18:42" "<description>" pair
+create "drawing"
+logon "Mandy"
+create "hiking"
+insert "11-01-1970 12:45" "23-01-1970 05:13" "<description>" drawing
+logoff
+delete "22-01-1970 07:57"
+undo
+remove
+join "group11"
+withdraw
+insert "24-01-1970 17:31" "17-01-1970 00:51" "<description>"
+logon "fail"
+delete "12-01-1970 13:41"
+logon "Kenneth"
+insert "15-01-1970 06:35" "06-01-1970 03:38" "<description>"
+delete "03-01-1970 22:58"
+join "CSC"
+invalid
+logoff
+insert "11-01-1970 06:59" "04-01-1970 03:27" "<description>" flying
+join "Professer"
+delete "16-01-1970 16:48"
+insert "23-01-1970 22:29" "21-01-1970 04:07" "<description>" House2
+insert "18-01-1970 11:08" "25-01-1970 17:31" "<description>" TV
+insert "09-01-1970 10:40" "22-01-1970 20:47" "<description>" Professer
+remove
+create "csFamily"
+insert "09-01-1970 12:55" "10-01-1970 00:30" "<description>" group11
+logon "Andrea"
+insert "23-01-1970 23:59" "06-01-1970 13:17" "<description>"
+insert "05-01-1970 18:44" "15-01-1970 10:26" "<description>" House2
+insert "23-01-1970 12:51" "19-01-1970 01:25" "<description>"
+insert "20-01-1970 08:42" "22-01-1970 21:18" "<description>" committee
+undo
+remove
+undo
+logon "carin"
+withdraw
+logoff
+insert "12-01-1970 13:56" "01-01-1970 13:04" "<description>" student
+insert "19-01-1970 18:02" "05-01-1970 19:27" "<description>" House2
+logoff
+insert "03-01-1970 03:49" "02-01-1970 16:40" "<description>" House2
+insert "12-01-1970 18:48" "22-01-1970 21:09" "<description>" Professer
+remove
+join "CSC"
+logoff
+remove
+create "hiking" fake
+
+create "hiking" fake
+insert "15-01-1970 19:54" "22-01-1970 10:09" "<description>" drawing
+logon "invalid"
+join "playing"
+insert "04-01-1970 09:09" "06-01-1970 18:26" "<description>" KAROAKE
+logoff
+create "playing"
+join "Professer"
+insert "05-01-1970 13:26" "02-01-1970 22:47" "<description>" group11
+invalid
+delete "11-01-1970 07:06"
+invalid
+logoff
+logon "fail"
+create "House2"
+join "CSC"
+insert "16-01-1970 21:30" "06-01-1970 04:28" "<description>" student
+undo
+undo
+delete "22-01-1970 08:35"
+invalid
+insert "03-01-1970 20:22" "07-01-1970 09:39" "<description>" hiking
+invalid
+logon "Bonnie"
+logoff
+create "csFamily"
+logon "May"
+undo
+logon "Bear"
+create "committee"
+undo
+delete "05-01-1970 16:04"
+invalid
+logon "Bear"
+logon "Horner"
+remove
+remove
+delete "22-01-1970 10:37"
+insert "24-01-1970 05:02" "15-01-1970 17:01" "<description>" group11
+invalid
+insert "16-01-1970 13:09" "12-01-1970 10:07" "<description>" student
+insert "10-01-1970 16:10" "05-01-1970 19:24" "<description>" playing
+invalid
+undo
+logon "sqaure"
+undo
+insert "14-01-1970 15:46" "01-01-1970 22:44" "<description>" joking
+remove
+delete "16-01-1970 13:09"
+insert "04-01-1970 01:23" "08-01-1970 20:51" "<description>" COMP104
+logoff
+join "CSC"
+insert "06-01-1970 01:43" "20-01-1970 21:30" "<description>" KAROAKE
+withdraw
+invalid
+logon "Bonnie"
+logon "triangle"
+logon "invalid"
+withdraw
+logon "Andrea"
+logoff
+remove
+insert "23-01-1970 05:36" "21-01-1970 10:26" "<description>" TV
+create "joking"
+delete "08-01-1970 07:02"
+insert "14-01-1970 14:53" "23-01-1970 19:54" "<description>" COMP201
+join "pair"
+create "tv"
+delete "23-01-1970 12:16"
+logon "Bear"
+invalid
+withdraw
+create "committee"
+insert "07-01-1970 13:46" "24-01-1970 09:58" "<description>"
+delete "05-01-1970 03:21"
+remove "pair"
+logoff
+withdraw
+undo
+remove
+join "drawing"
+undo
+insert "22-01-1970 08:05" "20-01-1970 23:52" "<description>" COMP201
+invalid
+logon "sqaure"
+create "joking"
+delete "18-01-1970 09:37"
+insert "24-01-1970 07:55" "14-01-1970 22:36" "<description>" hiking
+delete "07-01-1970 18:05"
+join "csFamily"
+create "House2"
+join "csFamily"
+undo
+delete "13-01-1970 08:25"
+invalid
+delete "10-01-1970 12:20"
+withdraw
+invalid
+undo
+remove
+insert "20-01-1970 01:12" "22-01-1970 09:46" "<description>" playing
+insert "Andrea" "<email>" 
+
+insert "20-01-1970 01:12" "22-01-1970 09:46" "<description>" playing
+insert "Andrea" "<email>" 
+withdraw
+undo
+insert "16-01-1970 02:39" "16-01-1970 00:52" "<description>" CSC
+logoff
+create "hiking"
+join "tv"
+invalid
+insert "23-01-1970 18:18" "18-01-1970 07:41" "<description>" hiking
+insert "21-01-1970 23:25" "15-01-1970 20:48" "<description>" Professer
+remove
+invalid
+insert "24-01-1970 22:10" "04-01-1970 01:39" "<description>"
+withdraw
+invalid
+insert "04-01-1970 12:50" "05-01-1970 01:00" "<description>" drawing
+insert "15-01-1970 01:10" "12-01-1970 13:21" "<description>" tv
+insert "12-01-1970 10:35" "16-01-1970 15:42" "<description>" drawing
+logon "May"
+delete "06-01-1970 16:42"
+logon "Jon"
+insert "21-01-1970 14:01" "04-01-1970 16:53" "<description>"
+insert "12-01-1970 19:45" "25-01-1970 02:08" "<description>" csFamily
+logoff
+join "student"
+create "TV"
+logon "Felix"
+withdraw
+join "flying"
+remove
+join "flying"
+join "CSC"
+invalid
+invalid
+join "House2"
+create "joking"
+create "group11"
+remove
+insert "06-01-1970 00:38" "19-01-1970 19:07" "<description>" hiking
+insert "10-01-1970 04:09" "05-01-1970 22:01" "<description>"
+withdraw
+logon "May"
+insert "25-01-1970 10:56" "12-01-1970 18:09" "<description>" TV
+logon "Bonnie"
+invalid
+create "csFamily"
+invalid
+withdraw
+logoff
+create "pair"
+create "joking"
+insert "23-01-1970 15:52" "19-01-1970 21:11" "<description>"
+undo
+insert "21-01-1970 09:55" "09-01-1970 12:53" "<description>" committee
+withdraw
+insert "18-01-1970 23:37" "25-01-1970 00:53" "<description>"
+insert "20-01-1970 03:24" "02-01-1970 00:07" "<description>" student
+join "group11"
+undo
+invalid
+logoff
+insert "02-01-1970 20:51" "05-01-1970 18:19" "<description>" drawing
+insert "04-01-1970 00:39" "24-01-1970 17:30" "<description>"
+insert "09-01-1970 11:44" "04-01-1970 11:26" "<description>" TV
+insert "02-01-1970 21:02" "20-01-1970 02:29" "<description>" CSC
+logon "Andrew"
+invalid
+remove
+logon "Felix"
+create "flying"
+undo
+delete "11-01-1970 04:06"
+join "COMP201"
+withdraw
+logoff
+insert "11-01-1970 14:14" "11-01-1970 21:25" "<description>" TV
+invalid
+logoff
+invalid
+undo
+insert "07-01-1970 03:29" "03-01-1970 11:03" "<description>"
+insert "26-01-1970 03:43" "17-01-1970 00:10" "<description>" COMP104
+insert "20-01-1970 23:15" "03-01-1970 16:11" "<description>"
+insert "15-01-1970 07:14" "15-01-1970 11:25" "<description>"
+insert "24-01-1970 20:18" "15-01-1970 18:05" "<description>"
+insert "10-01-1970 12:36" "08-01-1970 23:50" "<description>" joking
+logoff
+logoff
+undo
+insert "13-01-1970 00:30" "10-01-1970 01:52" "<description>" House4
+insert "05-01-1970 05:22" "13-01-1970 22:08" "<description>" Professer
+insert "08-01-1970 13:43" "19-01-1970 05:25" "<description>" drawing
+create "House2"
+create "csFamily"
+join "committee"
+remove
+undo
+undo
+logon "Tracy"
+remove
+withdraw "House4"
+withdraw "qoe" "<email>" 
+
+withdraw "House4"
+withdraw "qoe" "<email>" 
+logoff
+undo
+logon "carin"
+delete "16-01-1970 20:24"
+logoff
+insert "07-01-1970 21:46" "18-01-1970 18:37" "<description>"
+delete "07-01-1970 10:46"
+logoff
+logoff
+insert "15-01-1970 00:01" "11-01-1970 03:41" "<description>" TV
+create "committee"
+create "KAROAKE"
+logon "carin"
+delete "22-01-1970 04:44"
+invalid
+join "hiking"
+create "TV"
+insert "20-01-1970 10:39" "18-01-1970 21:11" "<description>"
+logoff
+insert "01-01-1970 13:58" "02-01-1970 10:54" "<description>" group11
+invalid
+withdraw
+invalid
+invalid
+insert "12-01-1970 04:55" "01-01-1970 10:14" "<description>" group11
+invalid
+insert "02-01-1970 20:09" "03-01-1970 03:50" "<description>" playing
+insert "25-01-1970 05:08" "23-01-1970 19:29" "<description>" tv
+insert "12-01-1970 12:29" "24-01-1970 19:10" "<description>" csFamily
+delete "03-01-1970 03:44"
+insert "01-01-1970 09:53" "03-01-1970 21:55" "<description>"
+create "tv"
+join "csFamily"
+logoff
+logoff
+create "csFamily"
+undo
+logoff
+logon "Kenny"
+insert "09-01-1970 06:03" "04-01-1970 04:30" "<description>" TV
+withdraw
+invalid
+delete "21-01-1970 02:50"
+insert "16-01-1970 03:44" "03-01-1970 09:30" "<description>" flying
+logoff
+insert "14-01-1970 20:51" "04-01-1970 19:54" "<description>"
+undo
+logoff
+remove
+insert "04-01-1970 05:35" "12-01-1970 12:10" "<description>" committee
+insert "24-01-1970 19:22" "20-01-1970 06:48" "<description>" hiking
+logoff
+insert "18-01-1970 08:26" "23-01-1970 19:17" "<description>"
+undo
+delete "09-01-1970 09:44"
+undo
+create "COMP201"
+invalid
+delete "09-01-1970 22:13"
+undo
+insert "10-01-1970 05:43" "05-01-1970 14:53" "<description>" tv
+logoff
+join "tv"
+insert "21-01-1970 11:42" "16-01-1970 14:20" "<description>" joking
+invalid
+join "student"
+delete "23-01-1970 02:36"
+logon "Jon"
+logon "CSC"
+insert "20-01-1970 19:51" "01-01-1970 17:22" "<description>"
+undo
+insert "19-01-1970 02:18" "06-01-1970 05:15" "<description>"
+logoff
+remove
+invalid
+remove
+join "tv"
+join "hiking"
+insert "20-01-1970 13:05" "13-01-1970 13:42" "<description>" COMP104
+insert "05-01-1970 05:34" "06-01-1970 03:06" "<description>" student
+logoff
+invalid
+join "student"
+join "playing"
+join "CSC"
+insert "17-01-1970 02:26" "10-01-1970 14:12" "<description>"
+logoff
+withdraw
+logon "CSC"
+logon "May"
+create "drawing"
+delete "19-01-1970 21:34"
+logon "sqaure"
+insert "16-01-1970 12:51" "24-01-1970 09:39" "<description>"
+withdraw
+logoff
+create "student"
+remove
+logoff
+insert "13-01-1970 08:41" "15-01-1970 11:15" "<description>" drawing
+insert "Bear" "<email>"  fake
+
+insert "13-01-1970 08:41" "15-01-1970 11:15" "<description>" drawing
+insert "Bear" "<email>"  fake
+create "House2"
+insert "26-01-1970 04:11" "10-01-1970 16:22" "<description>" committee
+insert "08-01-1970 19:44" "17-01-1970 11:06" "<description>"
+undo
+delete "10-01-1970 10:52"
+delete "24-01-1970 05:49"
+insert "22-01-1970 07:12" "25-01-1970 15:53" "<description>" flying
+insert "05-01-1970 06:29" "07-01-1970 02:47" "<description>" joking
+insert "12-01-1970 03:40" "20-01-1970 15:23" "<description>" student
+create "flying"
+insert "19-01-1970 22:28" "17-01-1970 15:30" "<description>"
+delete "21-01-1970 22:32"
+undo
+insert "10-01-1970 01:05" "09-01-1970 02:30" "<description>" flying
+remove
+insert "08-01-1970 16:43" "19-01-1970 05:11" "<description>" TV
+logoff
+insert "12-01-1970 13:13" "13-01-1970 17:17" "<description>" House4
+remove
+remove
+withdraw
+create "House4"
+create "csFamily"
+join "playing"
+insert "07-01-1970 03:19" "17-01-1970 14:31" "<description>" COMP201
+logon "sqaure"
+insert "10-01-1970 07:09" "25-01-1970 22:44" "<description>" csFamily
+logon "Apple"
+logoff
+insert "04-01-1970 22:15" "06-01-1970 19:58" "<description>"
+undo
+logon "Mandy"
+logoff
+undo
+undo
+logon "Andrea"
+undo
+undo
+withdraw
+logoff
+delete "20-01-1970 14:43"
+join "flying"
+undo
+logoff
+join "TV"
+undo
+create "joking"
+insert "10-01-1970 21:44" "20-01-1970 18:16" "<description>"
+invalid
+insert "10-01-1970 08:56" "24-01-1970 10:48" "<description>" playing
+remove
+undo
+insert "12-01-1970 22:55" "12-01-1970 16:16" "<description>" committee
+delete "20-01-1970 13:06"
+delete "19-01-1970 09:33"
+logon "Tracy"
+delete "20-01-1970 13:56"
+invalid
+invalid
+logoff
+insert "07-01-1970 00:46" "16-01-1970 23:36" "<description>"
+create "student"
+withdraw
+create "joking"
+remove
+insert "01-01-1970 22:36" "01-01-1970 19:13" "<description>"
+withdraw
+insert "04-01-1970 11:24" "13-01-1970 23:54" "<description>" House4
+logoff
+insert "16-01-1970 02:18" "14-01-1970 21:40" "<description>" drawing
+insert "15-01-1970 22:27" "10-01-1970 21:29" "<description>"
+delete "15-01-1970 02:28"
+logoff
+insert "20-01-1970 11:47" "13-01-1970 01:58" "<description>" House2
+logon "Horner"
+delete "20-01-1970 20:01"
+delete "25-01-1970 05:39"
+invalid
+create "House4"
+logoff
+insert "15-01-1970 17:32" "19-01-1970 13:13" "<description>" TV
+logoff
+remove
+logon "invalid"
+undo
+insert "09-01-1970 17:51" "07-01-1970 20:20" "<description>" COMP104
+remove
+insert "24-01-1970 07:10" "07-01-1970 04:05" "<description>" joking
+create "House4"
+withdraw
+insert "08-01-1970 23:04" "19-01-1970 00:42" "<description>" COMP104
+invalid
+insert "15-01-1970 19:42" "09-01-1970 15:33" "<description>"
+join "CSC"
+remove
+logon "fail"
+insert "01-01-1970 17:52" "22-01-1970 05:43" "<description>" committee
+withdraw
+insert "05-01-1970 14:42" "02-01-1970 02:03" "<description>" COMP201
+insert "11-01-1970 02:58" "19-01-1970 12:03" "<description>" Professer fake
+
+insert "11-01-1970 02:58" "19-01-1970 12:03" "<description>" Professer fake
+insert "08-01-1970 01:36" "08-01-1970 13:09" "<description>" group11
+join "joking"
+remove
+logon "Felix"
+insert "14-01-1970 12:02" "26-01-1970 03:29" "<description>" COMP104
+insert "18-01-1970 01:43" "14-01-1970 03:20" "<description>" pair
+undo
+invalid
+delete "16-01-1970 05:45"
+insert "20-01-1970 08:28" "04-01-1970 08:54" "<description>" pair
+invalid
+invalid
+create "flying"
+join "KAROAKE"
+delete "22-01-1970 00:38"
+logon "Horner"
+insert "17-01-1970 05:45" "13-01-1970 05:39" "<description>"
+undo
+logoff
+create "committee"
+logon "Andrea"
+logon "ar Lo"
+undo
+logoff
+insert "11-01-1970 08:14" "08-01-1970 14:18" "<description>" House2
+insert "20-01-1970 10:31" "10-01-1970 15:09" "<description>" pair
+insert "22-01-1970 17:50" "26-01-1970 00:30" "<description>" COMP201
+logon "triangle"
+join "hiking"
+logon "carin"
+insert "24-01-1970 03:31" "12-01-1970 20:15" "<description>"
+withdraw
+create "COMP201"
+create "committee"
+logon "sqaure"
+invalid
+create "House4"
+insert "13-01-1970 02:02" "23-01-1970 12:03" "<description>" KAROAKE
+insert "18-01-1970 04:05" "21-01-1970 19:36" "<description>" csFamily
+create "flying"
+insert "25-01-1970 20:10" "08-01-1970 18:30" "<description>" committee
+logon "Felix"
+create "KAROAKE"
+delete "24-01-1970 18:24"
+join "pair"
+withdraw
+insert "05-01-1970 00:17" "22-01-1970 15:51" "<description>" CSC
+withdraw
+join "playing"
+remove "pair"
+undo
+join "pair"
+insert "09-01-1970 14:14" "22-01-1970 07:29" "<description>"
+join "COMP201"
+remove
+create "drawing"
+insert "23-01-1970 20:43" "14-01-1970 09:20" "<description>" playing
+join "House4"
+undo
+logoff
+insert "05-01-1970 14:01" "08-01-1970 09:26" "<description>" playing
+remove
+insert "25-01-1970 16:47" "08-01-1970 18:13" "<description>"
+undo
+insert "23-01-1970 05:36" "15-01-1970 15:31" "<description>"
+undo
+logoff
+remove
+logon "triangle"
+logoff
+join "flying"
+invalid
+withdraw
+undo
+insert "03-01-1970 02:09" "01-01-1970 15:07" "<description>"
+undo
+create "House4"
+invalid
+join "flying"
+logoff
+join "tv"
+join "pair"
+remove
+invalid
+invalid
+insert "16-01-1970 06:19" "20-01-1970 10:33" "<description>" committee
+undo
+create "CSC"
+undo
+create "drawing"
+delete "22-01-1970 06:48"
+insert "06-01-1970 15:03" "01-01-1970 10:19" "<description>" group11
+logon "Horner"
+invalid
+insert "17-01-1970 05:00" "24-01-1970 22:41" "<description>"
+insert "20-01-1970 10:25" "15-01-1970 03:18" "<description>" committee
+logon "Horner"
+logoff
+remove
+logoff
+logoff "Felix"  "<email>" 
+
+logoff
+logoff "Felix"  "<email>" 
+invalid
+logoff
+create "tv"
+insert "21-01-1970 22:26" "12-01-1970 04:21" "<description>" House2
+invalid
+join "drawing"
+join "group11"
+create "COMP201"
+create "flying"
+logon "May"
+invalid
+insert "16-01-1970 05:01" "25-01-1970 11:48" "<description>"
+insert "08-01-1970 17:08" "16-01-1970 01:17" "<description>" pair
+remove
+create "committee"
+insert "23-01-1970 11:04" "07-01-1970 02:04" "<description>"
+invalid
+undo
+delete "10-01-1970 09:41"
+insert "21-01-1970 22:48" "25-01-1970 18:58" "<description>"
+withdraw
+logon "Bonnie"
+remove
+insert "20-01-1970 18:29" "15-01-1970 14:03" "<description>"
+invalid
+create "CSC"
+undo
+insert "08-01-1970 06:38" "25-01-1970 14:43" "<description>" student
+join "group11"
+undo
+insert "24-01-1970 23:32" "12-01-1970 00:12" "<description>" Professer
+logon "Andrea"
+logoff
+undo
+create "COMP104"
+insert "20-01-1970 04:57" "18-01-1970 09:51" "<description>" hiking
+undo
+insert "20-01-1970 17:42" "25-01-1970 11:26" "<description>" CSC
+create "KAROAKE"
+insert "08-01-1970 03:19" "25-01-1970 05:49" "<description>" House4
+insert "17-01-1970 21:21" "18-01-1970 21:49" "<description>"
+join "drawing"
+create "drawing"
+delete "14-01-1970 18:47"
+remove
+delete "20-01-1970 17:44"
+delete "17-01-1970 01:08"
+logon "triangle"
+create "tv"
+join "KAROAKE"
+remove
+undo
+insert "08-01-1970 05:56" "24-01-1970 00:09" "<description>" committee
+logoff
+remove
+insert "09-01-1970 11:04" "07-01-1970 19:20" "<description>"
+insert "16-01-1970 06:16" "25-01-1970 19:26" "<description>" CSC
+insert "03-01-1970 07:55" "25-01-1970 21:45" "<description>" committee
+undo
+create "House2"
+insert "15-01-1970 11:43" "10-01-1970 10:28" "<description>" TV
+logon "Bonnie"
+insert "22-01-1970 01:21" "04-01-1970 23:37" "<description>" hiking
+remove
+delete "13-01-1970 17:07"
+undo
+remove
+logon "ar Lo"
+invalid
+insert "07-01-1970 16:13" "13-01-1970 07:33" "<description>"
+undo
+delete "01-01-1970 22:40"
+insert "22-01-1970 13:43" "20-01-1970 00:20" "<description>" Professer
+create "hiking"
+insert "19-01-1970 07:25" "08-01-1970 06:34" "<description>" drawing
+insert "08-01-1970 00:12" "11-01-1970 14:18" "<description>" drawing
+logon "Bear"
+undo
+insert "24-01-1970 23:42" "11-01-1970 06:37" "<description>"
+insert "12-01-1970 06:52" "15-01-1970 03:01" "<description>" joking
+logon "Jon"
+invalid
+logon "Andrew"
+logon "Kenny"
+insert "06-01-1970 12:33" "06-01-1970 18:53" "<description>" playing
+logon "Felix"
+withdraw
+withdraw
+delete "02-01-1970 11:14"
+remove
+undo
+create "tv"
+undo
+remove
+insert "20-01-1970 12:16" "07-01-1970 20:47" "<description>" Professer
+withdraw
+remove
+withdraw
+create "flying"
+insert "19-01-1970 01:30" "08-01-1970 02:38" "<description>"
+insert "Bear"  "<email>" 
+
+insert "19-01-1970 01:30" "08-01-1970 02:38" "<description>"
+insert "Bear"  "<email>" 
+remove
+insert "14-01-1970 07:01" "09-01-1970 10:10" "<description>"
+logoff
+logon "sqaure"
+remove
+withdraw
+logon "CSC"
+withdraw
+withdraw
+logon "Andrew"
+create "pair"
+join "drawing"
+insert "05-01-1970 09:30" "06-01-1970 14:41" "<description>" COMP104
+join "csFamily"
+undo
+remove
+insert "17-01-1970 12:56" "07-01-1970 11:30" "<description>"
+delete "09-01-1970 17:39"
+logoff
+invalid
+withdraw
+withdraw
+withdraw
+logon "fail"
+undo
+delete "25-01-1970 11:05"
+invalid
+create "COMP104"
+insert "24-01-1970 21:12" "03-01-1970 01:32" "<description>" playing
+remove
+insert "10-01-1970 07:23" "05-01-1970 06:35" "<description>" CSC
+insert "13-01-1970 15:46" "20-01-1970 20:19" "<description>" committee
+logoff
+remove
+delete "23-01-1970 18:47"
+create "csFamily"
+delete "06-01-1970 21:16"
+insert "15-01-1970 17:51" "11-01-1970 12:36" "<description>"
+insert "11-01-1970 15:41" "20-01-1970 22:42" "<description>" csFamily
+logoff
+logoff
+join "csFamily"
+remove
+insert "21-01-1970 11:22" "09-01-1970 07:01" "<description>" pair
+withdraw
+withdraw
+withdraw
+delete "26-01-1970 02:51"
+undo
+insert "18-01-1970 16:03" "14-01-1970 03:25" "<description>"
+remove
+logoff
+join "Professer"
+remove
+logon "Tracy"
+create "House2"
+undo
+insert "01-01-1970 20:33" "24-01-1970 23:52" "<description>" COMP201
+insert "03-01-1970 02:42" "14-01-1970 10:39" "<description>"
+undo
+logoff
+insert "23-01-1970 07:00" "01-01-1970 16:13" "<description>"
+delete "04-01-1970 11:59"
+join "drawing"
+withdraw
+remove
+delete "03-01-1970 04:38"
+undo
+insert "13-01-1970 15:53" "16-01-1970 12:25" "<description>" KAROAKE
+insert "16-01-1970 07:05" "05-01-1970 00:25" "<description>" COMP104
+create "flying"
+insert "10-01-1970 17:24" "05-01-1970 16:05" "<description>" committee
+insert "16-01-1970 16:55" "05-01-1970 03:29" "<description>" pair
+insert "12-01-1970 05:04" "12-01-1970 19:00" "<description>"
+insert "09-01-1970 23:23" "06-01-1970 09:37" "<description>" COMP201
+logoff
+join "KAROAKE"
+invalid
+undo
+delete "05-01-1970 20:04"
+delete "14-01-1970 14:52"
+undo
+logon "carin"
+insert "07-01-1970 00:59" "24-01-1970 04:13" "<description>" KAROAKE
+invalid
+delete "21-01-1970 10:27"
+withdraw
+delete "23-01-1970 12:17"
+invalid
+logon "triangle"
+create "pair"
+undo
+delete "18-01-1970 06:05"
+delete "18-01-1970 12:18"
+invalid
+undo
+insert "11-01-1970 18:20" "01-01-1970 10:15" "<description>"
+insert "02-01-1970 05:41" "11-01-1970 01:19" "<description>" student
+logon "Tracy"
+logoff fake
+
+logoff fake
+invalid
+undo
+delete "14-01-1970 22:54"
+undo
+invalid
+undo
+create "CSC"
+create "hiking"
+insert "24-01-1970 16:18" "17-01-1970 20:40" "<description>" flying
+withdraw
+create "KAROAKE"
+create "csFamily"
+insert "01-01-1970 15:18" "21-01-1970 11:54" "<description>" student
+undo
+insert "04-01-1970 08:01" "12-01-1970 19:41" "<description>" hiking
+logoff
+invalid
+logoff
+join "student"
+insert "16-01-1970 03:14" "21-01-1970 16:28" "<description>" House4
+undo
+insert "05-01-1970 07:29" "19-01-1970 20:44" "<description>" TV
+invalid
+insert "11-01-1970 07:26" "14-01-1970 01:26" "<description>"
+undo
+join "committee"
+remove
+undo
+withdraw
+insert "04-01-1970 17:00" "07-01-1970 05:40" "<description>" House2
+insert "13-01-1970 22:11" "14-01-1970 10:10" "<description>" csFamily
+insert "16-01-1970 07:00" "22-01-1970 09:51" "<description>"
+logon "Tracy"
+logoff
+join "pair"
+logoff
+logoff
+create "Professer"
+insert "05-01-1970 17:47" "18-01-1970 17:08" "<description>" KAROAKE
+insert "20-01-1970 03:20" "22-01-1970 14:59" "<description>" COMP201
+insert "11-01-1970 01:20" "18-01-1970 10:42" "<description>" CSC
+insert "07-01-1970 18:35" "25-01-1970 16:43" "<description>" csFamily
+logoff
+insert "07-01-1970 14:06" "10-01-1970 05:58" "<description>" pair
+withdraw
+logon "Felix"
+remove
+delete "12-01-1970 14:09"
+withdraw
+withdraw "playing"
+withdraw
+withdraw
+delete "24-01-1970 17:06"
+join "Professer"
+insert "19-01-1970 22:35" "04-01-1970 14:21" "<description>" COMP201
+invalid
+withdraw
+insert "15-01-1970 11:37" "06-01-1970 23:19" "<description>" pair
+logoff
+remove
+create "House2"
+create "COMP104"
+logoff
+insert "17-01-1970 05:07" "16-01-1970 19:29" "<description>" Professer
+invalid
+join "COMP201"
+undo
+withdraw
+insert "19-01-1970 08:10" "13-01-1970 00:07" "<description>"
+logon "triangle"
+insert "25-01-1970 21:01" "02-01-1970 23:03" "<description>" tv
+create "Professer"
+join "flying"
+insert "10-01-1970 17:53" "17-01-1970 10:33" "<description>"
+join "committee"
+invalid
+create "playing"
+join "drawing"
+insert "22-01-1970 13:14" "15-01-1970 02:14" "<description>" hiking
+join "COMP201"
+remove
+withdraw
+insert "25-01-1970 17:29" "03-01-1970 19:02" "<description>" TV
+remove
+create "tv"
+insert "17-01-1970 03:19" "17-01-1970 10:26" "<description>" tv
+insert "12-01-1970 18:31" "19-01-1970 13:48" "<description>"
+invalid
+undo
+insert "21-01-1970 05:09" "03-01-1970 14:31" "<description>"
+join "House2"
+insert "14-01-1970 10:04" "23-01-1970 21:14" "<description>" TV
+insert "11-01-1970 21:19" "01-01-1970 15:09" "<description>" playing
+logon "Andrea"
+withdraw
+undo
+join "COMP201"
+invalid
+insert "22-01-1970 14:32" "08-01-1970 20:19" "<description>" tv
+insert "11-01-1970 19:30" "14-01-1970 14:59" "<description>"
+insert "Kenneth" "<email>" 
+
+insert "11-01-1970 19:30" "14-01-1970 14:59" "<description>"
+insert "Kenneth" "<email>" 
+logon "Bear"
+delete "20-01-1970 14:39"
+logon "Horner"
+insert "22-01-1970 09:14" "17-01-1970 12:33" "<description>" group11
+join "student"
+create "group11"
+remove
+logoff
+remove
+invalid
+logon "Kenneth"
+create "pair"
+withdraw
+join "playing"
+remove
+withdraw
+insert "12-01-1970 18:15" "14-01-1970 17:14" "<description>" drawing
+withdraw
+insert "08-01-1970 12:32" "13-01-1970 17:45" "<description>" House4
+insert "15-01-1970 08:31" "05-01-1970 00:35" "<description>" COMP201
+insert "10-01-1970 16:34" "03-01-1970 06:33" "<description>" tv
+join "drawing"
+invalid
+insert "16-01-1970 15:15" "24-01-1970 20:49" "<description>" group11
+insert "07-01-1970 08:09" "22-01-1970 20:12" "<description>"
+undo
+invalid
+invalid
+undo
+logon "triangle"
+undo
+remove
+join "student"
+logon "Mandy"
+remove
+insert "15-01-1970 20:46" "02-01-1970 14:36" "<description>" TV
+withdraw
+logoff
+remove
+logon "CSC"
+create "playing"
+insert "21-01-1970 00:27" "03-01-1970 14:56" "<description>"
+insert "01-01-1970 16:56" "13-01-1970 03:25" "<description>" committee
+create "tv"
+invalid
+join "committee"
+withdraw
+undo
+create "Professer"
+insert "18-01-1970 09:41" "04-01-1970 06:43" "<description>" csFamily
+undo
+insert "11-01-1970 02:36" "13-01-1970 04:59" "<description>" playing
+invalid
+delete "05-01-1970 07:29"
+undo
+insert "12-01-1970 12:38" "24-01-1970 00:08" "<description>" committee
+join "group11"
+remove
+join "House2"
+create "COMP201"
+insert "09-01-1970 22:47" "22-01-1970 15:43" "<description>" playing
+create "hiking"
+delete "07-01-1970 20:50"
+invalid
+logon "Tracy"
+insert "22-01-1970 18:20" "05-01-1970 06:29" "<description>" pair
+undo
+remove
+create "csFamily"
+join "COMP201"
+insert "18-01-1970 03:01" "01-01-1970 15:22" "<description>" House2
+logoff
+insert "04-01-1970 01:24" "13-01-1970 09:16" "<description>" KAROAKE
+insert "17-01-1970 10:12" "03-01-1970 08:55" "<description>"
+invalid
+logoff
+invalid
+logoff
+delete "13-01-1970 03:26"
+invalid
+insert "09-01-1970 14:18" "21-01-1970 16:52" "<description>" Professer
+undo
+undo
+logon "Horner"
+remove
+join "House2"
+logoff
+delete "15-01-1970 19:41"
+delete "22-01-1970 08:02"
+insert "09-01-1970 07:40" "11-01-1970 23:52" "<description>" playing
+create "joking"
+withdraw
+create "joking"
+invalid
+insert "08-01-1970 04:36" "23-01-1970 01:59" "<description>"
+insert "04-01-1970 20:03" "07-01-1970 15:04" "<description>" csFamily
+withdraw
+insert "13-01-1970 21:12" "02-01-1970 14:12" "<description>"
+delete "11-01-1970 15:36"
+insert "22-01-1970 15:43" "11-01-1970 19:19" "<description>" hiking
+insert "ar Lo" "<email>" 
+
+insert "22-01-1970 15:43" "11-01-1970 19:19" "<description>" hiking
+insert "ar Lo" "<email>" 
+insert "09-01-1970 16:52" "18-01-1970 09:24" "<description>" COMP201
+withdraw
+logoff
+insert "09-01-1970 10:19" "25-01-1970 06:52" "<description>" drawing
+undo
+invalid
+insert "22-01-1970 00:08" "05-01-1970 09:58" "<description>" playing
+logon "Kenny"
+insert "02-01-1970 07:13" "01-01-1970 20:35" "<description>" joking
+insert "22-01-1970 10:17" "16-01-1970 02:56" "<description>"
+invalid
+create "COMP201"
+withdraw
+remove
+insert "10-01-1970 13:16" "01-01-1970 12:53" "<description>" TV
+logoff
+insert "16-01-1970 12:33" "10-01-1970 16:09" "<description>" drawing
+join "House4"
+logoff
+delete "24-01-1970 23:14"
+remove
+withdraw
+insert "25-01-1970 23:53" "17-01-1970 16:57" "<description>" hiking
+delete "07-01-1970 02:16"
+invalid
+invalid
+insert "10-01-1970 06:24" "14-01-1970 15:15" "<description>" playing
+join "student"
+logon "sqaure"
+create "Professer"
+insert "21-01-1970 03:22" "04-01-1970 20:07" "<description>" tv
+insert "03-01-1970 02:50" "08-01-1970 05:15" "<description>"
+logoff
+invalid
+insert "25-01-1970 04:30" "22-01-1970 03:34" "<description>" committee
+invalid
+delete "09-01-1970 07:50"
+join "csFamily"
+invalid
+join "TV"
+insert "19-01-1970 10:57" "13-01-1970 13:17" "<description>" joking
+remove
+withdraw
+invalid
+insert "13-01-1970 02:19" "18-01-1970 21:36" "<description>"
+join "csFamily"
+withdraw
+remove
+withdraw
+insert "02-01-1970 13:11" "10-01-1970 00:43" "<description>" drawing
+invalid
+withdraw
+join "COMP201"
+create "flying"
+insert "04-01-1970 13:32" "23-01-1970 15:39" "<description>" TV
+join "committee"
+withdraw
+join "drawing"
+insert "02-01-1970 02:07" "08-01-1970 04:51" "<description>"
+join "tv"
+logon "carin"
+create "pair"
+logon "Mandy"
+withdraw
+invalid
+insert "26-01-1970 01:58" "21-01-1970 11:28" "<description>"
+undo
+delete "08-01-1970 08:16"
+insert "01-01-1970 14:27" "10-01-1970 05:48" "<description>"
+undo
+undo
+insert "02-01-1970 01:43" "05-01-1970 18:25" "<description>" student
+delete "24-01-1970 03:11"
+join "House4"
+insert "05-01-1970 04:42" "14-01-1970 13:05" "<description>" TV
+withdraw
+logoff
+insert "11-01-1970 22:44" "05-01-1970 05:14" "<description>"
+withdraw
+insert "25-01-1970 23:12" "09-01-1970 10:37" "<description>" playing
+logoff
+logoff
+join "playing"
+undo
+join "csFamily"
+remove
+insert "06-01-1970 08:31" "11-01-1970 04:51" "<description>" TV
+withdraw
+logon "Tracy"
+undo
+create "hiking"
+insert "05-01-1970 10:58" "01-01-1970 17:24" "<description>" flying
+insert "23-01-1970 01:20" "08-01-1970 03:40" "<description>"
+join "CSC"
+logoff
+insert "22-01-1970 16:31" "06-01-1970 05:04" "<description>" Professer
+insert "24-01-1970 16:55" "06-01-1970 10:02" "<description>" tv
+withdraw
+delete "24-01-1970 03:17"
+remove "student" fake
+
+remove "student" fake
+logoff
+logon "fail"
+join "COMP201"
+logon "CSC"
+logon "Jon"
+logoff
+remove
+invalid
+withdraw
+join "joking"
+logon "ar Lo"
+invalid
+remove
+undo
+undo
+remove
+withdraw
+withdraw
+invalid
+create "joking"
+insert "02-01-1970 12:06" "13-01-1970 13:23" "<description>" group11
+delete "19-01-1970 14:54"
+logon "triangle"
+undo
+insert "05-01-1970 03:11" "07-01-1970 08:28" "<description>" House2
+logon "May"
+invalid
+insert "13-01-1970 19:57" "22-01-1970 02:00" "<description>" Professer
+undo
+create "COMP201"
+delete "20-01-1970 16:37"
+logoff
+insert "04-01-1970 21:35" "15-01-1970 09:04" "<description>" pair
+undo
+insert "07-01-1970 14:56" "22-01-1970 18:23" "<description>" House2
+delete "16-01-1970 22:04"
+withdraw
+remove
+delete "24-01-1970 22:17"
+logoff
+logoff
+withdraw
+create "COMP104"
+insert "16-01-1970 10:23" "10-01-1970 13:05" "<description>" House2
+join "tv"
+logoff
+delete "14-01-1970 08:54"
+invalid
+withdraw
+undo
+logon "Felix"
+join "tv"
+undo
+insert "21-01-1970 11:34" "12-01-1970 08:09" "<description>" House2
+logoff
+logoff
+undo
+join "KAROAKE"
+insert "15-01-1970 09:40" "24-01-1970 19:36" "<description>" COMP201
+join "csFamily"
+join "joking"
+undo
+invalid
+withdraw
+delete "04-01-1970 02:41"
+insert "24-01-1970 11:39" "10-01-1970 20:13" "<description>"
+remove
+remove
+logoff
+logon "fail"
+insert "08-01-1970 00:15" "21-01-1970 21:19" "<description>" csFamily
+create "pair"
+create "CSC"
+remove
+insert "06-01-1970 19:51" "04-01-1970 01:58" "<description>" drawing
+remove
+withdraw
+logon "triangle"
+logoff
+delete "23-01-1970 03:21"
+delete "07-01-1970 19:20"
+join "flying"
+insert "04-01-1970 00:20" "16-01-1970 00:56" "<description>" COMP201
+remove
+insert "20-01-1970 22:58" "15-01-1970 17:27" "<description>" csFamily
+undo
+insert "09-01-1970 06:34" "23-01-1970 04:52" "<description>"
+join "flying"
+undo
+delete "21-01-1970 19:02"
+withdraw
+withdraw
+logoff
+create "committee"
+delete "05-01-1970 03:10"
+insert "04-01-1970 23:36" "01-01-1970 10:34" "<description>" KAROAKE
+logoff
+insert "05-01-1970 12:45" "23-01-1970 05:49" "<description>"
+insert "11-01-1970 09:38" "12-01-1970 18:55" "<description>" tv
+insert "02-01-1970 21:57" "14-01-1970 00:27" "<description>" student
+insert "Bear"  "<email>"  fake
+
+insert "02-01-1970 21:57" "14-01-1970 00:27" "<description>" student
+insert "Bear"  "<email>"  fake
+insert "10-01-1970 13:34" "18-01-1970 11:19" "<description>" COMP201
+insert "06-01-1970 10:58" "07-01-1970 17:21" "<description>" csFamily
+insert "23-01-1970 09:35" "22-01-1970 19:37" "<description>"
+delete "01-01-1970 23:51"
+insert "22-01-1970 20:56" "07-01-1970 13:20" "<description>" flying
+remove
+insert "10-01-1970 01:50" "03-01-1970 17:07" "<description>" KAROAKE
+withdraw
+insert "06-01-1970 07:44" "11-01-1970 00:31" "<description>" House2
+insert "01-01-1970 09:00" "13-01-1970 08:24" "<description>" hiking
+logon "triangle"
+insert "02-01-1970 13:39" "20-01-1970 12:07" "<description>"
+remove
+logoff
+insert "19-01-1970 15:03" "13-01-1970 08:19" "<description>" House4
+logoff
+delete "10-01-1970 13:07"
+create "House2"
+delete "03-01-1970 20:27"
+insert "20-01-1970 10:06" "20-01-1970 06:06" "<description>" CSC
+join "tv"
+logon "sqaure"
+insert "22-01-1970 07:56" "09-01-1970 17:12" "<description>" CSC
+remove
+invalid
+delete "11-01-1970 23:58"
+withdraw
+remove
+undo
+delete "16-01-1970 19:38"
+insert "02-01-1970 03:27" "25-01-1970 19:51" "<description>" drawing
+withdraw
+withdraw
+insert "03-01-1970 22:30" "15-01-1970 02:48" "<description>" pair
+insert "02-01-1970 00:26" "23-01-1970 17:32" "<description>"
+undo
+undo
+remove
+remove
+logon "Tracy"
+insert "01-01-1970 23:28" "13-01-1970 21:40" "<description>"
+create "House2"
+withdraw
+remove
+logoff
+invalid
+join "joking"
+create "csFamily"
+invalid
+logon "Jon"
+delete "15-01-1970 23:01"
+insert "12-01-1970 06:47" "09-01-1970 14:59" "<description>" group11
+invalid
+create "pair"
+undo
+create "csFamily"
+insert "15-01-1970 14:34" "08-01-1970 05:00" "<description>" KAROAKE
+undo
+invalid
+create "TV"
+insert "06-01-1970 15:43" "23-01-1970 15:02" "<description>" hiking
+create "TV"
+logon "CSC"
+insert "10-01-1970 18:50" "08-01-1970 18:38" "<description>"
+join "COMP201"
+insert "08-01-1970 19:07" "19-01-1970 15:53" "<description>" COMP201
+withdraw
+undo
+insert "09-01-1970 02:56" "19-01-1970 01:36" "<description>"
+remove
+create "student"
+logon "Horner"
+remove
+insert "12-01-1970 01:57" "17-01-1970 16:15" "<description>" joking
+delete "19-01-1970 01:16"
+insert "11-01-1970 17:59" "15-01-1970 13:36" "<description>" playing
+insert "14-01-1970 18:07" "25-01-1970 18:01" "<description>" KAROAKE
+logoff
+undo
+withdraw
+delete "21-01-1970 00:52"
+withdraw
+insert "14-01-1970 11:04" "25-01-1970 17:16" "<description>" KAROAKE
+logoff
+invalid
+logoff
+insert "19-01-1970 00:03" "15-01-1970 16:08" "<description>"
+withdraw
+logoff
+invalid
+insert "07-01-1970 13:52" "18-01-1970 13:23" "<description>" student
+join "TV"
+remove
+insert "16-01-1970 21:31" "22-01-1970 16:34" "<description>" pair
+remove
+join "playing"
+join "group11"
+delete "15-01-1970 00:07"
+insert "16-01-1970 08:24" "02-01-1970 19:27" "<description>" COMP104
+insert "22-01-1970 15:40" "03-01-1970 05:00" "<description>" Professer
+insert "ar Lo" "<email>" 
+
+insert "22-01-1970 15:40" "03-01-1970 05:00" "<description>" Professer
+insert "ar Lo" "<email>" 
+undo
+insert "11-01-1970 04:14" "15-01-1970 06:20" "<description>" KAROAKE
+invalid
+invalid
+insert "18-01-1970 19:13" "03-01-1970 06:40" "<description>" committee
+undo
+delete "19-01-1970 03:43"
+invalid
+join "committee"
+undo
+invalid
+withdraw
+invalid
+create "hiking"
+invalid
+undo
+withdraw
+remove
+invalid
+logoff
+withdraw
+logoff
+insert "14-01-1970 19:29" "06-01-1970 08:15" "<description>" tv
+create "House4"
+logon "Mandy"
+remove
+insert "02-01-1970 13:39" "07-01-1970 14:30" "<description>" COMP104
+invalid
+delete "01-01-1970 18:38"
+insert "09-01-1970 22:45" "14-01-1970 11:25" "<description>"
+remove
+logon "fail"
+remove
+logoff
+delete "06-01-1970 10:44"
+remove
+create "COMP201"
+logon "Mandy"
+delete "06-01-1970 12:02"
+logon "Apple"
+remove
+insert "07-01-1970 12:52" "18-01-1970 15:49" "<description>" joking
+invalid
+insert "12-01-1970 18:47" "20-01-1970 08:17" "<description>" KAROAKE
+logon "Apple"
+invalid
+logon "Apple"
+undo
+remove
+invalid
+delete "08-01-1970 18:23"
+remove
+withdraw
+insert "04-01-1970 19:45" "07-01-1970 16:19" "<description>" Professer
+join "csFamily"
+insert "16-01-1970 01:06" "25-01-1970 15:49" "<description>"
+join "tv"
+withdraw
+join "csFamily"
+delete "08-01-1970 09:21"
+insert "19-01-1970 20:07" "21-01-1970 12:11" "<description>" playing
+create "flying"
+join "playing"
+invalid
+join "COMP104"
+delete "10-01-1970 14:12"
+withdraw
+insert "05-01-1970 02:07" "02-01-1970 02:25" "<description>"
+join "group11"
+insert "15-01-1970 12:17" "06-01-1970 19:16" "<description>" csFamily
+invalid
+insert "07-01-1970 23:39" "01-01-1970 23:09" "<description>"
+insert "11-01-1970 10:43" "11-01-1970 21:08" "<description>" pair
+join "CSC"
+withdraw "tv"
+join "House2"
+insert "03-01-1970 06:27" "21-01-1970 13:17" "<description>" pair
+delete "09-01-1970 13:14"
+withdraw
+insert "02-01-1970 16:43" "19-01-1970 00:55" "<description>" House4
+logon "invalid"
+join "csFamily"
+remove
+remove
+insert "11-01-1970 23:41" "15-01-1970 22:59" "<description>"
+insert "09-01-1970 16:10" "11-01-1970 17:43" "<description>" csFamily
+insert "20-01-1970 02:03" "08-01-1970 12:58" "<description>" committee
+remove
+invalid
+insert "10-01-1970 23:59" "19-01-1970 14:30" "<description>"
+join "student"
+withdraw
+withdraw
+invalid
+invalid
+remove
+logon "Tracy"
+join "flying"
+join "COMP104"
+undo
+undo "CSC"  "<email>" 
+
+undo
+undo "CSC"  "<email>" 
+create "pair"
+insert "15-01-1970 21:55" "12-01-1970 18:37" "<description>" Professer
+insert "23-01-1970 14:58" "13-01-1970 10:30" "<description>"
+delete "18-01-1970 17:46"
+create "House4"
+insert "02-01-1970 18:37" "24-01-1970 03:18" "<description>" KAROAKE
+invalid
+delete "20-01-1970 17:07"
+create "student"
+invalid
+remove
+create "TV"
+insert "23-01-1970 01:04" "06-01-1970 12:09" "<description>" KAROAKE
+join "COMP104"
+insert "13-01-1970 19:31" "04-01-1970 09:19" "<description>" flying
+logon "Horner"
+insert "06-01-1970 17:07" "20-01-1970 04:36" "<description>" drawing
+remove
+delete "08-01-1970 18:17"
+undo
+delete "08-01-1970 17:58"
+undo
+delete "07-01-1970 03:16"
+create "pair"
+remove "House2"
+withdraw
+delete "09-01-1970 05:55"
+insert "11-01-1970 21:27" "05-01-1970 19:17" "<description>" House2
+invalid
+insert "07-01-1970 19:58" "05-01-1970 02:08" "<description>" tv
+undo
+join "flying"
+logoff
+undo
+insert "10-01-1970 11:45" "20-01-1970 06:52" "<description>" COMP104
+insert "02-01-1970 18:35" "12-01-1970 11:26" "<description>" COMP201
+logon "triangle"
+withdraw
+invalid
+withdraw
+join "TV"
+logoff
+insert "18-01-1970 21:07" "02-01-1970 06:10" "<description>" COMP104
+logon "invalid"
+logoff
+logon "fail"
+create "drawing"
+invalid
+insert "08-01-1970 20:52" "11-01-1970 19:43" "<description>" flying
+logon "Tracy"
+insert "02-01-1970 07:31" "11-01-1970 01:16" "<description>"
+insert "14-01-1970 09:54" "06-01-1970 20:29" "<description>" House2
+delete "11-01-1970 07:53"
+insert "03-01-1970 15:16" "12-01-1970 02:28" "<description>" KAROAKE
+undo
+remove
+insert "08-01-1970 20:35" "05-01-1970 02:34" "<description>"
+join "drawing"
+insert "05-01-1970 19:53" "08-01-1970 17:12" "<description>" TV
+logoff
+insert "14-01-1970 03:44" "09-01-1970 17:33" "<description>" group11
+withdraw
+invalid
+insert "24-01-1970 19:33" "07-01-1970 20:54" "<description>" House4
+undo
+undo
+join "joking"
+insert "03-01-1970 23:00" "20-01-1970 13:48" "<description>" pair
+invalid
+logoff
+logoff
+undo
+join "pair"
+create "group11"
+withdraw "pair"
+logon "Kenneth"
+insert "06-01-1970 14:22" "06-01-1970 04:10" "<description>" COMP201
+withdraw
+undo
+join "House2"
+insert "26-01-1970 01:48" "12-01-1970 09:07" "<description>" drawing
+delete "14-01-1970 23:21"
+insert "24-01-1970 03:17" "25-01-1970 10:04" "<description>" csFamily
+logoff
+logoff
+logon "Andrea"
+join "flying"
+insert "14-01-1970 14:35" "25-01-1970 08:17" "<description>" csFamily
+logoff
+delete "03-01-1970 22:43"
+create "drawing"
+remove
+invalid
+withdraw
+delete "14-01-1970 16:07"
+join "House4"
+insert "11-01-1970 17:23" "12-01-1970 22:02" "<description>" committee
+create "House2"
+invalid
+insert "21-01-1970 09:23" "19-01-1970 12:18" "<description>" KAROAKE
+insert "sqaure"  "<email>"  fake
+
+insert "21-01-1970 09:23" "19-01-1970 12:18" "<description>" KAROAKE
+insert "sqaure"  "<email>"  fake
+remove
+delete "25-01-1970 03:54"
+undo
+withdraw
+logoff
+join "csFamily"
+remove
+insert "14-01-1970 21:40" "13-01-1970 09:19" "<description>" House2
+withdraw
+invalid
+logoff
+logoff
+remove
+invalid
+invalid
+logon "CSC"
+logoff
+insert "14-01-1970 10:49" "07-01-1970 04:28" "<description>" COMP104
+delete "20-01-1970 10:20"
+delete "18-01-1970 14:46"
+insert "01-01-1970 09:12" "23-01-1970 18:54" "<description>"
+join "TV"
+insert "01-01-1970 15:12" "26-01-1970 03:09" "<description>" KAROAKE
+withdraw
+insert "11-01-1970 01:59" "13-01-1970 00:52" "<description>" House4
+delete "12-01-1970 07:43"
+join "tv"
+logoff
+create "COMP104"
+insert "14-01-1970 13:10" "23-01-1970 22:10" "<description>"
+logon "Kenneth"
+logon "triangle"
+undo
+withdraw
+join "student"
+insert "19-01-1970 06:33" "09-01-1970 22:06" "<description>" House2
+join "csFamily"
+withdraw
+withdraw
+undo
+invalid
+logoff
+insert "10-01-1970 13:22" "13-01-1970 07:00" "<description>" csFamily
+delete "16-01-1970 09:04"
+withdraw
+logon "triangle"
+insert "05-01-1970 19:46" "10-01-1970 21:39" "<description>"
+insert "18-01-1970 21:25" "03-01-1970 15:15" "<description>"
+withdraw
+logoff
+delete "08-01-1970 14:03"
+invalid
+withdraw
+logoff
+logoff
+logoff
+logon "Kenneth"
+remove
+join "KAROAKE"
+insert "11-01-1970 16:28" "19-01-1970 07:20" "<description>" playing
+delete "10-01-1970 20:22"
+logoff
+withdraw
+logon "Bonnie"
+invalid
+invalid
+delete "16-01-1970 08:06"
+logon "invalid"
+logon "Kenny"
+insert "23-01-1970 06:05" "03-01-1970 12:24" "<description>"
+create "House2"
+insert "08-01-1970 02:45" "09-01-1970 22:43" "<description>"
+logon "Apple"
+invalid
+join "TV"
+invalid
+logon "sqaure"
+insert "02-01-1970 14:01" "15-01-1970 11:01" "<description>" COMP104
+create "COMP104"
+create "TV"
+invalid
+insert "13-01-1970 12:28" "02-01-1970 10:49" "<description>" flying
+insert "12-01-1970 06:55" "17-01-1970 21:43" "<description>" committee
+remove
+undo
+invalid
+insert "22-01-1970 06:08" "10-01-1970 02:11" "<description>"
+delete "09-01-1970 03:30"
+insert "05-01-1970 20:32" "07-01-1970 10:03" "<description>" KAROAKE
+logon "Kenny"
+create "tv"
+insert "20-01-1970 03:37" "18-01-1970 13:37" "<description>" CSC
+remove
+invalid
+insert "09-01-1970 19:39" "19-01-1970 20:15" "<description>"
+invalid
+insert "06-01-1970 11:48" "23-01-1970 03:45" "<description>" COMP201
+delete "03-01-1970 06:59"
+logoff
+withdraw "drawing" fake
+
+withdraw "drawing" fake
+logon "Bonnie"
+insert "01-01-1970 13:55" "23-01-1970 12:58" "<description>"
+create "TV"
+insert "24-01-1970 22:34" "09-01-1970 19:12" "<description>" COMP201
+create "TV"
+logon "Apple"
+insert "03-01-1970 00:41" "09-01-1970 08:45" "<description>" TV
+logoff
+logon "Tracy"
+insert "25-01-1970 23:58" "15-01-1970 05:39" "<description>" pair
+create "csFamily"
+insert "23-01-1970 07:53" "24-01-1970 11:30" "<description>" committee
+insert "20-01-1970 23:36" "21-01-1970 15:48" "<description>"
+delete "22-01-1970 08:27"
+join "TV"
+undo
+logon "qoe"
+logon "Kenny"
+create "House2"
+withdraw
+invalid
+withdraw
+join "Professer"
+insert "22-01-1970 13:54" "08-01-1970 11:26" "<description>" committee
+insert "22-01-1970 14:34" "22-01-1970 00:54" "<description>" House4
+logon "Mandy"
+insert "16-01-1970 10:28" "24-01-1970 15:06" "<description>" Professer
+insert "25-01-1970 13:16" "05-01-1970 06:12" "<description>" TV
+withdraw
+logon "Jon"
+withdraw
+invalid
+join "TV"
+remove
+remove
+insert "20-01-1970 15:24" "14-01-1970 10:40" "<description>" playing
+withdraw
+delete "16-01-1970 20:55"
+delete "18-01-1970 21:28"
+withdraw
+insert "21-01-1970 16:29" "22-01-1970 14:53" "<description>"
+logoff
+create "TV"
+delete "14-01-1970 19:20"
+undo
+join "drawing"
+insert "23-01-1970 00:06" "01-01-1970 15:42" "<description>" student
+join "Professer"
+logoff
+logon "invalid"
+logoff
+logoff
+delete "08-01-1970 03:50"
+insert "20-01-1970 03:49" "18-01-1970 14:32" "<description>" Professer
+invalid
+invalid
+invalid
+remove
+undo
+logon "Jon"
+logoff
+logoff
+remove
+insert "14-01-1970 17:58" "18-01-1970 15:46" "<description>" House2
+undo
+invalid
+logoff
+invalid
+undo
+withdraw
+logoff
+delete "01-01-1970 13:30"
+logoff
+logon "Andrea"
+create "student"
+insert "18-01-1970 04:22" "08-01-1970 06:06" "<description>"
+remove
+logoff
+join "drawing"
+insert "18-01-1970 02:25" "06-01-1970 10:14" "<description>" group11
+logoff
+insert "15-01-1970 21:03" "11-01-1970 18:41" "<description>"
+create "House4"
+insert "06-01-1970 21:29" "11-01-1970 13:14" "<description>" COMP201
+insert "22-01-1970 13:30" "13-01-1970 08:54" "<description>" House2
+invalid
+remove
+logoff
+insert "14-01-1970 18:19" "05-01-1970 03:49" "<description>" flying
+insert "25-01-1970 12:43" "24-01-1970 21:06" "<description>" group11
+insert "12-01-1970 22:32" "12-01-1970 03:10" "<description>" pair
+create "hiking"
+logoff
+create "joking"
+create "csFamily"
+undo
+join "tv"
+logon "Bear"
+join "playing"
+create "COMP201" fake
+
+create "COMP201" fake
+logoff
+insert "06-01-1970 02:37" "06-01-1970 13:52" "<description>" COMP201
+join "tv"
+withdraw
+insert "04-01-1970 17:34" "17-01-1970 13:40" "<description>"
+join "joking"
+invalid
+logon "Kenny"
+withdraw
+delete "05-01-1970 11:19"
+withdraw
+logoff
+insert "06-01-1970 00:14" "21-01-1970 11:41" "<description>" committee
+invalid
+insert "25-01-1970 15:26" "02-01-1970 03:30" "<description>" playing
+create "tv"
+invalid
+remove
+create "tv"
+withdraw
+insert "05-01-1970 06:16" "11-01-1970 15:22" "<description>" drawing
+logon "fail"
+insert "13-01-1970 08:02" "13-01-1970 20:12" "<description>"
+undo
+create "committee"
+invalid
+withdraw
+insert "18-01-1970 02:06" "06-01-1970 22:45" "<description>" pair
+insert "25-01-1970 08:32" "11-01-1970 03:51" "<description>" COMP104
+join "tv"
+insert "24-01-1970 11:41" "22-01-1970 21:26" "<description>"
+withdraw
+undo
+insert "04-01-1970 06:28" "22-01-1970 19:02" "<description>" COMP104
+withdraw
+invalid
+logon "Jon"
+logon "Kenny"
+invalid
+remove
+delete "05-01-1970 22:08"
+insert "06-01-1970 17:13" "10-01-1970 14:31" "<description>" Professer
+create "House2"
+insert "21-01-1970 20:28" "06-01-1970 06:26" "<description>"
+delete "13-01-1970 16:06"
+join "TV"
+create "COMP104"
+logon "sqaure"
+logoff
+insert "15-01-1970 06:39" "09-01-1970 02:40" "<description>" TV
+logoff
+delete "14-01-1970 18:19"
+logon "ar Lo"
+insert "24-01-1970 16:33" "18-01-1970 02:28" "<description>" House2
+insert "23-01-1970 10:00" "05-01-1970 20:40" "<description>" CSC
+invalid
+remove
+delete "03-01-1970 18:46"
+logoff
+delete "18-01-1970 02:32"
+insert "18-01-1970 11:47" "18-01-1970 02:48" "<description>" COMP201
+remove
+logon "May"
+remove
+logoff
+undo
+join "COMP201"
+delete "21-01-1970 21:12"
+insert "22-01-1970 03:29" "03-01-1970 02:04" "<description>"
+join "House4"
+create "KAROAKE"
+logoff
+logoff
+logon "Bear"
+logon "Felix"
+create "COMP201"
+withdraw
+insert "05-01-1970 01:03" "24-01-1970 03:23" "<description>" flying
+invalid
+logoff
+remove
+invalid
+invalid
+undo
+logoff
+invalid
+invalid
+withdraw
+remove
+invalid
+create "House2"
+withdraw
+insert "07-01-1970 11:39" "17-01-1970 11:33" "<description>" pair
+insert "10-01-1970 14:16" "15-01-1970 00:13" "<description>" pair
+delete "23-01-1970 17:56"
+remove
+remove
+join "flying"
+logon "triangle"
+insert "18-01-1970 10:13" "21-01-1970 21:14" "<description>" TV
+insert "Andrew" "<email>" 
+
+insert "18-01-1970 10:13" "21-01-1970 21:14" "<description>" TV
+insert "Andrew" "<email>" 
+insert "22-01-1970 00:31" "04-01-1970 22:47" "<description>" csFamily
+insert "14-01-1970 10:47" "05-01-1970 23:35" "<description>" CSC
+insert "19-01-1970 03:05" "04-01-1970 17:28" "<description>" COMP201
+undo
+insert "14-01-1970 23:12" "15-01-1970 15:32" "<description>" drawing
+create "drawing"
+withdraw
+insert "20-01-1970 13:58" "13-01-1970 12:16" "<description>" committee
+logon "Apple"
+insert "03-01-1970 06:38" "19-01-1970 09:07" "<description>" joking
+join "committee"
+withdraw
+remove
+insert "21-01-1970 03:15" "11-01-1970 15:00" "<description>" group11
+withdraw
+join "csFamily"
+withdraw
+insert "23-01-1970 18:14" "07-01-1970 17:48" "<description>"
+logon "ar Lo"
+create "COMP201"
+undo
+undo
+logoff
+invalid
+withdraw "invalid"
+insert "16-01-1970 05:03" "15-01-1970 06:11" "<description>" hiking
+remove
+invalid
+insert "24-01-1970 01:47" "05-01-1970 13:32" "<description>"
+insert "10-01-1970 22:46" "07-01-1970 14:28" "<description>" House4
+logon "Tracy"
+insert "11-01-1970 18:28" "02-01-1970 19:54" "<description>" pair
+insert "18-01-1970 05:44" "11-01-1970 20:28" "<description>" CSC
+logoff
+insert "25-01-1970 02:16" "13-01-1970 20:38" "<description>"
+remove
+withdraw
+insert "19-01-1970 14:40" "24-01-1970 19:47" "<description>" Professer
+join "TV"
+logoff
+logoff
+insert "03-01-1970 00:58" "10-01-1970 14:56" "<description>" House4
+logon "ar Lo"
+insert "24-01-1970 07:07" "13-01-1970 19:13" "<description>"
+logoff
+insert "18-01-1970 11:35" "05-01-1970 17:55" "<description>" flying
+undo
+withdraw
+create "TV"
+undo
+invalid
+insert "01-01-1970 21:58" "21-01-1970 23:40" "<description>" csFamily
+invalid
+invalid
+logoff
+delete "15-01-1970 12:15"
+logoff
+logon "carin"
+withdraw
+insert "04-01-1970 09:22" "03-01-1970 12:35" "<description>" drawing
+insert "20-01-1970 06:10" "09-01-1970 07:11" "<description>" drawing
+join "joking"
+insert "07-01-1970 15:08" "16-01-1970 13:14" "<description>" playing
+insert "25-01-1970 03:24" "09-01-1970 19:36" "<description>" TV
+delete "25-01-1970 06:19"
+withdraw
+remove
+insert "10-01-1970 23:56" "13-01-1970 00:28" "<description>" student
+join "csFamily"
+withdraw
+logon "Tracy"
+insert "13-01-1970 16:48" "19-01-1970 02:35" "<description>" KAROAKE
+remove
+logoff
+insert "17-01-1970 18:09" "23-01-1970 04:04" "<description>" Professer
+insert "07-01-1970 12:46" "18-01-1970 04:44" "<description>"
+create "House4"
+delete "17-01-1970 12:53"
+logoff
+invalid
+remove
+join "COMP201"
+join "CSC"
+create "CSC"
+delete "16-01-1970 11:49"
+join "KAROAKE"
+insert "23-01-1970 00:38" "01-01-1970 22:38" "<description>" tv
+insert "13-01-1970 01:52" "01-01-1970 08:43" "<description>" tv
+withdraw
+join "student"
+invalid
+logon "Bonnie"
+invalid
+insert "03-01-1970 00:42" "23-01-1970 11:47" "<description>"
+logon "triangle"
+invalid
+logon "Mandy"
+join "pair"
+insert "22-01-1970 21:51" "18-01-1970 03:51" "<description>" group11
+invalid
+invalid "Bear"  "<email>" 
+
+invalid
+invalid "Bear"  "<email>" 
+create "House4"
+insert "22-01-1970 16:47" "05-01-1970 01:18" "<description>" TV
+remove
+logoff
+logon "triangle"
+withdraw
+join "hiking"
+join "playing"
+insert "14-01-1970 05:19" "01-01-1970 21:27" "<description>" House4
+insert "03-01-1970 03:14" "02-01-1970 18:11" "<description>" group11
+remove
+create "TV"
+delete "13-01-1970 07:07"
+create "House4"
+insert "11-01-1970 05:06" "24-01-1970 22:57" "<description>"
+withdraw
+insert "17-01-1970 19:45" "08-01-1970 18:53" "<description>" KAROAKE
+create "csFamily"
+insert "17-01-1970 19:45" "11-01-1970 02:18" "<description>" joking
+create "House4"
+remove
+delete "17-01-1970 15:25"
+join "flying"
+undo
+invalid
+insert "02-01-1970 18:50" "01-01-1970 21:03" "<description>" House4
+remove
+remove
+delete "21-01-1970 12:39"
+create "drawing"
+logoff
+delete "14-01-1970 11:51"
+invalid
+logoff
+insert "24-01-1970 17:35" "24-01-1970 13:59" "<description>"
+insert "19-01-1970 21:55" "08-01-1970 09:09" "<description>"
+invalid
+logoff
+insert "04-01-1970 00:18" "18-01-1970 09:45" "<description>" House4
+logon "Kenny"
+insert "08-01-1970 11:10" "22-01-1970 12:00" "<description>" group11
+withdraw
+logoff
+insert "22-01-1970 22:26" "05-01-1970 20:00" "<description>" COMP201
+insert "01-01-1970 16:35" "12-01-1970 07:07" "<description>" pair
+withdraw
+logon "Kenny"
+logoff
+insert "09-01-1970 16:59" "10-01-1970 19:51" "<description>" flying
+create "TV"
+insert "15-01-1970 18:53" "13-01-1970 05:21" "<description>" House4
+insert "13-01-1970 10:12" "11-01-1970 14:14" "<description>" House2
+logon "qoe"
+insert "05-01-1970 23:58" "19-01-1970 20:14" "<description>" KAROAKE
+insert "24-01-1970 12:05" "05-01-1970 16:16" "<description>" committee
+insert "25-01-1970 13:36" "14-01-1970 13:30" "<description>" COMP104
+invalid
+logoff
+invalid
+undo
+join "House4"
+insert "21-01-1970 19:43" "14-01-1970 07:39" "<description>" joking
+create "Professer"
+delete "01-01-1970 19:41"
+undo
+remove
+remove
+withdraw
+logon "Kenny"
+insert "12-01-1970 02:55" "15-01-1970 20:23" "<description>" csFamily
+insert "12-01-1970 00:05" "02-01-1970 17:47" "<description>"
+insert "01-01-1970 22:03" "23-01-1970 03:21" "<description>" TV
+logoff
+join "COMP201"
+delete "11-01-1970 02:38"
+remove
+logon "Bonnie"
+logoff
+join "CSC"
+logon "ar Lo"
+join "House4"
+insert "15-01-1970 06:41" "09-01-1970 19:26" "<description>"
+remove
+insert "02-01-1970 01:41" "22-01-1970 23:41" "<description>" pair
+logon "Felix"
+logon "ar Lo"
+logon "triangle"
+insert "07-01-1970 01:46" "21-01-1970 17:26" "<description>" pair
+invalid
+join "committee"
+delete "23-01-1970 22:12"
+insert "05-01-1970 21:54" "24-01-1970 04:17" "<description>" hiking
+remove
+join "drawing"
+create "drawing"
+invalid
+delete "04-01-1970 17:01"
+delete "02-01-1970 01:39"
+delete "25-01-1970 09:27"
+insert "04-01-1970 00:58" "19-01-1970 01:41" "<description>" flying
+insert "CSC" "<email>"  fake
+
+insert "04-01-1970 00:58" "19-01-1970 01:41" "<description>" flying
+insert "CSC" "<email>"  fake
+insert "22-01-1970 02:33" "08-01-1970 16:17" "<description>" playing
+invalid
+delete "22-01-1970 02:31"
+insert "22-01-1970 22:29" "02-01-1970 11:11" "<description>" CSC
+create "committee"
+logoff
+create "House2"
+delete "11-01-1970 11:23"
+logon "Felix"
+insert "08-01-1970 08:14" "06-01-1970 23:38" "<description>" Professer
+logon "qoe"
+withdraw
+create "House2"
+undo
+logon "Horner"
+join "KAROAKE"
+delete "19-01-1970 06:04"
+insert "10-01-1970 14:39" "01-01-1970 17:12" "<description>" KAROAKE
+insert "19-01-1970 08:48" "12-01-1970 13:19" "<description>" student
+insert "13-01-1970 11:36" "17-01-1970 19:32" "<description>" hiking
+insert "25-01-1970 15:27" "09-01-1970 00:02" "<description>" pair
+logon "May"
+undo
+logon "Apple"
+remove "csFamily"
+remove
+insert "13-01-1970 02:06" "09-01-1970 01:17" "<description>" KAROAKE
+undo
+delete "07-01-1970 12:56"
+insert "07-01-1970 07:44" "11-01-1970 17:25" "<description>"
+create "Professer"
+delete "14-01-1970 11:32"
+insert "04-01-1970 12:41" "17-01-1970 07:08" "<description>"
+undo
+insert "19-01-1970 13:43" "17-01-1970 03:52" "<description>" hiking
+logon "fail"
+withdraw
+logoff
+insert "12-01-1970 08:02" "13-01-1970 01:23" "<description>" COMP201
+delete "13-01-1970 08:29"
+create "COMP201"
+logoff
+remove
+logoff
+insert "03-01-1970 05:24" "05-01-1970 00:27" "<description>" student
+logon "Felix"
+logoff
+insert "04-01-1970 00:00" "16-01-1970 13:30" "<description>" pair
+create "joking"
+withdraw "joking"
+create "csFamily"
+logon "qoe"
+create "House2"
+logon "Bonnie"
+delete "03-01-1970 12:44"
+invalid
+join "joking"
+withdraw
+join "Professer"
+insert "05-01-1970 17:09" "02-01-1970 13:32" "<description>"
+insert "19-01-1970 11:54" "03-01-1970 05:00" "<description>" group11
+undo
+undo
+insert "13-01-1970 14:38" "09-01-1970 05:12" "<description>" tv
+remove
+insert "08-01-1970 23:01" "24-01-1970 12:11" "<description>" COMP104
+insert "20-01-1970 07:25" "14-01-1970 09:24" "<description>" playing
+join "House4"
+delete "15-01-1970 10:47"
+join "playing"
+logoff
+invalid
+join "playing"
+remove
+logon "Bear"
+insert "21-01-1970 04:19" "03-01-1970 12:39" "<description>" Professer
+remove
+undo
+join "COMP201"
+remove
+join "CSC"
+undo
+insert "20-01-1970 17:03" "17-01-1970 03:53" "<description>"
+logoff
+insert "05-01-1970 05:13" "08-01-1970 18:07" "<description>" group11
+insert "24-01-1970 03:28" "11-01-1970 06:24" "<description>"
+delete "09-01-1970 00:48"
+insert "22-01-1970 13:17" "16-01-1970 02:51" "<description>" TV
+logoff
+delete "11-01-1970 17:34"
+insert "15-01-1970 18:30" "26-01-1970 00:32" "<description>" playing
+insert "14-01-1970 22:57" "19-01-1970 18:27" "<description>" House4
+invalid
+delete "09-01-1970 06:02"
+join "playing"
+insert "03-01-1970 03:08" "18-01-1970 12:57" "<description>" flying
+insert "10-01-1970 09:36" "18-01-1970 17:45" "<description>" KAROAKE
+undo
+remove
+remove "student"
+remove "ar Lo"  "<email>" 
+
+remove "student"
+remove "ar Lo"  "<email>" 
+withdraw
+invalid
+insert "08-01-1970 21:46" "06-01-1970 19:54" "<description>"
+logoff
+undo
+insert "03-01-1970 09:13" "20-01-1970 17:22" "<description>" student
+logoff
+create "COMP201"
+insert "18-01-1970 19:08" "11-01-1970 00:45" "<description>" House4
+insert "23-01-1970 01:19" "19-01-1970 02:02" "<description>"
+delete "02-01-1970 23:39"
+invalid
+insert "14-01-1970 17:10" "03-01-1970 10:18" "<description>"
+insert "01-01-1970 22:37" "07-01-1970 19:20" "<description>" TV
+insert "22-01-1970 16:22" "03-01-1970 13:36" "<description>" COMP201
+invalid
+insert "15-01-1970 04:34" "05-01-1970 22:38" "<description>" csFamily
+withdraw
+logoff
+insert "14-01-1970 04:10" "15-01-1970 13:46" "<description>" joking
+delete "04-01-1970 08:13"
+invalid
+insert "25-01-1970 06:56" "05-01-1970 09:05" "<description>" COMP104
+withdraw
+join "joking"
+insert "09-01-1970 23:16" "06-01-1970 07:59" "<description>" KAROAKE
+logon "Horner"
+logoff
+invalid
+insert "07-01-1970 06:38" "17-01-1970 11:17" "<description>" drawing
+undo
+insert "15-01-1970 00:37" "23-01-1970 12:56" "<description>" COMP201
+undo
+undo
+insert "25-01-1970 14:33" "13-01-1970 21:58" "<description>" group11
+join "pair"
+join "CSC"
+delete "07-01-1970 09:01"
+delete "07-01-1970 21:03"
+delete "23-01-1970 05:27"
+insert "18-01-1970 15:33" "17-01-1970 02:06" "<description>" csFamily
+remove
+insert "04-01-1970 10:52" "06-01-1970 21:52" "<description>"
+insert "17-01-1970 03:29" "17-01-1970 14:28" "<description>"
+logoff
+undo
+logon "Mandy"
+delete "22-01-1970 22:09"
+logon "Apple"
+insert "18-01-1970 20:07" "25-01-1970 09:56" "<description>"
+logon "sqaure"
+remove
+remove
+join "COMP104"
+insert "03-01-1970 07:30" "14-01-1970 11:04" "<description>"
+remove
+delete "10-01-1970 03:45"
+create "CSC"
+insert "25-01-1970 12:26" "08-01-1970 16:12" "<description>" student
+insert "15-01-1970 13:58" "03-01-1970 03:42" "<description>" group11
+insert "15-01-1970 18:30" "05-01-1970 13:20" "<description>"
+insert "13-01-1970 18:40" "12-01-1970 11:20" "<description>" playing
+delete "06-01-1970 14:05"
+insert "09-01-1970 12:04" "18-01-1970 18:17" "<description>"
+insert "13-01-1970 17:04" "04-01-1970 10:46" "<description>" committee
+create "tv"
+insert "15-01-1970 23:26" "10-01-1970 10:48" "<description>" hiking
+undo
+create "tv"
+create "COMP201"
+logoff
+remove
+insert "06-01-1970 18:43" "16-01-1970 04:16" "<description>" COMP104
+insert "10-01-1970 07:33" "02-01-1970 22:12" "<description>" House2
+invalid
+join "CSC"
+create "pair"
+invalid
+undo
+invalid
+insert "09-01-1970 19:06" "02-01-1970 17:02" "<description>" CSC
+join "playing"
+join "hiking"
+withdraw
+insert "10-01-1970 16:25" "19-01-1970 21:03" "<description>"
+insert "18-01-1970 14:18" "25-01-1970 23:18" "<description>" KAROAKE
+logon "May"
+join "group11"
+create "House4"
+undo
+undo
+create "tv"
+logoff
+undo
+insert "14-01-1970 12:24" "16-01-1970 04:23" "<description>" hiking
+invalid
+insert "02-01-1970 14:34" "02-01-1970 03:54" "<description>" House4
+undo
+insert "11-01-1970 15:56" "16-01-1970 18:52" "<description>" KAROAKE
+withdraw "student"
+withdraw "fail" "<email>" 
+
+withdraw "student"
+withdraw "fail" "<email>" 
+undo
+undo
+create "flying"
+logoff
+undo
+undo
+logon "Felix"
+logon "Horner"
+insert "17-01-1970 12:56" "13-01-1970 01:17" "<description>"
+undo
+logoff
+insert "21-01-1970 03:24" "07-01-1970 23:00" "<description>" KAROAKE
+insert "22-01-1970 10:32" "06-01-1970 18:57" "<description>" KAROAKE
+create "committee"
+invalid
+insert "02-01-1970 01:20" "06-01-1970 05:53" "<description>" hiking
+insert "11-01-1970 02:52" "08-01-1970 02:18" "<description>"
+insert "19-01-1970 01:26" "03-01-1970 18:15" "<description>" House2
+logoff
+logon "sqaure"
+undo
+delete "24-01-1970 12:47"
+invalid
+undo
+join "csFamily"
+logoff
+insert "24-01-1970 14:31" "01-01-1970 18:01" "<description>" student
+undo
+undo
+withdraw
+insert "20-01-1970 19:47" "07-01-1970 03:55" "<description>" drawing
+create "CSC"
+join "House2"
+remove
+undo
+logoff
+remove
+delete "03-01-1970 23:00"
+insert "17-01-1970 10:07" "01-01-1970 08:55" "<description>" csFamily
+create "COMP104"
+logoff
+delete "08-01-1970 10:22"
+logoff
+insert "05-01-1970 01:12" "15-01-1970 08:39" "<description>" hiking
+delete "07-01-1970 06:47"
+logon "qoe"
+remove
+invalid
+remove
+invalid
+remove
+insert "16-01-1970 17:53" "07-01-1970 10:09" "<description>" hiking
+remove
+create "House2"
+create "flying"
+join "House4"
+join "group11"
+join "CSC"
+insert "25-01-1970 11:30" "21-01-1970 21:24" "<description>" pair
+delete "12-01-1970 05:20"
+undo
+delete "02-01-1970 18:21"
+undo
+withdraw
+logoff
+logon "Bear"
+logoff
+delete "19-01-1970 06:10"
+insert "13-01-1970 22:22" "22-01-1970 20:28" "<description>" hiking
+insert "20-01-1970 07:08" "05-01-1970 06:30" "<description>" pair
+remove
+insert "05-01-1970 16:19" "17-01-1970 12:48" "<description>" House2
+insert "20-01-1970 03:26" "24-01-1970 23:43" "<description>" COMP201
+create "KAROAKE"
+delete "15-01-1970 20:04"
+delete "16-01-1970 21:24"
+join "committee"
+insert "04-01-1970 18:38" "07-01-1970 08:09" "<description>" flying
+delete "09-01-1970 19:21"
+undo
+undo
+invalid
+join "TV"
+remove
+withdraw
+insert "09-01-1970 13:43" "24-01-1970 18:54" "<description>"
+logon "invalid"
+withdraw
+undo
+join "House2"
+remove
+create "csFamily"
+invalid
+logon "CSC"
+delete "10-01-1970 20:17"
+logoff
+create "committee"
+logon "Mandy"
+insert "23-01-1970 10:31" "14-01-1970 03:30" "<description>" group11
+undo
+undo "qoe"  "<email>" 
+
+undo
+undo "qoe"  "<email>" 
+logon "Jon"
+insert "23-01-1970 22:50" "09-01-1970 23:20" "<description>" student
+insert "16-01-1970 18:01" "08-01-1970 23:34" "<description>" group11
+undo
+invalid
+withdraw
+insert "17-01-1970 23:17" "23-01-1970 22:53" "<description>" House4
+join "flying"
+insert "24-01-1970 15:37" "08-01-1970 02:09" "<description>" tv
+logon "Felix"
+create "playing"
+logon "ar Lo"
+insert "05-01-1970 19:22" "03-01-1970 11:45" "<description>" KAROAKE
+insert "23-01-1970 12:26" "24-01-1970 19:15" "<description>" tv
+delete "17-01-1970 18:49"
+join "drawing"
+logoff
+insert "25-01-1970 23:55" "21-01-1970 09:57" "<description>" KAROAKE
+delete "03-01-1970 12:51"
+join "CSC"
+invalid
+logon "triangle"
+create "Professer"
+logon "carin"
+insert "08-01-1970 01:35" "18-01-1970 23:51" "<description>"
+insert "05-01-1970 02:36" "10-01-1970 02:23" "<description>" pair
+join "House4"
+withdraw
+withdraw
+logon "qoe"
+join "CSC"
+insert "22-01-1970 06:15" "21-01-1970 02:00" "<description>"
+withdraw
+insert "16-01-1970 22:51" "14-01-1970 04:40" "<description>" Professer
+insert "16-01-1970 07:26" "10-01-1970 00:18" "<description>" COMP104
+logon "invalid"
+insert "24-01-1970 14:37" "05-01-1970 00:54" "<description>" House2
+remove
+logon "CSC"
+join "KAROAKE"
+withdraw
+invalid
+delete "22-01-1970 08:11"
+join "student"
+logoff
+remove
+logoff
+insert "03-01-1970 10:43" "12-01-1970 22:27" "<description>" student
+insert "23-01-1970 07:51" "13-01-1970 23:04" "<description>" COMP201
+create "student"
+withdraw
+join "group11"
+delete "24-01-1970 02:04"
+logoff
+insert "07-01-1970 15:45" "04-01-1970 02:14" "<description>" csFamily
+insert "23-01-1970 04:07" "15-01-1970 07:50" "<description>"
+withdraw
+insert "02-01-1970 17:11" "04-01-1970 18:43" "<description>"
+delete "17-01-1970 05:33"
+invalid
+withdraw
+remove
+join "CSC"
+undo
+logon "Andrew"
+delete "03-01-1970 08:24"
+delete "22-01-1970 17:00"
+undo
+create "COMP201"
+logon "May"
+insert "04-01-1970 04:29" "18-01-1970 06:20" "<description>" CSC
+insert "06-01-1970 04:56" "26-01-1970 00:55" "<description>" drawing
+create "committee"
+delete "06-01-1970 10:14"
+insert "06-01-1970 16:09" "23-01-1970 19:59" "<description>"
+insert "04-01-1970 20:31" "14-01-1970 17:11" "<description>" CSC
+insert "17-01-1970 12:52" "12-01-1970 06:36" "<description>" group11
+logon "Horner"
+undo
+insert "08-01-1970 19:50" "12-01-1970 21:52" "<description>" committee
+logoff
+logoff
+logoff
+logon "sqaure"
+invalid
+undo
+undo
+withdraw
+undo
+withdraw
+withdraw
+delete "08-01-1970 23:32"
+invalid
+join "COMP201"
+remove
+join "CSC"
+undo
+delete "04-01-1970 08:47"
+insert "09-01-1970 16:42" "23-01-1970 17:15" "<description>" COMP104
+logoff
+logoff "Andrea" "<email>" 
+
+logoff
+logoff "Andrea" "<email>" 
+logoff
+insert "02-01-1970 01:40" "06-01-1970 19:12" "<description>" student
+withdraw
+insert "10-01-1970 18:26" "24-01-1970 06:23" "<description>" csFamily
+insert "16-01-1970 03:59" "19-01-1970 11:04" "<description>" flying
+insert "17-01-1970 04:26" "16-01-1970 11:24" "<description>" joking
+create "flying"
+create "flying"
+undo
+logoff
+insert "26-01-1970 01:10" "13-01-1970 01:57" "<description>"
+logon "CSC"
+undo
+create "tv"
+insert "19-01-1970 00:08" "04-01-1970 03:52" "<description>" CSC
+withdraw
+withdraw
+insert "15-01-1970 22:45" "21-01-1970 05:04" "<description>"
+create "COMP104"
+join "COMP104"
+logon "carin"
+undo
+withdraw
+insert "11-01-1970 13:28" "14-01-1970 09:23" "<description>" COMP104
+withdraw "COMP104"
+create "joking"
+invalid
+undo
+insert "22-01-1970 06:09" "03-01-1970 08:08" "<description>" KAROAKE
+create "COMP201"
+logoff
+remove
+logoff
+delete "08-01-1970 22:35"
+invalid
+remove
+remove
+withdraw
+remove
+remove
+remove
+join "csFamily"
+insert "08-01-1970 23:06" "23-01-1970 01:17" "<description>" flying
+join "flying"
+insert "11-01-1970 19:07" "10-01-1970 06:21" "<description>"
+invalid
+remove
+logon "Bonnie"
+logon "Apple"
+insert "06-01-1970 16:38" "14-01-1970 15:41" "<description>" joking
+logon "qoe"
+logoff
+insert "25-01-1970 07:52" "09-01-1970 06:49" "<description>"
+delete "03-01-1970 21:14"
+logon "Andrew"
+logoff
+logoff
+create "student"
+join "COMP104"
+create "Professer"
+undo
+invalid
+insert "11-01-1970 11:36" "02-01-1970 23:50" "<description>"
+logon "qoe"
+logon "Mandy"
+logon "Felix"
+insert "15-01-1970 07:22" "02-01-1970 08:42" "<description>" joking
+remove
+remove
+undo
+invalid
+remove
+logon "Jon"
+undo
+create "hiking"
+logon "ar Lo"
+logon "CSC"
+undo
+insert "09-01-1970 21:07" "25-01-1970 19:26" "<description>" TV
+logoff
+withdraw
+remove
+delete "11-01-1970 06:40"
+delete "09-01-1970 05:07"
+join "House4"
+undo
+insert "20-01-1970 05:27" "08-01-1970 02:31" "<description>" House4
+remove
+undo
+invalid
+undo
+delete "09-01-1970 15:45"
+create "student"
+logoff
+insert "01-01-1970 20:13" "23-01-1970 13:16" "<description>" COMP201
+withdraw
+delete "13-01-1970 04:23"
+delete "17-01-1970 02:29"
+delete "23-01-1970 08:33"
+logon "Bear" fake
+
+logon "Bear" fake
+create "House2"
+remove
+logon "qoe"
+logon "Andrea"
+undo
+insert "15-01-1970 07:59" "15-01-1970 15:59" "<description>" COMP201
+join "flying"
+join "flying"
+logoff
+invalid
+delete "23-01-1970 18:46"
+insert "18-01-1970 02:14" "20-01-1970 10:20" "<description>"
+delete "25-01-1970 01:42"
+insert "07-01-1970 13:31" "16-01-1970 16:15" "<description>" House4
+undo
+join "tv"
+remove
+logoff
+logoff
+undo
+join "CSC"
+insert "02-01-1970 07:30" "23-01-1970 15:52" "<description>"
+insert "03-01-1970 21:36" "11-01-1970 14:53" "<description>" flying
+remove
+invalid
+delete "14-01-1970 00:58"
+invalid
+delete "22-01-1970 18:40"
+withdraw
+delete "16-01-1970 10:38"
+insert "14-01-1970 00:19" "14-01-1970 01:44" "<description>" tv
+undo
+invalid
+insert "25-01-1970 18:39" "25-01-1970 06:10" "<description>" drawing
+invalid
+insert "05-01-1970 14:35" "09-01-1970 23:03" "<description>" csFamily
+join "csFamily"
+logoff
+join "COMP201"
+undo
+insert "08-01-1970 12:23" "02-01-1970 09:55" "<description>" KAROAKE
+create "tv"
+delete "05-01-1970 22:41"
+insert "22-01-1970 17:11" "12-01-1970 08:08" "<description>" pair
+undo
+insert "20-01-1970 07:46" "09-01-1970 20:28" "<description>" COMP104
+create "group11"
+logon "triangle"
+invalid
+invalid
+logon "sqaure"
+withdraw
+logon "Bear"
+insert "12-01-1970 22:04" "17-01-1970 18:00" "<description>" Professer
+invalid
+create "COMP104"
+logoff
+insert "08-01-1970 05:00" "20-01-1970 20:39" "<description>" committee
+logoff
+delete "03-01-1970 19:44"
+insert "08-01-1970 04:07" "22-01-1970 22:43" "<description>"
+undo
+logon "ar Lo"
+join "COMP104"
+invalid
+delete "02-01-1970 11:11"
+undo
+delete "19-01-1970 02:30"
+remove
+undo
+logoff
+logon "carin"
+insert "14-01-1970 19:20" "02-01-1970 04:21" "<description>" TV
+invalid
+insert "17-01-1970 08:51" "17-01-1970 18:42" "<description>" COMP201
+remove
+logon "Kenny"
+logon "CSC"
+delete "15-01-1970 16:44"
+insert "14-01-1970 15:10" "20-01-1970 15:53" "<description>"
+invalid
+insert "07-01-1970 02:48" "01-01-1970 11:24" "<description>" CSC
+undo
+insert "24-01-1970 16:02" "11-01-1970 04:25" "<description>"
+undo
+insert "14-01-1970 15:22" "20-01-1970 14:49" "<description>" TV
+logoff
+logoff
+insert "20-01-1970 17:35" "10-01-1970 13:04" "<description>" House2
+insert "22-01-1970 07:00" "05-01-1970 17:48" "<description>" csFamily
+logon "Bear"
+logoff
+create "committee"
+delete "03-01-1970 00:02"
+insert "25-01-1970 19:55" "17-01-1970 21:44" "<description>"
+withdraw
+logoff
+create "House2"
+invalid
+logon "Andrew" fake
+
+logon "Andrew" fake
+logon "Apple"
+insert "22-01-1970 12:04" "12-01-1970 23:42" "<description>" House4
+insert "19-01-1970 00:20" "20-01-1970 16:01" "<description>" TV
+logon "ar Lo"
+logoff
+insert "25-01-1970 14:44" "16-01-1970 10:11" "<description>"
+logoff
+insert "12-01-1970 19:41" "23-01-1970 23:42" "<description>" Professer
+logon "Andrew"
+logon "Andrew"
+insert "03-01-1970 18:16" "02-01-1970 01:00" "<description>" COMP104
+logon "Bear"
+
+
+## COMP104 should have been joined
+join "COMP104"
+
+
+## added manually
+;;print
+;;insert "21-01-1980 22:16" "19-01-1990 18:18" "<description>" COMP104
+;;print
+
+
+invalid
+join "House2"
+withdraw
+delete "05-01-1970 07:16"
+join "csFamily"
+join "flying"
+join "House2"
+create "playing"
+insert "02-01-1970 18:06" "09-01-1970 11:28" "<description>"
+
+
+## I think this command will be "undone"
+print
+join "House4"
+print
+
+
+<--------------------------
+;;remove
+;;logon "Kenny"
+;;delete "06-01-1970 18:31"
+-------------------------->
+
+
+## joining is not permitted (Andrew joined this Group b4)
+join "COMP104"
+
+
+<--------------------------
+;;insert "21-01-1970 22:16" "19-01-1970 18:18" "<description>" COMP104
+;;logon "qoe"
+-------------------------->
+
+

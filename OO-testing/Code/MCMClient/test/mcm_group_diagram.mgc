@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="mcm.Group" x="190" y="452">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="mcm.WithdrawGroup" x="792" y="211">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Association destinationClassName="mcm.Participates"
+            endpointName="participates" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+        <Communication destinationClassName="mcm.JoinGroup"/>
+        <Communication destinationClassName="mcm.Participates"/>
+    </Class>
+    <Class name="mcm.JoinGroup" x="548" y="224">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Association destinationClassName="mcm.Participates"
+            endpointName="participates" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+        <Communication destinationClassName="mcm.WithdrawGroup"/>
+        <Communication destinationClassName="mcm.Participates"/>
+    </Class>
+    <Class name="mcm.Participates" x="594" y="459">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="mcm.Group"
+            endpointName="group" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+    </Class>
+    <Class name="mcm.Command" x="355" y="55">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="mcm.RemoveGroup" x="330" y="217">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Association destinationClassName="mcm.Group"
+            endpointName="group" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+        <Communication destinationClassName="mcm.JoinGroup"/>
+        <Communication destinationClassName="mcm.Participates"/>
+        <Communication destinationClassName="mcm.CreateGroup"/>
+    </Class>
+    <Class name="mcm.CreateGroup" x="80" y="219">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Association destinationClassName="mcm.Group"
+            endpointName="group" kind="Simple"/>
+        <Communication destinationClassName="mcm.Group"/>
+        <Communication destinationClassName="mcm.Participates"/>
+        <Communication destinationClassName="mcm.RemoveGroup"/>
+    </Class>
+</ClassDiagram>

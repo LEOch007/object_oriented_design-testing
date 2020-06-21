@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="mcm.MCMClient" x="306" y="53">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="mcm.MCMInterface"
+            endpointName="server" kind="Simple"/>
+        <Association destinationClassName="mcm.MainPage"
+            endpointName="mainPage" kind="Simple"/>
+        <Association destinationClassName="mcm.LoginPage"
+            endpointName="loginPage" kind="Simple"/>
+        <Communication destinationClassName="mcm.MainPage"/>
+    </Class>
+    <Class name="mcm.MainPage" x="41" y="47">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="mcm.MCMInterface"
+            endpointName="server" kind="Simple"/>
+        <Association destinationClassName="mcm.MCMClient"
+            endpointName="frame" kind="Simple"/>
+        <Communication destinationClassName="mcm.MCMClient"/>
+        <Communication destinationClassName="mcm.MCMInterface"/>
+    </Class>
+    <Class name="mcm.LoginPage" x="631" y="111">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="mcm.MCMClient"
+            endpointName="frame" kind="Simple"/>
+    </Class>
+    <Class name="mcm.HistoryPage" x="527" y="239">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Association destinationClassName="mcm.MCMClient"
+            endpointName="frame" kind="Simple"/>
+    </Class>
+    <Class name="mcm.MCMInterface" x="283" y="499">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+</ClassDiagram>

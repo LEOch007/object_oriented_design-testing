@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <Class name="mcm.Undo" x="17" y="458">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.UnregisterUser" x="247" y="50">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.JoinGroup" x="450" y="594">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.InsertAppointment"/>
+        <Communication destinationClassName="mcm.WithdrawGroup"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.Exit" x="708" y="506">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.Command" x="336" y="271">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="mcm.RetrieveInformation" x="709" y="361">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+    </Class>
+    <Class name="mcm.LogOn" x="488" y="50">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+    </Class>
+    <Class name="mcm.MCMInterface" x="714" y="170">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+    </Class>
+    <Class name="mcm.InsertAppointment" x="20" y="166">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.DeleteAppointment"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.DeleteAppointment" x="20" y="299">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.InsertAppointment"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.WithdrawGroup" x="674" y="590">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.InsertAppointment"/>
+        <Communication destinationClassName="mcm.JoinGroup"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+    <Class name="mcm.RegisterUser" x="26" y="55">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+    </Class>
+    <Class name="mcm.LogOff" x="714" y="48">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+    </Class>
+    <Class name="mcm.RemoveGroup" x="229" y="593">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.InsertAppointment"/>
+        <Communication destinationClassName="mcm.JoinGroup"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+        <Communication destinationClassName="mcm.CreateGroup"/>
+    </Class>
+    <Class name="mcm.CommandParser" x="710" y="279">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.MCMInterface"/>
+        <Communication destinationClassName="mcm.Command"/>
+    </Class>
+    <Class name="mcm.CreateGroup" x="19" y="573">
+        <AttributesDisplayFilter public-accepted="true"
+            private-accepted="true" protected-accepted="true"
+            default-accepted="true" static-accepted="false"/>
+        <MethodDisplayFilter public-accepted="true"
+            private-accepted="false" protected-accepted="false"
+            default-accepted="false" static-accepted="false"
+            accessors-accepted="false" constructors-accepted="false"/>
+        <Extension destinationClassName="mcm.Command"/>
+        <Communication destinationClassName="mcm.RemoveGroup"/>
+        <Communication destinationClassName="mcm.RetrieveInformation"/>
+    </Class>
+</ClassDiagram>
